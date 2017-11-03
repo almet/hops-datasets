@@ -17,6 +17,7 @@ def scrap_yakima():
             details = list(content.find('.hop-composition__value').items())
 
             return {
+                'description': list(content.find('p').items())[10].text().strip(),
                 'myrcene': details[4].text(),
                 'caryophyllene': details[5].text(),
                 'farnesene': details[6].text(),
@@ -72,8 +73,8 @@ def scrap_simplehops():
     return varieties
 
 
-with codecs.open('data/barthhaasgroup.yaml', 'w+') as f:
-    f.write(yaml.dump(scrap_simplehops(), allow_unicode=True, default_flow_style=False))
+# with codecs.open('data/barthhaasgroup.yaml', 'w+') as f:
+#     f.write(yaml.dump(scrap_simplehops(), allow_unicode=True, default_flow_style=False))
 
 
 with codecs.open('data/yakima.yaml', 'w+') as f:

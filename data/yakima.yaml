@@ -5,9 +5,8 @@ admiral:
   beta: 4 - 6%
   caryophyllene: 6 - 8% of total oil
   cohumulone: 37 - 45% of alpha acids
-  description: "\n                  A high alpha hop with balanced bitterness and\
-    \ an acceptable aroma profile; a versatile replacement for both high alpha and...\n\
-    \                "
+  description: A high alpha hop with balanced bitterness and an acceptable aroma profile;
+    a versatile replacement for both high alpha and dual purpose varieties.
   farnesene: 0 - 2% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 23 - 26% of total oil
@@ -22,9 +21,10 @@ ahtanum:
   beta: 4 - 6%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 30 - 34% of alpha acids
-  description: "\n                  Bred by Select Botanicals Group, Ahtanum® Brand\
-    \ YCR 1 is an aroma-type cultivar used for its aromatic properties and moderate...\n\
-    \                "
+  description: Bred by Select Botanicals Group, Ahtanum® Brand YCR 1 is an aroma-type
+    cultivar used for its aromatic properties and moderate bittering. The hop is named
+    after the location where Charles Carpenter established the first hop farm east
+    of the Cascade Mountains in Washington State in 1869.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 9 - 12% of total oil
@@ -40,9 +40,12 @@ amarillo:
   beta: 5.5 - 8%
   caryophyllene: 40 - 50% of total oil
   cohumulone: 20 - 24% of alpha acids
-  description: "\n                  Discovered and introduced by Virgil Gamache Farms\
-    \ in Washington State, Amarillo® Brand VGXP01 cv. is an aroma variety that...\n\
-    \                "
+  description: Discovered and introduced by Virgil Gamache Farms in Washington State,
+    Amarillo® Brand VGXP01 cv. is an aroma variety that has recently become one of
+    the top 10 varieties utilized by the craft beer industry. It features relatively
+    high alpha acids along with extremely high levels of myrcene for citrus and grapefruit
+    flavors. As a result, it is an excellent dual purpose variety. Amarillo demonstrates
+    good resistance to downy and powdery mildew.
   farnesene: 0.5 - 0.8% of total oil
   geraniol: 6 - 9% of total oil
   humulene: 7 - 10% of total oil
@@ -57,9 +60,8 @@ aramis:
   beta: 3.8 - 4.5%
   caryophyllene: 7.3 - 7.5% of total oil
   cohumulone: 20 - 21% of alpha acids
-  description: "\n                  Closely resembling Strisselspalt, but with higher\
-    \ oil and alpha content, Aramis is the first variety from the Comptoir...\n  \
-    \              "
+  description: Closely resembling Strisselspalt, but with higher oil and alpha content,
+    Aramis is the first variety from the Comptoir Agricole breeding program.
   farnesene: 2 - 4% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 20.9 - 21.1% of total oil
@@ -74,9 +76,9 @@ aurora:
   beta: 2.7 - 4.4%
   caryophyllene: 6 - 9% of total oil
   cohumulone: 20 - 26% of alpha acids
-  description: "\n                  A diploid hybrid of Northern Brewer and a TG seedling\
-    \ of unknown origin, Aurora displays an intense yet pleasant aroma in...\n   \
-    \             "
+  description: A diploid hybrid of Northern Brewer and a TG seedling of unknown origin,
+    Aurora displays an intense yet pleasant aroma in finished beers. It is also known
+    as Super Styrian.
   farnesene: 5 - 10% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 20 - 25% of total oil
@@ -92,9 +94,10 @@ bitter-gold:
   beta: 4.5 - 6%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 36 - 41% of alpha acids
-  description: "\n                  Released in 1999, Bitter Gold is a high alpha\
-    \ variety with excellent aroma capabilities. Its lineage includes Brewer's Gold,...\n\
-    \                "
+  description: Released in 1999, Bitter Gold is a high alpha variety with excellent
+    aroma capabilities. Its lineage includes Brewer's Gold, Bullion, Comet and Fuggle.
+    Bitter Gold offers limited aroma when used as a bittering hop but delivers diverse
+    stone and tropical fruit flavors in later additions.
   farnesene: 0.4 - 0.7% of total oil
   geraniol: < 1.0% of total oil
   humulene: 7 - 11% of total oil
@@ -110,9 +113,8 @@ blanc:
   beta: 4.5 - 5.5%
   caryophyllene: 0 - 2% of total oil
   cohumulone: 22 - 26% of alpha acids
-  description: "\n                  Released in 2012, Hallertau Blanc is one of several\
-    \ new German varieties with bold flavor profiles, perfect for...\n           \
-    \     "
+  description: Released in 2012, Hallertau Blanc is one of several new German varieties
+    with bold flavor profiles, perfect for American-style Ales.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 0 - 3% of total oil
@@ -128,8 +130,7 @@ bobek:
   beta: 4 - 6.1%
   caryophyllene: 4 - 6% of total oil
   cohumulone: 27 - 31% of alpha acids
-  description: "\n                  A world-renowned couplet with moderate bitterness.\n\
-    \                "
+  description: A world-renowned couplet with moderate bitterness.
   farnesene: 4 - 7% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 13 - 19% of total oil
@@ -145,9 +146,8 @@ bramling-cross:
   beta: 2.3 - 3.2%
   caryophyllene: 14.9 - 15.1% of total oil
   cohumulone: 33 - 35% of alpha acids
-  description: "\n                  Developed at Wye College by Professor Salmon.\
-    \ Often used in traditional cask conditioned beers due to its distinct...\n  \
-    \              "
+  description: Developed at Wye College by Professor Salmon. Often used in traditional
+    cask conditioned beers due to its distinct characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 29.9 - 30.1% of total oil
@@ -162,9 +162,9 @@ bravo:
   beta: 3.5 - 5.5%
   caryophyllene: 55 - 60% of total oil
   cohumulone: 28 - 35% of alpha acids
-  description: "\n                  Developed by Hopsteiner Breeding Company and released\
-    \ in 2006, Bravo is a second generation super-alpha variety. It is an...\n   \
-    \             "
+  description: Developed by Hopsteiner Breeding Company and released in 2006, Bravo
+    is a second generation super-alpha variety. It is an excellent bittering variety
+    but showcases pleasant fruit and sweet floral aroma characteristics too.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 8% of total oil
@@ -179,9 +179,10 @@ brewers-gold:
   beta: 4 - 6.5%
   caryophyllene: 45 - 60% of total oil
   cohumulone: 40 - 48% of alpha acids
-  description: "\n                  Bred at Wye College in 1919, Brewer’s Gold is\
-    \ an ancestor to many major high alpha hops including Sterling, Galena, Horizon,...\n\
-    \                "
+  description: Bred at Wye College in 1919, Brewer’s Gold is an ancestor to many major
+    high alpha hops including Sterling, Galena, Horizon, Centennial and Nugget. It
+    is an English variety, however American-grown Brewer’s Gold contains higher levels
+    of alpha acids than its English counterpart.
   farnesene: 0.5 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 12% of total oil
@@ -196,9 +197,9 @@ bullion:
   beta: 4.1 - 4.6%
   caryophyllene: 40 - 55% of total oil
   cohumulone: 38 - 40% of alpha acids
-  description: "\n                  Strong and zesty blackcurrant characteristics.\
-    \ A major hop variety since the mid-1940s, however, product ceased in 1985 due...\n\
-    \                "
+  description: Strong and zesty blackcurrant characteristics. A major hop variety
+    since the mid-1940s, however, product ceased in 1985 due to super alpha hops with
+    better storage stability. Commonly used in darker beers.
   farnesene: 0.5 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 9 - 14% of total oil
@@ -213,9 +214,11 @@ cascade:
   beta: 6 - 7.5%
   caryophyllene: 45 - 60% of total oil
   cohumulone: 30 - 35% of alpha acids
-  description: "\n                  Originating from the USDA-ARA breeding program,\
-    \ Cascade is an aroma-type cultivar bred in 1956 and released in 1972. It was...\n\
-    \                "
+  description: Originating from the USDA-ARA breeding program, Cascade is an aroma-type
+    cultivar bred in 1956 and released in 1972. It was developed by open pollination
+    of a Fuggle seedling. Cascade is the most popular variety in craft brewing and
+    is known for having a unique floral, spicy and citrus character with balanced
+    bittering potential.
   farnesene: 0.3 - 0.6% of total oil
   geraniol: 6 - 9% of total oil
   humulene: 5 - 9% of total oil
@@ -230,9 +233,9 @@ celeia:
   beta: 2 - 3.3%
   caryophyllene: 8 - 9% of total oil
   cohumulone: 26 - 29% of alpha acids
-  description: "\n                  A hybrid of Styrian Golding, Aurora and a Slovenia\
-    \ wild hop, Celeia is known for its noble characteristics. It has widespread...\n\
-    \                "
+  description: A hybrid of Styrian Golding, Aurora and a Slovenia wild hop, Celeia
+    is known for its noble characteristics. It has widespread usage in lager and ale-style
+    beers.
   farnesene: 3 - 7% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 18 - 23% of total oil
@@ -247,9 +250,11 @@ centennial:
   beta: 3.5 - 5.5%
   caryophyllene: 55 - 65% of total oil
   cohumulone: 23 - 27% of alpha acids
-  description: "\n                  Bred in 1974 and released by Washington State\
-    \ University in 1990, Centennial is an aroma-type cultivar that has found favor...\n\
-    \                "
+  description: Bred in 1974 and released by Washington State University in 1990, Centennial
+    is an aroma-type cultivar that has found favor as one of the most popular varieties
+    in craft brewing. It is often referred to as a super-Cascade (containing nearly
+    double the alpha content) and can be used for bittering purposes. Centennial is
+    a diploid cross between Brewer's Gold and a USDA male.
   farnesene: 0.6 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 5 - 7% of total oil
@@ -264,9 +269,9 @@ challenger:
   beta: 4 - 4.5%
   caryophyllene: 9.5 - 9.5% of total oil
   cohumulone: 20 - 25% of alpha acids
-  description: "\n                  Bred at Wye College and introduced in 1972, Challenger\
-    \ is a granddaughter of Northern Brewer and niece of Northdown. It is a...\n \
-    \               "
+  description: Bred at Wye College and introduced in 1972, Challenger is a granddaughter
+    of Northern Brewer and niece of Northdown. It is a versatile variety with wide
+    application in both early and late kettle additions.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 25 - 25% of total oil
@@ -281,9 +286,8 @@ chelan:
   beta: 8.5 - 9.8%
   caryophyllene: 9 - 12% of total oil
   cohumulone: 33 - 35% of alpha acids
-  description: "\n                  Similar to Galena but with higher alpha acids,\
-    \ Chelan was developed by the John I Haas, Inc. breeding company and released\
-    \ in...\n                "
+  description: Similar to Galena but with higher alpha acids, Chelan was developed
+    by the John I Haas, Inc. breeding company and released in 1994.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 12 - 15% of total oil
@@ -298,9 +302,10 @@ chinook:
   beta: 3 - 4%
   caryophyllene: 20 - 30% of total oil
   cohumulone: 27 - 31% of alpha acids
-  description: "\n                  Developed by the USDA breeding program in Washington\
-    \ State and released in 1985 as a high alpha bittering variety, Chinook is...\n\
-    \                "
+  description: Developed by the USDA breeding program in Washington State and released
+    in 1985 as a high alpha bittering variety, Chinook is a cross between Petham Golding
+    and a USDA male. In recent years, it has found favor as a dual purpose hop in
+    the craft brewing community as a result of its spice and pine aroma characteristics.
   farnesene: 0.3 - 0.5% of total oil
   geraniol: < 1.0% of total oil
   humulene: 9 - 11% of total oil
@@ -316,9 +321,11 @@ citra:
   beta: 3 - 4.5%
   caryophyllene: 60 - 70% of total oil
   cohumulone: 20 - 24% of alpha acids
-  description: "\n                  Developed by Hop Breeding Company and released\
-    \ in 2007. Citra® Brand HBC 394 features fairly high alpha acids and total oil...\n\
-    \                "
+  description: Developed by Hop Breeding Company and released in 2007. Citra® Brand
+    HBC 394 features fairly high alpha acids and total oil contents with a low percentage
+    of co-humulone. It is tolerant to downy mildew and powdery mildew with good pickability
+    of dense, medium sized cones. Comprised of Hallertau Mittelfrüh, US Tettnang,
+    Brewer's Gold and East Kent Golding.
   farnesene: 0.6 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 5 - 8% of total oil
@@ -333,9 +340,11 @@ cluster:
   beta: 4 - 6%
   caryophyllene: 38 - 46% of total oil
   cohumulone: 36 - 41% of alpha acids
-  description: "\n                  Cluster is one of the oldest hop varieties grown\
-    \ in the United States and until the late 1970s, accounted for the majority of...\n\
-    \                "
+  description: Cluster is one of the oldest hop varieties grown in the United States
+    and until the late 1970s, accounted for the majority of the country’s hop acreage.
+    Its pedigree is unknown, however hybridization of imported varieties and indigenous
+    male hops has been suggested. Cluster is an excellent dual purpose hop and is
+    often used in the reproduction of historical beer styles.
   farnesene: 0.4 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 10% of total oil
@@ -351,9 +360,10 @@ columbus:
   beta: 4.5 - 6%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 28 - 30% of alpha acids
-  description: "\n                  Originally selected by Charles Zimmerman for Hopunion,\
-    \ Inc., Columbus is a descendant of Nugget. It is a high alpha variety...\n  \
-    \              "
+  description: Originally selected by Charles Zimmerman for Hopunion, Inc., Columbus
+    is a descendant of Nugget. It is a high alpha variety and is primarily used for
+    bittering purposes. Columbus is often referred to as CTZ, a trio of similar hops
+    including Tomahawk® and Zeus.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 10% of total oil
@@ -368,9 +378,12 @@ comet:
   beta: 4 - 5%
   caryophyllene: 40 - 55% of total oil
   cohumulone: 34 - 37% of alpha acids
-  description: "\n                  Selected in 1961 and released in 1974 by the USDA,\
-    \ Comet was originally utilized for its high alpha acid content and...\n     \
-    \           "
+  description: Selected in 1961 and released in 1974 by the USDA, Comet was originally
+    utilized for its high alpha acid content and adapability to growing conditions
+    in the Yakima Valley. Commercial production ceased in the early 1980s in favor
+    of newer super-alpha hops, however, Comet has made a recent comeback, finding
+    favor with some brewers in dual purpose applications for its subtle and unique,
+    "wild American" aroma.
   farnesene: 0.5 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 10 - 15% of total oil
@@ -385,9 +398,10 @@ crystal:
   beta: 6 - 8.5%
   caryophyllene: 30 - 55% of total oil
   cohumulone: 23 - 26% of alpha acids
-  description: "\n                  Bred in 1983 by the USDA, Crystal is a triploid\
-    \ aroma-type cultivar from Hallertau Mittelfrüh, Cascade, Brewer's Gold and...\n\
-    \                "
+  description: Bred in 1983 by the USDA, Crystal is a triploid aroma-type cultivar
+    from Hallertau Mittelfrüh, Cascade, Brewer's Gold and Early Green. It is primarily
+    grown in Oregon and has become increasingly popular among craft brewers due to
+    its versatility in a variety of beer styles.
   farnesene: 0.6 - 1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 5 - 12% of total oil
@@ -402,9 +416,11 @@ dr-rudi:
   beta: 7 - 8.5%
   caryophyllene: 10.1 - 10.1% of total oil
   cohumulone: 33 - 36% of alpha acids
-  description: "\n                  Developed at the New Zealand Horticultural Research\
-    \ Centre (now New Zealand Institute for Plant and Food Research) and...\n    \
-    \            "
+  description: Developed at the New Zealand Horticultural Research Centre (now New
+    Zealand Institute for Plant and Food Research) and released in 1976 as "Super
+    Alpha", Dr. Rudi is a triploid variety bred from New Zealand Smoothcone. Its name
+    was changed to Dr. Rudi in 2012. Dr. Rudi works well in single-hopped beers or
+    in conjunction with multiple aroma varieties.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 33.2 - 33.2% of total oil
@@ -420,9 +436,9 @@ east-kent-golding:
   beta: 1.9 - 2.8%
   caryophyllene: 12 - 16% of total oil
   cohumulone: 28 - 32% of alpha acids
-  description: "\n                  Developed from wild Canterbury Whitebine in the\
-    \ late 1700s, East Kent Godling is the quintessential English variety. It has...\n\
-    \                "
+  description: Developed from wild Canterbury Whitebine in the late 1700s, East Kent
+    Godling is the quintessential English variety. It has been used in kettle and
+    dry hopping and is known for is subtle citrus, floral and herbal characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 38 - 44% of total oil
@@ -438,9 +454,10 @@ ekuanot:
   beta: 4 - 5%
   caryophyllene: 30 - 45% of total oil
   cohumulone: 31 - 36% of alpha acids
-  description: "\n                  Developed by Hop Breeding Company and released\
-    \ in 2014, Ekuanot™ Brand HBC 366 features pronounced aroma characteristics and...\n\
-    \                "
+  description: Developed by Hop Breeding Company and released in 2014, Ekuanot™ Brand
+    HBC 366 features pronounced aroma characteristics and extremely high oil content.
+    This variety bursts out of the spring soil in vibrant yellow and gradually matures
+    to a deep green color by fall harvest.
   farnesene: 0.2 - 0.5% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 12% of total oil
@@ -455,9 +472,8 @@ ella:
   beta: 4.8 - 7.8%
   caryophyllene: 12 - 18% of total oil
   cohumulone: 34 - 38% of alpha acids
-  description: "\n                  Reminiscent of, yet distinctly different from,\
-    \ noble European varieties - one of the most versatile hops available.\n     \
-    \           "
+  description: Reminiscent of, yet distinctly different from, noble European varieties
+    - one of the most versatile hops available.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 16 - 22% of total oil
@@ -473,9 +489,11 @@ falconer:
   beta: 4.7 - 5.1%
   caryophyllene: 0 - 70% of total oil
   cohumulone: 0 - 48% of alpha acids
-  description: "\n                  Developed by Hopunion LLC in 2011, Falconer's\
-    \ Flight hop pellets are an exclusive proprietary hop blend created to honor and...\n\
-    \                "
+  description: Developed by Hopunion LLC in 2011, Falconer's Flight hop pellets are
+    an exclusive proprietary hop blend created to honor and support the legacy of
+    Northwest brewing legend, Glen Hay Falconer. Proceeds from each Falconer's Flight
+    purchase is contributed to the Glen Hay Falconer Foundation. These hop pellets
+    are an excellent complement to many IPA and Pale Ale-oriented hop varieties.
   farnesene: 0 - 2% of total oil
   geraniol: 0 - 20% of total oil
   humulene: 0 - 20% of total oil
@@ -491,9 +509,9 @@ first-gold:
   beta: 2.3 - 4.1%
   caryophyllene: 6 - 7% of total oil
   cohumulone: 32 - 34% of alpha acids
-  description: "\n                  Bred at Wye College in 1995, First Gold is a cross\
-    \ between WGV (Whitbread Golding Variety) and a dwarf male. It features many...\n\
-    \                "
+  description: Bred at Wye College in 1995, First Gold is a cross between WGV (Whitbread
+    Golding Variety) and a dwarf male. It features many of the flavor characteristics
+    of WGV and has found favor in both general kettle and late or dry hopping applications.
   farnesene: 2 - 4% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 20 - 24% of total oil
@@ -509,8 +527,8 @@ fuggle:
   beta: 2 - 3%
   caryophyllene: 9 - 13% of total oil
   cohumulone: 25 - 30% of alpha acids
-  description: "\n                  The most revered and famous English hop, known\
-    \ for its full bodied flavor in traditional ales.\n                "
+  description: The most revered and famous English hop, known for its full bodied
+    flavor in traditional ales.
   farnesene: 5 - 7% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 33 - 38% of total oil
@@ -526,9 +544,8 @@ galaxy:
   beta: 5 - 6.9%
   caryophyllene: 7 - 9% of total oil
   cohumulone: 32 - 42% of alpha acids
-  description: "\n                  Typically used as a late addition - the aroma\
-    \ and flavor characteristics become more pronounced the later the addition.\n\
-    \                "
+  description: Typically used as a late addition - the aroma and flavor characteristics
+    become more pronounced the later the addition.
   farnesene: 2 - 4% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 1 - 2% of total oil
@@ -544,9 +561,10 @@ galena:
   beta: 7.5 - 8.5%
   caryophyllene: 40 - 50% of total oil
   cohumulone: 34 - 39% of alpha acids
-  description: "\n                  Developed by the USDA breeding program in Idaho\
-    \ in 1968 and released in 1978, Galena is a high alpha variety with...\n     \
-    \           "
+  description: Developed by the USDA breeding program in Idaho in 1968 and released
+    in 1978, Galena is a high alpha variety with increasingly popular aroma characteristics.
+    It has moderate tolerance to downy mildew and is susceptible to powdery mildew,
+    but has good pickability of medium size, compact cones.
   farnesene: 0.1 - 0.3% of total oil
   geraniol: < 1.0% of total oil
   humulene: 5 - 9% of total oil
@@ -561,9 +579,10 @@ glacier:
   beta: 7 - 10%
   caryophyllene: 35 - 45% of total oil
   cohumulone: 13 - 16% of alpha acids
-  description: "\n                  Released in 2000 by Washington State University,\
-    \ Glacier is an offspring of French Elsasser, Brewer's Gold and Northern...\n\
-    \                "
+  description: Released in 2000 by Washington State University, Glacier is an offspring
+    of French Elsasser, Brewer's Gold and Northern Brewer. It was selected for its
+    good yield potential and low co-humulone, providing smoothness and balanced bitterness
+    in beer.
   farnesene: 0.8 - 1.1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 13% of total oil
@@ -590,9 +609,11 @@ golding:
   beta: 2 - 3.5%
   caryophyllene: 25 - 35% of total oil
   cohumulone: 25 - 28% of alpha acids
-  description: "\n                  Golding hops consist of a group of traditional\
-    \ English aroma varieties which have been cultivated since 1790. The cultivar...\n\
-    \                "
+  description: Golding hops consist of a group of traditional English aroma varieties
+    which have been cultivated since 1790. The cultivar originated in England and
+    the hops were named after villages in East Kent (Petham, Rothersham, Canterbury,
+    Eastwell). US Golding is the Canterbury strain. It is susceptible to downy mildew,
+    but has good pickability of small size, moderately compact cones.
   farnesene: 0.6 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 10 - 15% of total oil
@@ -608,9 +629,11 @@ green-bullet:
   beta: 6.5 - 7%
   caryophyllene: 9.1 - 9.3% of total oil
   cohumulone: 38 - 39% of alpha acids
-  description: "\n                  Green Bullet is a triploid alpha variety bred\
-    \ by open cross pollination of the New Zealand \"Smoothcone\" variety. Used...\n\
-    \                "
+  description: Green Bullet is a triploid alpha variety bred by open cross pollination
+    of the New Zealand "Smoothcone" variety. Used extensively as a utility brew house
+    workhorse and found in breweries across the world. This “go to” hop is a traditional
+    bittering type that now finds applications throughout the brewery from late additions
+    through the hop back/ whirlpool and dry hopping.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 28.1 - 28.3% of total oil
@@ -625,9 +648,10 @@ hallertau:
   beta: 2.5 - 6.5%
   caryophyllene: 18 - 25% of total oil
   cohumulone: 23 - 26% of alpha acids
-  description: "\n                  US Hallertau originates from the classic Hallertau\
-    \ variety of Germany. It is a noble aroma variety. Despite low yield and low...\n\
-    \                "
+  description: US Hallertau originates from the classic Hallertau variety of Germany.
+    It is a noble aroma variety. Despite low yield and low resistance to disease,
+    Hallertau remains a historic hop and is often celebrated in the production of
+    purist recipes and traditional beer styles.
   farnesene: 0.6 - 1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 10 - 15% of total oil
@@ -643,9 +667,10 @@ hallertau-mittlefruh:
   beta: 3 - 5%
   caryophyllene: 14.5 - 14.7% of total oil
   cohumulone: 18 - 28% of alpha acids
-  description: "\n                  This classic German aroma hop is often associated\
-    \ with Bavarian-style lager beers and distinguished by an intense,...\n      \
-    \          "
+  description: This classic German aroma hop is often associated with Bavarian-style
+    lager beers and distinguished by an intense, pleasantly-harmonic bitterness. At
+    one time, this was the major Hallertau landrace variety with a highly acclaimed
+    aroma profile.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 55 - 55.2% of total oil
@@ -661,9 +686,12 @@ hbc-431:
   beta: 4 - 5%
   caryophyllene: 0.5 - 0.5% of total oil
   cohumulone: 18 - 18% of alpha acids
-  description: "\n                  Bred by Hop Breeding Company but with little known\
-    \ family history, HBC 431 is a dual-purpose variety still in experimental...\n\
-    \                "
+  description: Bred by Hop Breeding Company but with little known family history,
+    HBC 431 is a dual-purpose variety still in experimental phase. It features a complex
+    assortment of aroma characteristics including fruit, earthy and herbal aromas.
+    Its fruit character has been described as peach, berry and tropical fruit. HBC
+    431 is well suited for a variety of beer styles that aim to deliver fine fruit
+    aromas. Bitterness potential is good.
   farnesene: 13 - 14% of total oil
   geraniol: 0.6 - 0.6% of total oil
   humulene: 22 - 26% of total oil
@@ -679,9 +707,11 @@ hbc-438:
   beta: 5.1 - 6%
   caryophyllene: 61 - 66% of total oil
   cohumulone: 23 - 25% of alpha acids
-  description: "\n                  Developed by Hop Breeding Company, HBC 438 is\
-    \ an experimental variety originating from the open pollination of YCR 123, a...\n\
-    \                "
+  description: Developed by Hop Breeding Company, HBC 438 is an experimental variety
+    originating from the open pollination of YCR 123, a cultivar derived from the
+    subspecies neomexicanus. It is the sister to the well-known experimental HBC 472
+    and exhibits many of the same characteristics. Specific aroma descriptors include
+    mango, coconut, grapefruit, lemon grass and wood.
   farnesene: 0.4 - 0.5% of total oil
   geraniol: < 1.0% of total oil
   humulene: 9.7 - 10.5% of total oil
@@ -696,9 +726,14 @@ hbc-472:
   beta: 7 - 9%
   caryophyllene: 0 - 0.1% of total oil
   cohumulone: 42 - 46% of alpha acids
-  description: "\n                  Bred by Hop Breeding Company through open pollination\
-    \ of a wild American hop, subspecies neomexicanus, HBC 472 is a dual...\n    \
-    \            "
+  description: Bred by Hop Breeding Company through open pollination of a wild American
+    hop, subspecies neomexicanus, HBC 472 is a dual purpose variety still in experimental
+    phase. The hop displays a unique aroma profile consisting of floral, wood, earth
+    and coconut characteristics. When hopped aggressively in IPA style beers, citrus
+    and grapefruit aromas emerge, along with a distinct whiskey.bourbon and coconut
+    character in the background. These characteristics are especially evident in darker,
+    malt-forward beers. HBC 472 lends itself well to full flavor beer styles such
+    as pale ales, IPAs, porters, stouts and barrel-aged beers.
   farnesene: 20 - 20% of total oil
   geraniol: 0 - 0.2% of total oil
   humulene: 1 - 2% of total oil
@@ -713,9 +748,12 @@ hbc-682:
   beta: 4.5 - 5.5%
   caryophyllene: 0.5 - 0.8% of total oil
   cohumulone: 30 - 32% of alpha acids
-  description: "\n                  A descendant of HBC 463 and a UK male, HBC 682\
-    \ is a super alpha hop cultivar still in the experimental phase. It has a mild...\n\
-    \                "
+  description: A descendant of HBC 463 and a UK male, HBC 682 is a super alpha hop
+    cultivar still in the experimental phase. It has a mild and pleasant aroma with
+    herbal, floral and spicy characteristics. When used as a bittering variety, HBC
+    682 provides a very neutral flavor and pleasant bitterness. In single hop applications,
+    it has been described as having a strong earthy aroma. HBC 682 is currently available
+    in limited quantities, and as a variety specific Resinate® CO2 Hop Extract product.
   farnesene: 4.5 - 5.5% of total oil
   geraniol: 2 - 2% of total oil
   humulene: 13 - 15% of total oil
@@ -730,9 +768,10 @@ helga:
   beta: 5 - 7%
   caryophyllene: 0.1 - 0.6% of total oil
   cohumulone: 20 - 23% of alpha acids
-  description: "\n                  Bred in 1986 and formerly known as Southern Hallertau,\
-    \ Helga™ is a descendant of Hallertau Mittelfrüh. Its brewing...\n           \
-    \     "
+  description: Bred in 1986 and formerly known as Southern Hallertau, Helga™ is a
+    descendant of Hallertau Mittelfrüh. Its brewing characteristics resemble that
+    of its parent, however it demonstrates a forgiving and refined character in a
+    variety of beer styles and hop applications.
   farnesene: 10 - 15% of total oil
   geraniol: 35 - 55% of total oil
   humulene: < 1.0% of total oil
@@ -747,8 +786,8 @@ herkules:
   beta: 4 - 5.5%
   caryophyllene: 7 - 12% of total oil
   cohumulone: 32 - 38% of alpha acids
-  description: "\n                  Bred at the Hop Research Center in Hüll, Germany,\
-    \ Herkules imparts robust, hoppy flavors.\n                "
+  description: Bred at the Hop Research Center in Hüll, Germany, Herkules imparts
+    robust, hoppy flavors.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 30 - 45% of total oil
@@ -763,9 +802,10 @@ hersbrucker:
   beta: 2.5 - 6%
   caryophyllene: 0.5 - 1% of total oil
   cohumulone: 17 - 25% of alpha acids
-  description: "\n                  A landrace variety originating from the Hersbruck\
-    \ region of Southern Germany, Hersbrucker has expanded and is now widely...\n\
-    \                "
+  description: A landrace variety originating from the Hersbruck region of Southern
+    Germany, Hersbrucker has expanded and is now widely grown throughout the Hallertau
+    and Spalt regions. It displays a delicate aroma profile that is often compared
+    to other noble varieties.
   farnesene: 8 - 13% of total oil
   geraniol: 20 - 30% of total oil
   humulene: < 1.0% of total oil
@@ -780,9 +820,10 @@ horizon:
   beta: 5.5 - 7.5%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 16 - 19% of alpha acids
-  description: "\n                  Bred in Oregon in 1970 and released in 1997, Horizon\
-    \ is a descendant of Brewer's Gold and half-sister to Nugget. Its low...\n   \
-    \             "
+  description: Bred in Oregon in 1970 and released in 1997, Horizon is a descendant
+    of Brewer's Gold and half-sister to Nugget. Its low co-humulone is similar to
+    noble varieties and provides smoothness to beer, however alpha acid levels can
+    reach as high as 12%. Horizon can be utilized in every stage of the brewing process.
   farnesene: 0.9 - 1.5% of total oil
   geraniol: 3 - 5% of total oil
   humulene: 8 - 14% of total oil
@@ -797,9 +838,8 @@ huell-melon:
   beta: 7.3 - 7.9%
   caryophyllene: 5 - 10% of total oil
   cohumulone: 25 - 30% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll, this\
-    \ hop variety has bold flavors and is not necessarily associated with typical...\n\
-    \                "
+  description: Bred at the Hop Research Institute in Hüll, this hop variety has bold
+    flavors and is not necessarily associated with typical hop variety aromas.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 10 - 20% of total oil
@@ -815,9 +855,10 @@ kohatu:
   beta: 4 - 5%
   caryophyllene: 11.5 - 11.5% of total oil
   cohumulone: 20 - 22% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 2011, Kohatu is a...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 2011, Kohatu is a descendant of Hallertau
+    Mittelfrüh. It works well in single hop applications and is described as having
+    intense fruit characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 36 - 37% of total oil
@@ -832,9 +873,10 @@ liberty:
   beta: 3 - 4%
   caryophyllene: 15 - 25% of total oil
   cohumulone: 22 - 24% of alpha acids
-  description: "\n                  Bred in 1983, Liberty is an extension of the Hallertau\
-    \ hop family. It is a half-sister to Ultra, Mt. Hood and Crystal....\n       \
-    \         "
+  description: Bred in 1983, Liberty is an extension of the Hallertau hop family.
+    It is a half-sister to Ultra, Mt. Hood and Crystal. Liberty demonstrates some
+    tolerance to downy mildew, is susceptible to powdery mildew and has small size
+    cones that can be difficult to harvest.
   farnesene: 0.6 - 1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 10 - 15% of total oil
@@ -850,9 +892,11 @@ loral:
   beta: 4.9 - 5.3%
   caryophyllene: 52 - 58% of total oil
   cohumulone: 21 - 24% of alpha acids
-  description: "\n                  Developed by Hop Breeding Company and released\
-    \ in 2016, Loral® Brand HBC 291 has a noble heritage that straddles the fence...\n\
-    \                "
+  description: Developed by Hop Breeding Company and released in 2016, Loral® Brand
+    HBC 291 has a noble heritage that straddles the fence between old and new world
+    hop aromatics. It has the ability to complement all beer styles, making it a very
+    versatile hop in the brewery. Loral® has been described as pleasant with floral,
+    citrus, peppery and some dark fruit characteristics.
   farnesene: 1 - 1.1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 5 - 5.7% of total oil
@@ -867,9 +911,11 @@ magnum:
   beta: 5.5 - 8%
   caryophyllene: 30 - 40% of total oil
   cohumulone: 23 - 28% of alpha acids
-  description: "\n                  Bred at the Hop Research Center in Hüll in 1980\
-    \ and released in 1993, Magnum is a German variety (also grown in the US) and...\n\
-    \                "
+  description: Bred at the Hop Research Center in Hüll in 1980 and released in 1993,
+    Magnum is a German variety (also grown in the US) and daughter of Galena. It is
+    a high alpha cultivar and is often used as the base bittering variety. Magnum
+    does not display any distinct aroma characteristics, however, subtle spice and
+    fruit characteristics have been noted by some brewers.
   farnesene: 0.4 - 0.7% of total oil
   geraniol: < 1.0% of total oil
   humulene: 7 - 12% of total oil
@@ -885,8 +931,8 @@ mandarina-bavaria:
   beta: 5 - 6.5%
   caryophyllene: 1 - 5% of total oil
   cohumulone: 31 - 35% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll, Mandarina\
-    \ Bavaria displays pleasant fruitiness in finished beers.\n                "
+  description: Bred at the Hop Research Institute in Hüll, Mandarina Bavaria displays
+    pleasant fruitiness in finished beers.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 5 - 15% of total oil
@@ -901,9 +947,11 @@ merkur:
   beta: 4.5 - 5.5%
   caryophyllene: 0.6 - 1.1% of total oil
   cohumulone: 18 - 20% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll and\
-    \ registered in 2001, Merkur was the first mildew-resistant hop variety from the...\n\
-    \                "
+  description: Bred at the Hop Research Institute in Hüll and registered in 2001,
+    Merkur was the first mildew-resistant hop variety from the research center. It
+    is a cross between Magnum and German experimental variety 81/8/13. It is a high
+    alpha variety with low co-humulone oil percentages. In some dual purpose applications,
+    Merkur displays subtle earth and citrus notes.
   farnesene: 8 - 10% of total oil
   geraniol: 28 - 32% of total oil
   humulene: < 1.0% of total oil
@@ -918,9 +966,9 @@ millennium:
   beta: 5 - 6.5%
   caryophyllene: 35 - 55% of total oil
   cohumulone: 29 - 35% of alpha acids
-  description: "\n                  Bred by the John I. Haas breeding program and\
-    \ released in 2000, Millennium is a super-alpha variety with mild, herbal aromas....\n\
-    \                "
+  description: Bred by the John I. Haas breeding program and released in 2000, Millennium
+    is a super-alpha variety with mild, herbal aromas. It is tolerant to downy mildew
+    and powdery mildew, and has good pickability of medium size cones.
   farnesene: 0.3 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 10% of total oil
@@ -936,9 +984,11 @@ mosaic:
   beta: 3 - 4.5%
   caryophyllene: 48 - 55% of total oil
   cohumulone: 21 - 25% of alpha acids
-  description: "\n                  Developed by Hop Breeding Company and released\
-    \ in 2012, Mosaic® Brand HBC 369 contains high alpha content and features a...\n\
-    \                "
+  description: Developed by Hop Breeding Company and released in 2012, Mosaic® Brand
+    HBC 369 contains high alpha content and features a unique and complex aroma profile
+    that translates favorably into a variety of beer styles. It is a daughter of Simcoe®
+    Brand YCR 14 and a Nugget derived male. Mosaic®  is named in honor of the artistic
+    assortment of aromas and flavors it is capable of presenting.
   farnesene: 0.4 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 3 - 8% of total oil
@@ -955,9 +1005,13 @@ motueka:
   beta: 5 - 5.5%
   caryophyllene: 1 - 3% of total oil
   cohumulone: 28 - 30% of alpha acids
-  description: "\n                  Bred as part of the Hops with a Difference programme,\
-    \ Motueka is an excellent hop in many applications from first kettle...\n    \
-    \            "
+  description: Bred as part of the Hops with a Difference programme, Motueka is an
+    excellent hop in many applications from first kettle additions through late gifting.
+    This hop offers a unique aroma and flavour profile suitable for producing bigger
+    styles. Excellent when employed in multiple additions from a single hop bill and
+    sits well on the palate to balance specialty malt sweetness. It is an excellent
+    variety for a wide range of styles from Saison through to Pilsners. It is extremely
+    versatile in the brewery.
   farnesene: 12.1 - 12.3% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 3.5 - 3.7% of total oil
@@ -972,9 +1026,10 @@ mt-hood:
   beta: 4.4 - 7.2%
   caryophyllene: 25 - 35% of total oil
   cohumulone: 21 - 25% of alpha acids
-  description: "\n                  Bred in 1983 and released from the USDA breeding\
-    \ program in Oregon in 1989, Mt. Hood is a triploid aroma type cultivar with...\n\
-    \                "
+  description: Bred in 1983 and released from the USDA breeding program in Oregon
+    in 1989, Mt. Hood is a triploid aroma type cultivar with similarities to German
+    Hallertau and German Hersbrucker. It is tolerant to downy mildew with good pickability
+    of medium size, compact cones. Mt. Hood is named after the famous Oregon volcano.
   farnesene: 0.5 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 10 - 16% of total oil
@@ -989,9 +1044,9 @@ mt-rainier:
   beta: 8 - 10%
   caryophyllene: 50 - 60% of total oil
   cohumulone: 21 - 23% of alpha acids
-  description: "\n                  Bred by Oregon State University, Mt. Rainier is\
-    \ a dual purpose variety with noble aroma characteristics. It is similar to the...\n\
-    \                "
+  description: Bred by Oregon State University, Mt. Rainier is a dual purpose variety
+    with noble aroma characteristics. It is similar to the classic German variety,
+    Hallertau Mittelfrüh, but features more bittering strength.
   farnesene: 0.6 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 10% of total oil
@@ -1007,9 +1062,11 @@ nelson-sauvin:
   beta: 6 - 8%
   caryophyllene: 10.7 - 10.7% of total oil
   cohumulone: 23 - 25% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 2000, Nelson Sauvin...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 2000, Nelson Sauvin is a triploid variety
+    bred from the New Zealand Smoothcone and a selected New Zealand male. It is known
+    for being one of the most unique hop varieties, displaying strong fruit and white
+    wine aroma characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 36.4 - 36.4% of total oil
@@ -1024,9 +1081,11 @@ newport:
   beta: 5.5 - 6.5%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 36 - 38% of alpha acids
-  description: "\n                  Bred in 1992 by Oregon State University and released\
-    \ in 1992 through the USDA, Newport is a descendant of the classic...\n      \
-    \          "
+  description: Bred in 1992 by Oregon State University and released in 1992 through
+    the USDA, Newport is a descendant of the classic bittering variety, Magnum. It
+    offers high alpha acid, co-humulone and myrcene content, offering more distinct
+    aroma characteristics than its parent. Newport is resistant to downy mildew and
+    powdery mildew and has good pickability of medium to large size, loose cones.
   farnesene: 0.3 - 0.7% of total oil
   geraniol: < 1.0% of total oil
   humulene: 7 - 11% of total oil
@@ -1042,8 +1101,8 @@ northdown:
   beta: 5 - 5.5%
   caryophyllene: 13 - 17% of total oil
   cohumulone: 24 - 30% of alpha acids
-  description: "\n                  An excellent dual purpose hop that works well\
-    \ on its own, or in conjunction with an aroma variety.\n                "
+  description: An excellent dual purpose hop that works well on its own, or in conjunction
+    with an aroma variety.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 40 - 45% of total oil
@@ -1058,9 +1117,11 @@ northern-brewer:
   beta: 3.5 - 5.5%
   caryophyllene: 35 - 45% of total oil
   cohumulone: 30 - 34% of alpha acids
-  description: "\n                  Bred in England in 1934 from a Canterbury Golding\
-    \ plant and male seedling of Brewer's Gold, Northern Brewer is mainly grown...\n\
-    \                "
+  description: Bred in England in 1934 from a Canterbury Golding plant and male seedling
+    of Brewer's Gold, Northern Brewer is mainly grown in the United States and Germany.
+    US Northern Brewer  contains slightly higher alpha acids and high myrcene oil
+    content resulting in herbal, wood and peppery aroma characteristics; it is suitable
+    for any stage of the brewing process.
   farnesene: 0.4 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 11 - 15% of total oil
@@ -1075,8 +1136,8 @@ nugget:
   beta: 4.4 - 5.5%
   caryophyllene: 40 - 50% of total oil
   cohumulone: 22 - 26% of alpha acids
-  description: "\n                  Nugget can be used as a bittering hop. It has\
-    \ pleasant, mild, herbal aromas.\n                "
+  description: Nugget can be used as a bittering hop. It has pleasant, mild, herbal
+    aromas.
   farnesene: 0.8 - 1% of total oil
   geraniol: < 1.0% of total oil
   humulene: 9 - 11% of total oil
@@ -1092,9 +1153,8 @@ opal:
   beta: 3.5 - 5.5%
   caryophyllene: 8 - 15% of total oil
   cohumulone: 13 - 17% of alpha acids
-  description: "\n                  Developed at the Hüll Research Center, Opal exhibits\
-    \ excellent aroma characteristics combined with a respectable alpha acid...\n\
-    \                "
+  description: Developed at the Hüll Research Center, Opal exhibits excellent aroma
+    characteristics combined with a respectable alpha acid level.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 30 - 50% of total oil
@@ -1110,9 +1170,14 @@ pacific-gem:
   beta: 7 - 9%
   caryophyllene: 10 - 12% of total oil
   cohumulone: 36 - 38% of alpha acids
-  description: "\n                  A triploid alpha type developed through the New\
-    \ Zealand Hop breeding program, Pacific Gem fills the brew house with enticing...\n\
-    \                "
+  description: A triploid alpha type developed through the New Zealand Hop breeding
+    program, Pacific Gem fills the brew house with enticing aromas during kettle addition
+    and has been described as producing oaken flavors with a distinct blackberry aroma.
+    It is typically used as a first hop addition and makes its presence felt through
+    an excellent tempered bitterness and flavor while later additions deliver citrus
+    and pine aroma notes. Pacific Gem is a good all purpose hop  that delivers quality
+    bitterness along with flavor and aromas. It is excellent in international lagers
+    and can also be used in IPA’s and other big styles.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 29.8 - 30% of total oil
@@ -1128,9 +1193,10 @@ pacific-jade:
   beta: 7 - 8%
   caryophyllene: 10.2 - 10.2% of total oil
   cohumulone: 23 - 25% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 2004, Pacific Jade is...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 2004, Pacific Jade is a cross of New Zealand
+    First Choice (a relative of the Late Cluster) and a Saaz male. It is suited for
+    use as a bittering hop but also delivers bold citrus and spice aroma characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 32.9 - 32.9% of total oil
@@ -1146,9 +1212,11 @@ pacifica:
   beta: 5.9 - 6.1%
   caryophyllene: 16.6 - 16.8% of total oil
   cohumulone: 24 - 26% of alpha acids
-  description: "\n                  A triploid aroma type developed through the HortResearch,\
-    \ New Zealand Hop Breeding programme, Pacifica brings something of a...\n    \
-    \            "
+  description: A triploid aroma type developed through the HortResearch, New Zealand
+    Hop Breeding programme, Pacifica brings something of a blend of new and old-world
+    taste descriptors to the brewers' forum. It is ideally suited to traditional German
+    lager styles but is finding wider application to a new generation through the
+    international craft market's insatiable thirst for Pale Ale.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 50.8 - 51% of total oil
@@ -1163,9 +1231,9 @@ palisade:
   beta: 5.5 - 8%
   caryophyllene: 45 - 52% of total oil
   cohumulone: 26 - 28% of alpha acids
-  description: "\n                  Developed by Select Botanicals Group, Palisade®\
-    \ Brand YCR 4 is known for its high yield and unique aroma profile. The variety...\n\
-    \                "
+  description: Developed by Select Botanicals Group, Palisade® Brand YCR 4 is known
+    for its high yield and unique aroma profile. The variety has low susceptibility
+    to powdery mildew but has good pickability of medium to large cones.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 16% of total oil
@@ -1180,9 +1248,10 @@ perle:
   beta: 3 - 4.5%
   caryophyllene: 30 - 45% of total oil
   cohumulone: 28 - 31% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll and\
-    \ released in 1978, Perle is a cross between Northern Brewer and 63/5/27M. It\
-    \ is...\n                "
+  description: Bred at the Hop Research Institute in Hüll and released in 1978, Perle
+    is a cross between Northern Brewer and 63/5/27M. It is tolerant to most diseases
+    and is grown in both Germany and the United States. Perle is known for adding
+    a traditional, German-like quality to beer.
   farnesene: 0.3 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 12 - 16% of total oil
@@ -1210,8 +1279,8 @@ pilgrim:
   beta: 4.3 - 5%
   caryophyllene: 7 - 8% of total oil
   cohumulone: 36 - 38% of alpha acids
-  description: "\n                  Often compared to UK Target, Pilgrim performs\
-    \ well as a replacement for high alpha or dual purpose hops.\n                "
+  description: Often compared to UK Target, Pilgrim performs well as a replacement
+    for high alpha or dual purpose hops.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 16.9 - 17.1% of total oil
@@ -1238,9 +1307,10 @@ polaris:
   beta: 4.5 - 6%
   caryophyllene: 0.1 - 0.4% of total oil
   cohumulone: 22 - 28% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll and\
-    \ released in 2012, Polaris was commercialized as a new, German variety in...\n\
-    \                "
+  description: Bred at the Hop Research Institute in Hüll and released in 2012, Polaris
+    was commercialized as a new, German variety in response to growing demand from
+    the craft beer industry for distinct flavor profiles. It features extremely high
+    alpha content along with intense mint flavors.
   farnesene: 8 - 13% of total oil
   geraniol: 20 - 35% of total oil
   humulene: < 1.0% of total oil
@@ -1255,9 +1325,9 @@ premiant:
   beta: 3.5 - 5.5%
   caryophyllene: 30 - 45% of total oil
   cohumulone: 18 - 23% of alpha acids
-  description: "\n                  Bred from Saaz and released in 1996, Premiant\
-    \ has a relatively high alpha content for Czech varieties. As a result, it has...\n\
-    \                "
+  description: Bred from Saaz and released in 1996, Premiant has a relatively high
+    alpha content for Czech varieties. As a result, it has found some application
+    as a dual purpose variety.
   farnesene: 0.4 - 0.7% of total oil
   geraniol: 1 - 3% of total oil
   humulene: 9 - 13% of total oil
@@ -1273,9 +1343,8 @@ pride-of-ringwood:
   beta: 4.4 - 7%
   caryophyllene: 9 - 14% of total oil
   cohumulone: 26 - 34% of alpha acids
-  description: "\n                  Bred in 1953 and commercially grown since the\
-    \ 1960s. One of Australia's most known and utilized hop varieties. Predominantly...\n\
-    \                "
+  description: Bred in 1953 and commercially grown since the 1960s. One of Australia's
+    most known and utilized hop varieties. Predominantly used for early kettle additions.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 2 - 4% of total oil
@@ -1290,9 +1359,10 @@ progress:
   beta: 2 - 2.7%
   caryophyllene: 12 - 15% of total oil
   cohumulone: 25 - 30% of alpha acids
-  description: "\n                  Bred at Wye College in 1951 and released in 1964,\
-    \ Progress is a cross between WGV (Whitbread Golding Variety) and a wild,...\n\
-    \                "
+  description: Bred at Wye College in 1951 and released in 1964, Progress is a cross
+    between WGV (Whitbread Golding Variety) and a wild, American male hop. It was
+    originally introduced as an alternative to Fuggle, but showcases a slightly sweeter
+    aroma.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 40 - 47% of total oil
@@ -1309,9 +1379,10 @@ rakau:
   beta: 5 - 6%
   caryophyllene: 5.2 - 5.2% of total oil
   cohumulone: 23 - 25% of alpha acids
-  description: "\n                  Re-released in 2007 from the New Zealand hop breeding\
-    \ program, Rakau is often described as “the whole orchard.” It is often...\n \
-    \               "
+  description: Re-released in 2007 from the New Zealand hop breeding program, Rakau
+    is often described as “the whole orchard.” It is often used in New World styles
+    where brash fruity character and big but well constructed bitterness is desired.
+    Rakau performs best when used in combination of late additions and dry hopping.
   farnesene: 4.5 - 4.5% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 16.3 - 16.3% of total oil
@@ -1327,9 +1398,11 @@ riwaka:
   beta: 4 - 5%
   caryophyllene: 3.9 - 4.1% of total oil
   cohumulone: 31 - 33% of alpha acids
-  description: "\n                  A triploid aroma type bred during the development\
-    \ of New Zealand Hops “Hops with a Difference” programme, Riwaka is a...\n   \
-    \             "
+  description: A triploid aroma type bred during the development of New Zealand Hops
+    “Hops with a Difference” programme, Riwaka is a quintessential New Zealand hop
+    variety. The pure weight of the oil character experienced during selection carries
+    right through to the glass and is a punchy addition to the New World styles of
+    Pales Ale and  New Zealand Pilsners.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 8.9 - 9.1% of total oil
@@ -1345,9 +1418,8 @@ saaz:
   beta: 4 - 6%
   caryophyllene: 26 - 40% of total oil
   cohumulone: 23 - 26% of alpha acids
-  description: "\n                  The classic \"noble\" aroma hop with long and\
-    \ strong traditions, associated with the renowned pilsner lager.\n           \
-    \     "
+  description: The classic "noble" aroma hop with long and strong traditions, associated
+    with the renowned pilsner lager.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: 14 - 20% of total oil
   humulene: 6 - 9% of total oil
@@ -1362,9 +1434,9 @@ santiam:
   beta: 7 - 8%
   caryophyllene: 15 - 25% of total oil
   cohumulone: 22 - 24% of alpha acids
-  description: "\n                  Released in 1997 by the USDA, Santiam is a triploid\
-    \ selection from Tettnang, Hallertau Mittelfrüh and a cultivar derived from...\n\
-    \                "
+  description: Released in 1997 by the USDA, Santiam is a triploid selection from
+    Tettnang, Hallertau Mittelfrüh and a cultivar derived from Cascade. It is an American
+    aroma variety with noble hop characteristics.
   farnesene: 0.8 - 1.2% of total oil
   geraniol: 14 - 18% of total oil
   humulene: 6 - 9% of total oil
@@ -1380,8 +1452,8 @@ saphir:
   beta: 4 - 7%
   caryophyllene: 9 - 14% of total oil
   cohumulone: 12 - 17% of alpha acids
-  description: "\n                  Saphir is a good aroma variety with a distinct\
-    \ hoppy tang and an average bitter value.\n                "
+  description: Saphir is a good aroma variety with a distinct hoppy tang and an average
+    bitter value.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 20 - 30% of total oil
@@ -1396,9 +1468,8 @@ savinjski-golding:
   beta: 2.5 - 3.5%
   caryophyllene: 9 - 11% of total oil
   cohumulone: 25 - 30% of alpha acids
-  description: "\n                  Originating from UK Fuggle, Styrian Savinjski\
-    \ Golding is a traditional Slovenian variety with pleasant bittering and noble...\n\
-    \                "
+  description: Originating from UK Fuggle, Styrian Savinjski Golding is a traditional
+    Slovenian variety with pleasant bittering and noble aroma characteristics.
   farnesene: 2 - 5% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 34 - 38% of total oil
@@ -1413,9 +1484,9 @@ select:
   beta: 2.4 - 5%
   caryophyllene: 1 - 1.5% of total oil
   cohumulone: 21 - 27% of alpha acids
-  description: "\n                  Bred at the Hop Research Center in Hüll and released\
-    \ in 1993, Select is often referred to as “Spalter Select.” It was bred to...\n\
-    \                "
+  description: Bred at the Hop Research Center in Hüll and released in 1993, Select
+    is often referred to as “Spalter Select.” It was bred to be like the Spalt, Tettnang,
+    and Saaz groups.
   farnesene: 4 - 10% of total oil
   geraniol: 10 - 22% of total oil
   humulene: 15 - 22% of total oil
@@ -1430,9 +1501,11 @@ simcoe:
   beta: 3 - 4.5%
   caryophyllene: 40 - 50% of total oil
   cohumulone: 17 - 21% of alpha acids
-  description: "\n                  Developed by Select Botanicals Group and released\
-    \ in 2000, Simcoe® Brand YCR 14 is known for its brewing versatility and...\n\
-    \                "
+  description: Developed by Select Botanicals Group and released in 2000, Simcoe®
+    Brand YCR 14 is known for its brewing versatility and unique aroma characteristics.
+    It contains high alpha and low-cohumlone which has found favor in the craft and
+    home brewing industries for dual purpose applications. Simcoe® is moderately tolerant
+    to powdery mildew and has good pickability of a medium size cone.
   farnesene: 0.5 - 0.9% of total oil
   geraniol: < 1.0% of total oil
   humulene: 8 - 14% of total oil
@@ -1447,9 +1520,8 @@ smaragd:
   beta: 3.5 - 5.5%
   caryophyllene: 9 - 14% of total oil
   cohumulone: 13 - 18% of alpha acids
-  description: "\n                  Formerly known as Emerald, Smaragd is a fine aroma\
-    \ variety with high bitter value. This variety shows high yields and good...\n\
-    \                "
+  description: Formerly known as Emerald, Smaragd is a fine aroma variety with high
+    bitter value. This variety shows high yields and good production characteristics.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 30 - 50% of total oil
@@ -1464,9 +1536,10 @@ sorachi-ace:
   beta: 6 - 7.5%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 25 - 28% of alpha acids
-  description: "\n                  Developed in Japan in 1984 for Sapporo Breweries,\
-    \ Ltd., Sorachi Ace is a cross between Brewer's Gold, Saaz and Beikei No. 2...\n\
-    \                "
+  description: Developed in Japan in 1984 for Sapporo Breweries, Ltd., Sorachi Ace
+    is a cross between Brewer's Gold, Saaz and Beikei No. 2 male. It is available
+    in limited quantities, however, it remains a popular variety among craft brewers
+    for its unique citrus fruit, herbal and dill aromas.
   farnesene: 0.3 - 0.5% of total oil
   geraniol: 2 - 5% of total oil
   humulene: 7 - 11% of total oil
@@ -1482,9 +1555,11 @@ southern-cross:
   beta: 5 - 6%
   caryophyllene: 6.7 - 6.7% of total oil
   cohumulone: 25 - 28% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 1994, Southern Cross...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 1994, Southern Cross is a triploid cross
+    between New Zealand Smoothcone and a 1950’s research variety bred from a crossing
+    of Californian and English Fuggle. It has excellent essential oils and low co-humulone
+    delivering a delicate balance of citrus and spice when added at the end of boil.
   farnesene: 7.3 - 7.3% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 20.8 - 20.8% of total oil
@@ -1511,9 +1586,9 @@ spalt:
   beta: 3 - 5%
   caryophyllene: 0.5 - 0.8% of total oil
   cohumulone: 22 - 29% of alpha acids
-  description: "\n                  A landrace variety originating from the Spalt\
-    \ region in Southern Germany, Spalt (or Spalter) is an aroma variety with...\n\
-    \                "
+  description: A landrace variety originating from the Spalt region in Southern Germany,
+    Spalt (or Spalter) is an aroma variety with characteristics similar to German
+    Tettnang. It belongs to the Saaz group and displays fine, noble characteristics.
   farnesene: 8 - 13% of total oil
   geraniol: 20 - 30% of total oil
   humulene: 12 - 18% of total oil
@@ -1528,9 +1603,9 @@ sterling:
   beta: 4.5 - 6%
   caryophyllene: 35 - 45% of total oil
   cohumulone: 22 - 27% of alpha acids
-  description: "\n                  Bred in 1990 and released in 1998, Sterling is\
-    \ an aroma variety with noble hop characteristics. It shows moderate tolerance...\n\
-    \                "
+  description: Bred in 1990 and released in 1998, Sterling is an aroma variety with
+    noble hop characteristics. It shows moderate tolerance to powdery mildew and has
+    good pickability of compact cones.
   farnesene: 0.6 - 0.9% of total oil
   geraniol: 15 - 19% of total oil
   humulene: 5 - 8% of total oil
@@ -1545,9 +1620,8 @@ strisselspalt:
   beta: 4 - 4.7%
   caryophyllene: 8 - 10% of total oil
   cohumulone: 20 - 23% of alpha acids
-  description: "\n                  Strisselpalt is from the Alsace area of France,\
-    \ near Strasbourg. It is globally accepted as a good aroma hop with similar...\n\
-    \                "
+  description: Strisselpalt is from the Alsace area of France, near Strasbourg. It
+    is globally accepted as a good aroma hop with similar characteristics to Hersbrucker.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 13 - 21% of total oil
@@ -1562,9 +1636,10 @@ summer:
   beta: 4.8 - 6.1%
   caryophyllene: 0.2 - 0.6% of total oil
   cohumulone: 20 - 25% of alpha acids
-  description: "\n                  Bred in 1997 at Tasmanian Bushy Park Breeding\
-    \ Garden, Summer™ is the result of open pollination of a tetraploid Czech Saaz....\n\
-    \                "
+  description: Bred in 1997 at Tasmanian Bushy Park Breeding Garden, Summer™ is the
+    result of open pollination of a tetraploid Czech Saaz. It features balanced citrus
+    and stone fruit flavors, but showcases distinct apricot and melon characteristics
+    in dry hopping applications.
   farnesene: 8 - 11% of total oil
   geraniol: 28 - 50% of total oil
   humulene: < 1.0% of total oil
@@ -1580,9 +1655,11 @@ summit:
   beta: 5 - 6.5%
   caryophyllene: 30 - 40% of total oil
   cohumulone: 29 - 32% of alpha acids
-  description: "\n                  Bred by the American Dwarf Hop Association and\
-    \ released in 2003, Summit™ is a cross between Lexus and an unspecified male...\n\
-    \                "
+  description: Bred by the American Dwarf Hop Association and released in 2003, Summit™
+    is a cross between Lexus and an unspecified male derived from numerous hops including
+    Zeus, Nugget and male USDA varieties. It is the first dwarf hop to be bred for
+    production in the United States. Summit™ is mainly used as a bittering hop, but
+    does have earthy aromatic characteristics and subtle hints of citrus.
   farnesene: 0.2 - 0.4% of total oil
   geraniol: < 1.0% of total oil
   humulene: 12 - 16% of total oil
@@ -1598,8 +1675,7 @@ super-pride:
   beta: 6 - 8%
   caryophyllene: 5 - 9% of total oil
   cohumulone: 26 - 29% of alpha acids
-  description: "\n                  Similar to Pride of Ringwood but with higher levels\
-    \ of alpha acids.\n                "
+  description: Similar to Pride of Ringwood but with higher levels of alpha acids.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 1 - 2% of total oil
@@ -1626,9 +1702,9 @@ sylva:
   beta: 3 - 4.6%
   caryophyllene: 5 - 8% of total oil
   cohumulone: 20 - 25% of alpha acids
-  description: "\n                  Bred in 1997 at Tasmanian Bushy Park Breeding\
-    \ Garden, Sylva™ is a result of open pollination of Czech Saaz. Brewing...\n \
-    \               "
+  description: Bred in 1997 at Tasmanian Bushy Park Breeding Garden, Sylva™ is a result
+    of open pollination of Czech Saaz. Brewing characteristics closely resemble that
+    of its parent, with complex yet subtle floral and herbal characteristics.
   farnesene: 25 - 25% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 18 - 27% of total oil
@@ -1644,9 +1720,10 @@ tahoma:
   beta: 7 - 8%
   caryophyllene: 55 - 65% of total oil
   cohumulone: 15 - 17% of alpha acids
-  description: "\n                  Released by Washington State University in 2013,\
-    \ Tahoma is one of three new public varieties to come to market. It retains...\n\
-    \                "
+  description: Released by Washington State University in 2013, Tahoma is one of three
+    new public varieties to come to market. It retains the very low cohumulone characteristic
+    of Glacier but displays slightly high alpha acid content. Tahoma is considered
+    to be "Cascade-like" with a pleasant and predominantly citrus aroma profile.
   farnesene: 0.4 - 0.8% of total oil
   geraniol: < 1.0% of total oil
   humulene: 3 - 5% of total oil
@@ -1662,7 +1739,7 @@ target:
   beta: 4.3 - 5.7%
   caryophyllene: 8 - 10% of total oil
   cohumulone: 35 - 40% of alpha acids
-  description: "\n                  A flexible hop.\n                "
+  description: A flexible hop.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 17 - 22% of total oil
@@ -1677,9 +1754,10 @@ tettnang:
   beta: 2.5 - 4%
   caryophyllene: 30 - 40% of total oil
   cohumulone: 25 - 28% of alpha acids
-  description: "\n                  Originating from the traditional landrace variety\
-    \ from Germany, Tettnang is from the Saaz group. It displays fine, noble...\n\
-    \                "
+  description: Originating from the traditional landrace variety from Germany, Tettnang
+    is from the Saaz group. It displays fine, noble characteristics with a slight
+    spiciness and is typically used in lager and pilsner style beers. US Tettnang
+    is grown in Washington State and Oregon.
   farnesene: 0.6 - 0.8% of total oil
   geraniol: 5 - 8% of total oil
   humulene: 10 - 14% of total oil
@@ -1695,9 +1773,10 @@ tomahawk:
   beta: 4.5 - 6%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 28 - 30% of alpha acids
-  description: "\n                  Bred by Chales Zimmermann, Tomahawk® Brand F10\
-    \ cv. was the first commercially grown “Super Alpha” variety. It is tolerant to...\n\
-    \                "
+  description: Bred by Chales Zimmermann, Tomahawk® Brand F10 cv. was the first commercially
+    grown “Super Alpha” variety. It is tolerant to downy mildew, but susceptible to
+    powdery mildew and features good pickability of large, compact cones. Tomahawk
+    is often referred to as CTZ, standing for Columbus, Tomahawk®, and Zeus.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 10% of total oil
@@ -1713,9 +1792,8 @@ tradition:
   beta: 3 - 6%
   caryophyllene: 10 - 15% of total oil
   cohumulone: 24 - 30% of alpha acids
-  description: "\n                  Bred at the Hop Research Institute in Hüll, Germany\
-    \ and registered in 1993, Tradition imparts beer with a harmonic...\n        \
-    \        "
+  description: Bred at the Hop Research Institute in Hüll, Germany and registered
+    in 1993, Tradition imparts beer with a harmonic bitterness.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 35 - 50% of total oil
@@ -1742,9 +1820,9 @@ triskel:
   beta: 4 - 4.7%
   caryophyllene: 6 - 6.2% of total oil
   cohumulone: 20 - 23% of alpha acids
-  description: "\n                  Developed in 2006 as a cross between Strisselspalt\
-    \ and Yeoman, Triskel contains many of the same characteristics as...\n      \
-    \          "
+  description: Developed in 2006 as a cross between Strisselspalt and Yeoman, Triskel
+    contains many of the same characteristics as Strisselspalt but displays a more
+    pronounced flavor profile.
   farnesene: < 1.0% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 13.4 - 13.6% of total oil
@@ -1759,9 +1837,11 @@ ultra:
   beta: 3.8 - 4%
   caryophyllene: 50 - 60% of total oil
   cohumulone: 23 - 38% of alpha acids
-  description: "\n                  Bred by the hops research program in Corvallis,\
-    \ Oregon in 1983 and released in 1995 by the USDA, Ultra is a triploid seedling...\n\
-    \                "
+  description: Bred by the hops research program in Corvallis, Oregon in 1983 and
+    released in 1995 by the USDA, Ultra is a triploid seedling of Hallertau mf. and
+    half sister to Mt. Hood, Liberty and Crystal. It is resistant to downy mildew
+    and features small size cones. Ultra is related to traditional German varieties
+    and can be utilized in similar applications.
   farnesene: 1 - 1.5% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 9% of total oil
@@ -1776,9 +1856,9 @@ vanguard:
   beta: 5.5 - 7%
   caryophyllene: 5 - 15% of total oil
   cohumulone: 18 - 20% of alpha acids
-  description: "\n                  Bred in 1982 by the USDA and released in 1997,\
-    \ Vanguard is an aroma variety with similar characteristics to Hallertau...\n\
-    \                "
+  description: Bred in 1982 by the USDA and released in 1997, Vanguard is an aroma
+    variety with similar characteristics to Hallertau Mittelfrüh. Vanguard is typically
+    utilized in traditional German-style beers as a noble type variety.
   farnesene: 0.2 - 0.4% of total oil
   geraniol: < 1.0% of total oil
   humulene: 13 - 17% of total oil
@@ -1794,9 +1874,11 @@ wai-iti:
   beta: 4.5 - 5.5%
   caryophyllene: 8.9 - 9.1% of total oil
   cohumulone: 22 - 24% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 2011, Wai-iti is a...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 2011, Wai-iti is a granddaughter of Liberty
+    and is derived from 1/3 Hallertau MIttelfrüh. Fresh peaches and stone fruit dominate
+    the aroma in single hopped beers and when combining with other varieties in late
+    additions. Wai-iti is best known for its fruity, aroma-driven results.
   farnesene: 12.9 - 13.1% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 27.9 - 28.1% of total oil
@@ -1812,9 +1894,12 @@ waimea:
   beta: 7 - 9%
   caryophyllene: 2.5 - 2.7% of total oil
   cohumulone: 22 - 24% of alpha acids
-  description: "\n                  Released from The New Zealand Institute for Plant\
-    \ & Food Research Limited’s Motueka Research Centre, Waimea is...\n          \
-    \      "
+  description: Released from The New Zealand Institute for Plant & Food Research Limited’s
+    Motueka Research Centre, Waimea is well-suited to dual purpose applications from
+    early kettle additions right through to dry hopping. It exudes quality bitterness
+    and aroma abound with fruity citrus and pine characters from this hop's big weight
+    of oil. A big hop for big beers, it an be used across a wide array of styles in
+    a variety of brewhouse and dry hopping applications.
   farnesene: 4.9 - 5.1% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 9.4 - 9.6% of total oil
@@ -1830,9 +1915,11 @@ wakatu:
   beta: 8.4 - 8.6%
   caryophyllene: 8.1 - 8.3% of total oil
   cohumulone: 28 - 30% of alpha acids
-  description: "\n                  Developed by the New Zealand Institute for Plant\
-    \ and Food Research hop breeding program and released in 1988, as Hallertau...\n\
-    \                "
+  description: Developed by the New Zealand Institute for Plant and Food Research
+    hop breeding program and released in 1988, as Hallertau Aroma, Wakatu was renamed
+    in 2011. It is a triplod variety with two thirds Hallertau Mittelfrüh parentage.
+    Wakatu is a well rounded variety with strong, fresh citrus characteristics and
+    some bittering capabilities.
   farnesene: 6.6 - 6.8% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 16.7 - 16.9% of total oil
@@ -1847,9 +1934,10 @@ warrior:
   beta: 4.4 - 6%
   caryophyllene: 40 - 50% of total oil
   cohumulone: 25 - 28% of alpha acids
-  description: "\n                  Developed by Select Botanicals Group, Warrior®\
-    \ Brand YCR 5 was selected for its high alpha content, low co-humulone, good...\n\
-    \                "
+  description: Developed by Select Botanicals Group, Warrior® Brand YCR 5 was selected
+    for its high alpha content, low co-humulone, good storage stability and tolerance
+    to powdery mildew. It is primarily used in brewing for its mild, clean bittering
+    properties and has good pickability of a medium size cone in the field.
   farnesene: 0.4 - 0.7% of total oil
   geraniol: < 1.0% of total oil
   humulene: 11 - 14% of total oil
@@ -1865,9 +1953,9 @@ whitbread-golding:
   beta: 2 - 3.3%
   caryophyllene: 11 - 15% of total oil
   cohumulone: 32 - 43% of alpha acids
-  description: "\n                  Developed through grower selection circa 1911,\
-    \ Whitbread Golding (WGV) is not a true Golding. It displays many similar...\n\
-    \                "
+  description: Developed through grower selection circa 1911, Whitbread Golding (WGV)
+    is not a true Golding. It displays many similar characteristics but has more robust
+    and slightly sweet, hoppy flavor.
   farnesene: 1 - 2% of total oil
   geraniol: 0 - 0% of total oil
   humulene: 35 - 42% of total oil
@@ -1882,9 +1970,10 @@ willamette:
   beta: 3 - 4.5%
   caryophyllene: 22 - 32% of total oil
   cohumulone: 28 - 32% of alpha acids
-  description: "\n                  Released in 1976 from the USDA breeding program,\
-    \ Willamette is a triploid seedling of English Fuggle. For years, it was the...\n\
-    \                "
+  description: Released in 1976 from the USDA breeding program, Willamette is a triploid
+    seedling of English Fuggle. For years, it was the most widely grown aroma variety
+    in the US. It is named after Oregon’s Willamette River which runs through the
+    heart of the state’s hop growing region.
   farnesene: 0.4 - 0.7% of total oil
   geraniol: 7 - 10% of total oil
   humulene: 12 - 14% of total oil
@@ -1899,9 +1988,8 @@ zeus:
   beta: 4 - 5.5%
   caryophyllene: 45 - 55% of total oil
   cohumulone: 26 - 31% of alpha acids
-  description: "\n                  Although genetically different, Zeus is often\
-    \ referred to as part of CTZ along with Columbus and Tomahawk®, a trio of similar...\n\
-    \                "
+  description: Although genetically different, Zeus is often referred to as part of
+    CTZ along with Columbus and Tomahawk®, a trio of similar hops.
   farnesene: 0.4 - 0.6% of total oil
   geraniol: < 1.0% of total oil
   humulene: 6 - 10% of total oil
