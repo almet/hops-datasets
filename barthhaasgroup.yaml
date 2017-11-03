@@ -1,0 +1,1536 @@
+admiral:
+  alpha: 13.0 - 16.0%
+  beta: 4.8 - 6.1%
+  caryophyllene: 6 - 8%
+  cohumulone: 37 - 45%
+  description: Admiral a été créé au Wye College dans le Kent diffusé en 1998. Moins
+    âpre que Target, mais avec des arômes très doux il faut donc l'utiliser en combinaison
+    avec d'autres variétés pour un houblonnage tardif ou à sec. Des cônes compacts
+    aux taux d'alpha élevés et un arôme de houblon subtil mais frais.
+  farnesene: 1 - 3%
+  myrcene: 39 - 48%
+  name: Admiral
+  total_oils: 1,0 - 1,7
+agnus:
+  alpha: 9.0 - 12.0 %
+  beta: 4.0 - 6.5 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: The name Agnus (Latin for lamb) is the Latin translation for the surname
+    of the Czech hop breeder Beránek. The hop variety was released in 2001 and was
+    the first high alpha variety in the assortment of Czech hop varieties.
+  farnesene: Non
+  myrcene: 40.0 - 55.0 %
+  name: Agnus
+  total_oils: Non
+ahtanum:
+  alpha: 5.7 - 6.3%
+  beta: 5.0 - 6.5%
+  caryophyllene: 9 - 12%
+  cohumulone: 30 - 35%
+  description: Ahtanum est un cultivar nommé d'après le district où il est cultivé,
+    près de Yakima. Ahtanum a un arôme séducteur avec d'exceptionnelles notes fleuries.  Il
+    est utilisé pour ses propriétés aromatiques et son léger pouvoir amérisant.
+  farnesene: <1%
+  myrcene: 50 - 55
+  name: Ahtanum
+  total_oils: 0,8 - 1,2
+amarillo-r:
+  alpha: 8.0 - 11.0%
+  beta: 6.0 - 7.0%
+  caryophyllene: 2 - 4%
+  cohumulone: 21 - 24%
+  description: Amarillo® est une variété aromatique d'origine récente, introduite
+    par Vigil Gamache Farms Inc. dans l'état de Washington. Une variété caractérisée
+    par son contenu moyen à élevé en alpha et faible en cohumulone. Son arôme rappelle
+    celui de Cascade. Le nom Amarillo® est d'origine espagnole et signifie "jaune".
+  farnesene: 2 - 4%
+  myrcene: 68 -70
+  name: Amarillo®
+  total_oils: 1,5 - 1,9
+aramis:
+  alpha: 7.9 - 8.3%
+  beta: 3.8 - 4.5%
+  caryophyllene: 8%
+  cohumulone: 21 - 25%
+  description: Le traditionnel Strisselspalt et la variété aromatique de houblon la
+    plus importante dans la région d'Alsace. Aramis a été développé dans le cadre
+    d'un programme d'élevage visant à lancer une nouvelle variété avec un profil aromatique
+    et des propriétés polyphénoliques similaires à ceux de Strisselspalt, mais disposant
+    de meilleurs arôme et attributs d'amertume.
+  farnesene: 2%
+  myrcene: 40%
+  name: Aramis
+  total_oils: 1,2 - 1,6
+azzaca:
+  alpha: 14 - 16%
+  beta: 4.0 - 5.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'Azacca™ is the lwa or the spirit of the agriculture and the farming
+    practices. The hop formerly known as #483 was released from the American Dwarf
+    Hop Association 2014.'
+  farnesene: Non
+  myrcene: Non
+  name: Azzaca
+  total_oils: 1.4 - 2.0
+boadicea:
+  alpha: 8.0 - 9.0%
+  beta: 3.2 - 4.2%
+  caryophyllene: 15 - 19%
+  cohumulone: 23 - 29%
+  description: Boadicea a un arôme anglais typique. C'est une variété naine relativement
+    récente qui a été cultivée et diffusée par le Wye College en 2004. Boadicea a
+    des caractéristiques délicates, légèrement fleuries et épicées avec un arôme aux
+    senteurs herbacées. En bouche, il a un soupçon de notes fleuries qui rappellent
+    un verger en fleur.  Les propriétés amérisantes de Boadicea sont légères et arrondies.
+  farnesene: 4 - 6%
+  myrcene: 30 - 34%
+  name: Boadicea
+  total_oils: 1,3 - 1,5
+bramling-cross:
+  alpha: 6.0 - 7.0%
+  beta: 2.2 - 2.8%
+  caryophyllene: 10 - 15%
+  cohumulone: 30 - 55%
+  description: Créé en 1927 au Wye College, dans le Kent, Bramling Cross est versatile,
+    s'adaptant au houblonnage tardif sur cuivre, au percolateur à houblon (Hop Back)
+    et à sec. Le combiner à d'autres variétés pour mettre en valeur ses caractéristiques
+    épicées ou fruitées. Un houblon typé et versatile qui, par ses caractéristiques
+    riches et fruitées contribue aux bières anglaises telles que British Bitter, Brown
+    Ale, Mild, Old Ale et Porter.
+  farnesene: <1%
+  myrcene: 28 - 38%
+  name: Bramling Cross
+  total_oils: 0,7 - 1,0
+bravo:
+  alpha: 14.0 - 17.0%
+  beta: 3.0 - 5.0%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Bravo is the second generation of a super high alpha variety. Released
+    in 2006, Bravo is a bitter hop with good resistance to powdery mildew and provides
+    pleasant fruity and floral aroma characteristics.
+  farnesene: Non
+  myrcene: 25 - 50
+  name: Bravo
+  total_oils: 1.6 - 2.4
+brewers-gold-de:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Prof. E. F. Salmon of Wye College in Kent, England, was responsible
+    for breeding the variety Brewers Gold. This variety is well known all over the
+    world, being planted around the globe on account of its moderate alpha acid content,
+    vigorous growth and high yield.
+  farnesene: Non
+  myrcene: Non
+  name: Brewers Gold DE
+  total_oils: Non
+brewers-gold-us:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Prof. E. F. Salmon of Wye College in Kent, England, was responsible
+    for breeding the variety Brewers Gold. This variety is well known all over the
+    world, being planted around the globe on account of its moderate alpha acid content,
+    vigorous growth and high yield.
+  farnesene: Non
+  myrcene: Non
+  name: Brewers Gold US
+  total_oils: Non
+bru-1:
+  alpha: 13.0-15.0%
+  beta: 8.0-10.0%
+  caryophyllene: 7-8%
+  cohumulone: 35-37%
+  description: An experimental variety, BRU-1 was developed through Brulotte Farms
+    in the Yakima Valley in 2016. This hop is one of the new American Aroma varieties,
+    popular for its fruity character and its ability to shine through in a beer.
+  farnesene: <1%
+  myrcene: 50-55%
+  name: Bru-1
+  total_oils: 1.5-2.0 ml/100g
+bullion:
+  alpha: 6.5 - 9.5%
+  beta: 4.5 - 5.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Bullion is a sister seedling from Brewers Gold. In 1919 Bullion raised
+    as a crossing between a female wild cultivate from Canada and an unknown English
+    male. It’s a late variety, which is less biny in the heads than other varieties.
+    On the contrary to the mother, Bullion is immune against the Mosaic virus.
+  farnesene: Non
+  myrcene: Non
+  name: Bullion
+  total_oils: 0.8 - 1.5
+cascade:
+  alpha: 4,5 - 7,0%
+  beta: 4,8 - 7,0%
+  caryophyllene: 3 - 6%
+  cohumulone: 33 - 40%
+  description: Cascade a fait partie du programme de culture du l'USDA en Oregon et
+    a été diffusé en tant que variété aromatique en 1972. Des cônes allongés, vert
+    foncés à l'arôme distinct et d'une intensité moyenne. Cascade est le houblon incontournable
+    des brasseries artisanales américaines.
+  farnesene: 3 - 7%
+  myrcene: 45 - 60
+  name: Cascade
+  total_oils: 0,7 - 1,4
+cascade-aus:
+  alpha: 5.3 –6.8%
+  beta: 4.2 –5.3%
+  caryophyllene: Non
+  cohumulone: 35 -42%
+  description: The Cascade mountains, with their volcanic origins give the cultivar
+    of the same name its medium-strong, very distinct, fragrant floral aroma. The
+    main features of this variety are its long, darkgreen cones and its low alpha
+    content.
+  farnesene: 8 -9%
+  myrcene: 35 -50%
+  name: Cascade AUS
+  total_oils: Non
+cascade-uk:
+  alpha: 5.3 - 6.8%
+  beta: 4.2 - 5.3%
+  caryophyllene: Non
+  cohumulone: 35 - 42%
+  description: Developed in Oregon, USA from parentage derived from Fuggle and Serebrianker,
+    it was released in 1971. It is the definitive hop used to produce American Pale
+    Ales. In Britain it was introduced into production in 2002 from virus-free meristem
+    stocks developed through Wye College and grows successfully as a tall, late-maturing
+    hop here. It delivers the same aroma notes as the US version, although is slightly
+    less intense. It shows considerable tolerance of powdery and downy mildews although
+    susceptible to aphids and very attractive to rabbits in the spring. It may show
+    some tolerance of wilt disease, but production is too limited to confirm this.
+  farnesene: 8 - 9%
+  myrcene: 35 - 50%
+  name: Cascade UK
+  total_oils: 0.7 - 1.2
+celeia:
+  alpha: 3.0 - 6.0%
+  beta: 2.0 - 3.3%
+  caryophyllene: 8 - 9%
+  cohumulone: 27 - 31%
+  description: Issu de Styrian Goldings (née Fuggles), de Aurora et de houblon sauvage,
+    avec des cônes ovales moyens, d'un vert profond. Utilisé principalement pour son
+    arôme qui confère des notes fraîches, fleuries, d'agrumes, d'orange et de citron,
+    adapté au houblonnage tardif.
+  farnesene: 3 - 7%
+  myrcene: 26 - 40%
+  name: Celeia
+  total_oils: 1,5 - 3,6
+centennial:
+  alpha: 9.5 - 11.5%
+  beta: 3.4 - 4.5%
+  caryophyllene: 5 - 8%
+  cohumulone: 29 - 30%
+  description: Nommé d'après le festival de l'état de Washington, Centennial est un
+    type aromatique de cultivar issu du programme de l'USDA pour la culture de houblon
+    à l'université de l'état de Washington State en 1974 il a été diffusé en 1990.
+    Centennial est un houblon aux arômes bien intégrés, on le nomme parfois Super
+    Cascade.
+  farnesene: <1%
+  myrcene: 45 - 55
+  name: Centennial
+  total_oils: 1,5 - 2,5
+challenger:
+  alpha: 6.5 - 8.5%
+  beta: 4.0 - 4.5%
+  caryophyllene: 8 - 10%
+  cohumulone: 20 - 25%
+  description: Bred at Wye College, introduced in 1972. Mid-size pale green cones
+    with medium Alpha level and good aromatic potential, tending to fresh verdant
+    character of hedgerow and verges, with floral, pine and grassy notes. Used to
+    good effect for both bittering and late aromas in many classic British Bitters
+    and Pale Ales.
+  farnesene: 1 - 3%
+  myrcene: 30 - 42%
+  name: Challenger
+  total_oils: 1.0 - 1.5
+chinook:
+  alpha: 12.0 - 14.0%
+  beta: 3.0 - 4.0%
+  caryophyllene: 9 - 11%
+  cohumulone: 29 - 35%
+  description: Chinook a été développé par le programme de culture de l'USDA dans
+    l'état de Washington, cette variété à alpha élevé a été diffusée en 1985. Ce cultivar
+    est nommé d'après une tribu amérindienne autochtone de la région des environs
+    de Washington. Cette variété pousse de manière vigoureuse dans toutes les régions.
+  farnesene: <1%
+  myrcene: 35 - 40
+  name: Chinook
+  total_oils: 1,7 - 2,7
+chinook-uk:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Chinook was developed by the USDA breeding program in Washington State
+    and released in 1985 as a high alpha variety. This cultivar takes its name from
+    a Native American tribe indigenous to the region around Washington. The variety
+    grows vigorously in all areas.
+  farnesene: Non
+  myrcene: Non
+  name: Chinook UK
+  total_oils: Non
+chinook-us:
+  alpha: 12.0 - 14.0%
+  beta: 3.0 - 4.0%
+  caryophyllene: Non
+  cohumulone: 29 - 35% of alpha acids
+  description: Chinook was developed by the U.S.D.A. breeding program in Washington
+    State and released in 1985 as a high alpha acids variety. The female parent is
+    one of the English Goldings. The variety grows vigorously in all growing areas
+    and yields best in the Yakima area. Alpha acids content is high while beta acids
+    content is low compared to other high alpha acids varieties. Aroma strength is
+    medium and storage stability is fair.
+  farnesene: Non
+  myrcene: 35 - 40%
+  name: Chinook US
+  total_oils: '1.7 - 2.7 '
+citra:
+  alpha: 11.0 - 13.0%
+  beta: 3.5 - 4.5%
+  caryophyllene: 6 - 8%
+  cohumulone: 22 - 24%
+  description: Citra est un nouveau houblon aromatique, connu pour son arôme et son
+    goût intenses. Diffusé par le Hop Breeding Company (une joint venture entre John
+    I Haas et le groupe Select Botanicals).  Comme son nom l'indique, son goût peut
+    être décrit en termes d'agrumes (citron et citron vert), de pamplemousse et d'autres
+    caractéristiques liées aux fruits tropicaux.
+  farnesene: <1%
+  myrcene: 60 - 65
+  name: Citra
+  total_oils: 2,2 - 2,8
+cluster:
+  alpha: 5.5 - 8.5%
+  beta: 4.5 - 5.5%
+  caryophyllene: 6 - 7%
+  cohumulone: 36 - 42%
+  description: Cluster est l'une des plus anciennes variétés cultivées aux EU. L'origine
+    du porte-greffe est incertaine. Jusqu'à la fin des années 1970, Cluster était
+    l'une des seules variétés cultivées aux EU et était plantée dans la plupart des
+    parcelles de houblon. Son contenu en acides alpha est moyen, son arôme est puissant
+    et la capacité de stockage des acides alpha compte parmi les meilleures au monde.
+  farnesene: 0%
+  myrcene: 45 - 55%
+  name: Cluster
+  total_oils: 0,4 - 0,8
+columbus:
+  alpha: 15.0 - 17.0%
+  beta: 4.5 - 5.0%
+  caryophyllene: 9 - 11%
+  cohumulone: 28 - 32%
+  description: The current Super High Alpha varieties, which in clude the names Columbus,
+    Tomahawk and Zeus (CTZ). The CTZ varieties are currently used extensively for
+    bittering.
+  farnesene: <1%
+  myrcene: 50 - 60%
+  name: Columbus
+  total_oils: 2,5 - 3,5
+comet-de:
+  alpha: 9.4 - 12.4 %
+  beta: 3.0 - 6.1 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: The hop cultivar Comet was bred as a high alpha variety for the states
+    of Washington and Idaho. Nowadays this hop, which stands out due to its very large
+    cones, is only grown on a small area.
+  farnesene: Non
+  myrcene: Non
+  name: Comet  DE
+  total_oils: 1.4 - 3.31 ml/100g
+comet-us:
+  alpha: 9.4 - 12.4 %
+  beta: 3.0 - 6.1 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: The hop cultivar Comet was bred as a high alpha variety for the states
+    of Washington and Idaho. Nowadays this hop, which stands out due to its very large
+    cones, is only grown on a small area.
+  farnesene: Non
+  myrcene: Non
+  name: Comet US
+  total_oils: 1.4 - 3.31 ml
+crystal:
+  alpha: 4.0 - 6.0%
+  beta: 5.0 - 6.7%
+  caryophyllene: 4 - 8%
+  cohumulone: 20 - 26%
+  description: Crystal est une variété triploide développée à partir de Hallertau
+    Mittelfrüh, une variété aromatique de houblon allemand avec des contributions
+    primaires de Cascade, Brewers Gold et Early Green. Diffusée en 1993 à partir du
+    programme de culture de l'USDA, l'utilisation de Crystal est devenue courante
+    aux EU pour le brassage artisanal.
+  farnesene: <1%
+  myrcene: 40 - 65%
+  name: Crystal
+  total_oils: 0,8 - 2,1
+dana:
+  alpha: 11.0 – 16.0 %
+  beta: 4.8 – 6.0 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: grown in Slovenia and bred from German Hallertau Magnum hops and Slovenian
+    genetic hop material lemon, piney, floral aroma
+  farnesene: Non
+  myrcene: 2.4 – 3.9 ml/100g
+  name: Dana
+  total_oils: 2.4 – 3.9 ml/100g
+east-kent-goldings:
+  alpha: 4.5 - 6.5%
+  beta: 1.9 - 2.8%
+  caryophyllene: 12 - 16%
+  cohumulone: 28 - 32%
+  description: Developed from wild Canterbury Whitebine variety in late 1700’s, the
+    quintessential English aroma hop. Pale golden-green cones ideal for late aroma
+    hopping in Copper and post-fermentation. Aromas include gentle orange and grapefruit
+    notes, with floral lavender and thyme. Widely used and to great effect in many
+    of the paler British Bitters, Pale and Blonde ales and ESB’s.
+  farnesene: <1%
+  myrcene: 20 - 30%
+  name: East Kent Goldings
+  total_oils: 0,4 - 0,8
+ekuanot:
+  alpha: 14.4 - 15.6%
+  beta: 4.6 - 5.1%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Ekuanot (Formally Equinox / HBC366) a pronounced aroma profile with
+    citrus, tropical fruit, floral and herbal characteristics. Specific descriptors
+    include lemon, lime, papaya, apple, and green pepper.
+  farnesene: Non
+  myrcene: 2.9 mL / 100g
+  name: Ekuanot
+  total_oils: 1.6 - 2.4
+el-dorado:
+  alpha: 14.0-16.0%
+  beta: 7.0-8.0%
+  caryophyllene: 6-8%
+  cohumulone: 28-33%
+  description: El Dorado is believed to be derived from a neomexicanus subspecies
+    of Humulus Lupulus, primarily providing fruity characteristics such as watermelon
+    and stone fruits.
+  farnesene: < 1%
+  myrcene: 55-60%
+  name: El Dorado
+  total_oils: 2.5-2.8 ml/100g
+ella:
+  alpha: 14.0 - 16.0%
+  beta: 4.0 - 4.5%
+  caryophyllene: 14 - 16%
+  cohumulone: 34 - 38%
+  description: Crée en 2001 et diffusée pour une utilisation commerciale en 2007,
+    Ella (connue auparavant sous le nom de Stella) est une variété de houblon intrigante
+    qui présente des accents fleuris et d'épices subtiles tels que l'anis étoilé.
+    Ella confère des saveurs distinctes de pamplemousses et de fruits tropicaux.
+  farnesene: 1 - 2%
+  myrcene: 32 - 34%
+  name: Ella
+  total_oils: 2,5 - 3,0
+endeavour:
+  alpha: 7.5 – 10.6%
+  beta: 3.8 – 5.3%
+  caryophyllene: Non
+  cohumulone: 30 – 36% of alpha acids
+  description: Endeavour is a newly bred dwarf variety from a cross made in 2002 at
+    Wye Hops in the UK. This variety imparts unique English flavour notes to beer
+    – like citrus, spicy and red fruits. Early tests show it to be resistant to powdery
+    and downy mildews.
+  farnesene: 5 – 8% of total oil
+  myrcene: 27 – 37% of total oil
+  name: Endeavour
+  total_oils: 1.2 – 1.8 ml/100g
+enigma-pellet-10kg:
+  alpha: 13.5 - 16.5%
+  beta: 4.8 - 6.4%
+  caryophyllene: Non
+  cohumulone: 28.0 – 31.0 % of alpha acids
+  description: Cultivated through our in-house breeding program, Enigma is the newest
+    hop in the hop products Australia  family. Enigma is descendant of the German
+    tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
+    brews.
+  farnesene: <1%
+  myrcene: 2.4 - 3.0 ml/100g
+  name: Enigma Pellet 10kg
+  total_oils: 2.4 - 3.0 ml/100g
+enigma-pellet-5kg:
+  alpha: 13.5 - 16.5%
+  beta: 4.8 - 6.4%
+  caryophyllene: Non
+  cohumulone: 28.0 – 31.0 % of alpha acids
+  description: Cultivated through our in-house breeding program, Enigma is the newest
+    hop in the hop products Australia  family. Enigma is descendant of the German
+    tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
+    brews.
+  farnesene: <1%
+  myrcene: 2.4 - 3.0 ml/100g
+  name: Enigma Pellet 5kg
+  total_oils: 2.4 - 3.0 ml/100g
+fantasia:
+  alpha: 4.3%
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: This unique Barth-Haas-Group Hop Composition provides a silky touch
+    of cream and caramel to your beer.
+  farnesene: Non
+  myrcene: Non
+  name: Fantasia
+  total_oils: '0.9'
+finest-harvest-edition-hallertau-mittelfruh:
+  alpha: 3.0 - 5.5%
+  beta: 3.0 - 5.0%
+  caryophyllene: Non
+  cohumulone: 18 - 28%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry hopping
+    Hallertauer Mittelfrüh is the original regional variety of Hallertau and, with
+    its delicate aroma and average bitter content, is still very popular today.  The
+    flavour profile of Hallertau Mittelfrüh in its raw state is characterised by spicy,
+    woody aromas such as liquorice and hay with slight notes of blackberries. In a
+    cold infusion, floral tea-like components enhance the overall impression.
+  farnesene: <1%
+  myrcene: 20 - 28
+  name: Finest Harvest Edition - Hallertau Mittelfrüh
+  total_oils: Non
+finest-harvest-edition-hallertau-perle:
+  alpha: 4. - 9.0%
+  beta: 2.5 - 4.5%
+  caryophyllene: 10 - 20%
+  cohumulone: 29 - 35%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry hopping
+    Perle is a particularly popular hop due to the interaction of its well-balanced
+    aromas with its high bitter content. Its remarkable yields and particularly high
+    resistance makes this variety especially attractive to growers. Both in the raw
+    hops and in a cold infusion, vegetal aromas of celeriac and leek form the basis
+    of its aroma profile. In the raw hops this is augmented by spicy notes of pepper,
+    chilli and curry, while in the cold infusion there is a tendency towards green
+    fruits and tea.
+  farnesene: <1%
+  myrcene: 20 - 35
+  name: Finest Harvest Edition - Hallertau Perle
+  total_oils: Non
+finest-harvest-edition-hallertau-tradition:
+  alpha: 4.0 - 7.0%
+  beta: 3.0 - 6.0%
+  caryophyllene: 10 - 15%
+  cohumulone: 24 - 30%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry-hopping
+    Hallertauer Tradition was bred as a successor to Hallertauer Mittelfrüh and was
+    licensed in 1993. It is comparable to Hallertauer Mittelfrüh and is distinguished
+    by its good yields.  The predominant aromas in the raw hops are those of citrus
+    and lime, accompanied by vegetal notes. In a cold infusion, sweet fruits such
+    as apricots contribute to its fine flavour profile.
+  farnesene: <1%
+  myrcene: 17 - 32
+  name: Finest Harvest Edition - Hallertau Tradition
+  total_oils: Non
+finest-harvest-edition-hersbrucker-spat:
+  alpha: 1.5 - 4.0%
+  beta: 2.5 - 6.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 17 - 25%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry-hopping
+    The Hersbrucker hop, a traditional variety from the growing region of the same
+    name, has strong growth characteristics and a particularly robust nature.  In
+    the raw hops, woody, spicy aromas, such as fir needles and lavender, combine with
+    floral notes of geranium and cool melissa.
+  farnesene: <1%
+  myrcene: 15 - 30
+  name: Finest Harvest Edition - Hersbrucker Spät
+  total_oils: Non
+finest-harvest-edition-saaz:
+  alpha: 2.9%
+  beta: 4.5 - 8.0%
+  caryophyllene: 10 - 12%
+  cohumulone: 23 - 26%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry hopping
+    The Saazer hop originates from the Czech growing region of the same name. The
+    success of this traditional regional variety lies in its particularly mild hoppy
+    note. The aromas in the raw hops are predominantly spicy and woody, such as tarragon,
+    lavender, cedarwood and smoked bacon. In a cold infusion, floral and sweet components
+    such as elderberry, rose/camomile, cream-caramel nuances of honey Round off the
+    flavour profile.
+  farnesene: 14 - 20%
+  myrcene: 25 - 40
+  name: Finest Harvest Edition - Saaz
+  total_oils: '0.4'
+finest-harvest-edition-spalter-select:
+  alpha: 3.0 - 6.5%
+  beta: 2.5 - 5.0%
+  caryophyllene: 4 - 10%
+  cohumulone: 21 - 27%
+  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
+    Harvest Edition" range of varieties. • Highest quality batches have been selected
+    with above average oil content • First in line processing to preserve exceptional
+    quality • Typical of the varieties signatures flavour and aroma impact • Due to
+    the higher than average oil content these varieties are excellent for dry hopping.
+    Spalter Select is, as the name suggests, a selection from the Spalter regional
+    variety and was developed by the Hüll Hop Research Center.  The flavour profile
+    of the raw hops is defined by woody cognac aromas, complemented with sweet peach
+    and camomile blossom notes. In a cold infusion, this cultivar leans towards citrus
+    and orange peel, with influences of black tea and floral nuances.
+  farnesene: 15 - 22%
+  myrcene: 20 - 40%
+  name: Finest Harvest Edition - Spalter Select
+  total_oils: Non
+first-gold:
+  alpha: 5.6 - 8.7%
+  beta: 2.3 - 4.1%
+  caryophyllene: 6 - 7%
+  cohumulone: 32 - 34%
+  description: Créé en 1995 et dérivé de WGV, First Gold possède un bon potentiel
+    d'amertume et d'arômes, il est idéal pour les chaudières. Des cônes de taille
+    moyenne, vert panaché livrant un arôme fleuri et frais, rappelant celui du géranium,
+    avec de délicates senteurs de zeste d'orange et un soupçon d'épices. La combinaison
+    d'arômes fleuris et fruités est idéale pour les Blondes modernes, la Pale Ale,
+    les Blondes et Tripels belges, l'IPA, les bières de garde et de Saison, et les
+    Pale Ales américaines.
+  farnesene: 2 - 4%
+  myrcene: 27 - 28%
+  name: First gold
+  total_oils: 0,7 - 1,5
+fuggles:
+  alpha: 3.0 - 5.6%
+  beta: 2.0 - 3.0%
+  caryophyllene: 9 - 13%
+  cohumulone: 25 - 30%
+  description: Nommé d'après le cultivateur du Kent qui l'a introduit en 1875 et révéré
+    depuis comme étant le houblon aromatique classique des Bitters et Pale Ales britanniques,
+    il est souvent utilisé en combinaison avec Goldings. Fuggles est aussi adapté
+    aux Porters et Stouts. Les petits cônes de couleur vert moyen confèrent des arômes
+    qui font penser au foin sec, à la menthe, à la terre et à l'aubépine.
+  farnesene: 5 - 7%
+  myrcene: 24 - 28%
+  name: Fuggles
+  total_oils: 0,7 - 1,4
+galaxy:
+  alpha: 13.5 - 14.8%
+  beta: 5.0 - 6.5%
+  caryophyllene: 32 - 38%
+  cohumulone: 32 - 38%
+  description: Galaxy® est rapidement devenu le houblon australien au goût le plus
+    reconnu internationalement.  Il contribue à un caractère impressionnant et distinctif
+    d'agrumes et de fruits de la passion. Développé et cultivé exclusivement en Australie,
+    Galaxy est un cultivar asperme et à la maturité tardive.
+  farnesene: 3 - 4%
+  myrcene: 33 - 42%
+  name: Galaxy
+  total_oils: 2,4 - 2,7
+german-cascade:
+  alpha: 4.5 - 7.0%
+  beta: 4.8 - 7.0%
+  caryophyllene: 3 - 6%
+  cohumulone: 33 - 40%
+  description: Cascade was part of the USDA breeding programe in Oregan and released
+    as an aroma variety in 1972. Dark green elongated cones with a distinct medium
+    strength aroma. Cascade is the definitive hop for American craft brews.
+  farnesene: 3 - 7%
+  myrcene: 45 - 60
+  name: German Cascade
+  total_oils: 0.7 - 1.4
+goldings:
+  alpha: 4.0 - 6.0%
+  beta: 2.0 - 3.0%
+  caryophyllene: 13 - 16%
+  cohumulone: 23 - 28%
+  description: Houblon aromatique britannique classique, aux origines similaires de
+    celles de East Kent Goldings mais cultivé en Hereford et Worcester. Délicatement
+    parfumé et fleuri avec des caractères de zeste de citron, d'orange et de pamplemousse.
+    Souvent utilisé pour le houblonnage à sec, conférant des notes florales et citronnées.
+    Se combine bien à Fuggles dans les Bitters et Pale Ales. Idéal pour les ESB et
+    les styles de Blondes et Tripels belges fruités, Saison, Kölsch ainsi que les
+    Lagers plus légères.
+  farnesene: <1%
+  myrcene: 25 - 35%
+  name: Goldings
+  total_oils: 0,7 - 1,0
+hallertau-blanc:
+  alpha: 9.0 - 12.0%
+  beta: 4.5 - 5.5%
+  caryophyllene: 0 - 2%
+  cohumulone: 22 - 26%
+  description: Hallertau Blanc est fille du cultivar Cascade et présente un bouquet
+    de fruits tropicaux, de fruits à noyaux et de pamplemousse. Diffusée en 2012 Hallertau
+    Blanc a été créé et planté en réponse aux attentes de la brasserie artisanale
+    qui souhaitait des saveurs et goûts audacieux et différents.
+  farnesene: <1%
+  myrcene: 70%
+  name: Hallertau Blanc
+  total_oils: 1,5
+hallertau-hersbrucker:
+  alpha: 1.5 - 4.0%
+  beta: 2.5 - 6.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 17 - 25%
+  description: Une variété allemande traditionnelle de la région productrice de Hersbrucker
+    qui présente un arôme fin et noble, mais fait parfois preuve de très faibles taux
+    d'acides alpha. On le considère comme un successeur de Hallertauer Mittelfrüh.
+  farnesene: <1%
+  myrcene: 15 - 30%
+  name: Hallertau Hersbrucker
+  total_oils: 0,5 - 1,0
+hallertau-mittelfruh:
+  alpha: 3.0 - 5.5%
+  beta: 3.0 - 5.5%
+  caryophyllene: 10 - 15%
+  cohumulone: 18 - 28%
+  description: Hallertauer Mittelfrüh est la variété régionale originale de Hallertau
+    et grâce à son arôme délicat et à son amertume mesurée , il demeure très prisé
+    de nos jours. Cette variété de houblon a failli disparaître en raison de sa forte
+    sensibilité à la flétrissure verticillienne. Grâce à une reprise de la demande
+    et de nouvelles plantes indemmes de virus on enregistre actuellement un retour
+    en force du cultivar.
+  farnesene: <1%
+  myrcene: 20 - 28%
+  name: Hallertau Mittelfrüh
+  total_oils: 0,7 - 1,3
+hallertau-taurus:
+  alpha: 12.0 - 17.0%
+  beta: 4.0 - 6.0%
+  caryophyllene: 6 - 11%
+  cohumulone: 20 - 25%
+  description: Hallertau Taurus is a Huell bred high alpha variety with a very high
+    alpha content and noble, aromatic bitter quality.  Small and very compact cones
+    which allow clean, mechanical picking and easy drying are also a feature of Taurus.
+  farnesene: <1%
+  myrcene: 30 - 50
+  name: Hallertau Taurus
+  total_oils: 0.9 - 1.4
+hallertau-tradition:
+  alpha: 4.0 - 7.0%
+  beta: 3.0 - 6.0%
+  caryophyllene: 10 - 15%
+  cohumulone: 24 - 30%
+  description: Tradition est fille de Mittelfrüh et a été créée à Huell. Cette variété
+    est notoire pour la finesse de son arôme et de son amertume. Tradition est caractérisé
+    par ses bons et réguliers rendements, même dans les mauvaises années et il est
+    particulièrement résistant au flétrissement et au  mildiou. Il est comparable
+    à Hallertauer Mittelfrüh et se distingue par son excellent rendement.
+  farnesene: <1%
+  myrcene: 17 - 32%
+  name: Hallertau Tradition
+  total_oils: 0,5 - 1,0
+hbc-431:
+  alpha: 14.0-16.0%
+  beta: 4.0-5.0%
+  caryophyllene: 13-14%
+  cohumulone: 18% of alpha acids
+  description: This experimental variety has both fruity and earthy characteristics
+    that follows through into the beer, creating excellent aroma and flavour as well
+    as having good bitterness potential.
+  farnesene: Non
+  myrcene: 33-37%
+  name: HBC 431
+  total_oils: 1.5ml/100g
+hbc-472:
+  alpha: 9.0-11.0%
+  beta: 7.0-9.0%
+  caryophyllene: 30-32%
+  cohumulone: 42-46% of alpha acids
+  description: The aromas this hop brings are considered unique additions to a beer.
+    Initially earthy with notes of coconut, the finish delivers a surprisingly fruity
+    note, perfect for adding depth of flavour.
+  farnesene: Non
+  myrcene: 30-32%
+  name: HBC 472
+  total_oils: 1.5-2.5 ml/100g
+hbc-682:
+  alpha: 18.0-21.0%
+  beta: 4.5-5.5%
+  caryophyllene: 4.5-5.5%
+  cohumulone: 30-32% of alpha acids
+  description: HBC 682 is an earthy hop used for bittering. It adds a very neutral
+    flavour to beer and pleasant bitterness.
+  farnesene: Non
+  myrcene: 48-52%
+  name: HBC 682
+  total_oils: 1.0-2.0 ml/100g
+helga:
+  alpha: 4.9 - 6.3%
+  beta: 3.8 - 5.4%
+  caryophyllene: 10 - 14%
+  cohumulone: 22 - 26%
+  description: Helga est un véritable houblon aromatique australien avec des accents
+    allemands, cultivé en 1986 avec comme objectif de proposer des caractéristiques
+    de brassage similaires à celles de Hallertau Mittelfrüh. Précédemment connu sous
+    le nom de Southern Hallertau, Helga est produit en Tasmanie et est décrit comme
+    ayant des notes florales et herbacées délicates et subtiles.
+  farnesene: Unknown
+  myrcene: 7 - 12%
+  name: Helga
+  total_oils: 0,6 - 1,0
+herkules:
+  alpha: 12.0 - 17.0%
+  beta: 4.0 - 5.5%
+  caryophyllene: 7 - 12%
+  cohumulone: 32 - 38%
+  description: Fidèle à son nom, Herkules est un cultivar robuste, à haut rendement,
+    au potentiel amérisant élevé. Diffusé en 2006 par le Hop Research Centre Hüll.
+    Il possède d'excellentes qualités de brassage combinées à une très bonne stabilité
+    de stockage
+  farnesene: <1%
+  myrcene: 30 - 50%
+  name: Herkules
+  total_oils: 1,6 - 2,4
+hull-melon:
+  alpha: 6.9 - 7.5%
+  beta: 7.3 - 7.9%
+  caryophyllene: 5 - 10%
+  cohumulone: 25 - 30%
+  description: Il s'agit d'une nouvelle variété aux arômes de melon et de fraise.  La
+    variété a été créée au Hop Research Institute Hüll et a été diffusée en 2012.
+    Hüll Melon a été créé en réponse aux attentes de la brasserie artisanale qui souhaitait
+    des saveurs et goûts audacieux et différents.
+  farnesene: <1%
+  myrcene: 36%
+  name: Hüll Melon
+  total_oils: 0,8
+kazbek:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Kazbek displays a spicy lemon aroma and was released in 2008. Kazbek
+    is the highest peak within the middle Caucasu mountain range.
+  farnesene: Non
+  myrcene: Non
+  name: Kazbek
+  total_oils: Non
+liberty:
+  alpha: 3.0 - 5.0%
+  beta: 3.0 - 4.0%
+  caryophyllene: 9 - 12%
+  cohumulone: 24 - 30%
+  description: Liberty a de grandes similitudes aux variétés aromatiques allemandes,
+    notamment à Hallertau. Cette variété a été développée en 1983 dans le cadre du
+    programme USDA de l'université d'état d'Oregon et diffusée aux EU en 1991.
+  farnesene: <1%
+  myrcene: 20 - 40%
+  name: Liberty
+  total_oils: 0,6 - 1,2
+loral:
+  alpha: 10.0-12.0%
+  beta: 4.5-5.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Origianally known as HBC 291, Loral is an aroma hop with notes of citrus
+    and sweet fruits behind its mainly floral and herbal characteristics.
+  farnesene: Non
+  myrcene: 37.0-39.0%
+  name: Loral
+  total_oils: 1.5-2.5 ml/100g
+magnum:
+  alpha: 11.0 - 16.0%
+  beta: 5.0 - 7.0%
+  caryophyllene: 8 - 12%
+  cohumulone: 21 - 29%
+  description: Le nom du houblon Magnum est parfaitement adapté à ses cônes inhabituellement
+    grands et lourds. Ce cultivar de Huell Hop Research Centre a un alpha élevé, un
+    bon rendement et présente une grande résistance aux maladies. À ce jour, Magnum
+    est la variété amère la plus importante en Allemagne.
+  farnesene: <1%
+  myrcene: 30 - 45%
+  name: Magnum
+  total_oils: 1,6 - 2,6
+mandarina-bavaria:
+  alpha: 7.0 - 10.0%
+  beta: 5.0 - 6.5%
+  caryophyllene: 1 - 5%
+  cohumulone: 31 - 35%
+  description: Une variété fruitée très agréable avec des accents caractéristiques
+    de mandarines et d'agrumes.  La variété a été créée au Hop Research Institute
+    Hüll et a été diffusée en 2012. Diffusée en 2012 Hallertau Blanc a été créé et
+    planté en réponse aux attentes de la brasserie artisanale qui souhaitait des saveurs
+    et goûts audacieux et différents.
+  farnesene: <1%
+  myrcene: 71%
+  name: Mandarina Bavaria
+  total_oils: 2,2
+monroe:
+  alpha: 2.5%
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Monroe is mild and smooth, yet bursting with red aromas. Raspberry
+    and orange syrup in the nose, sweet cherry in the taste, this hop adds a hint
+    of summer flavours to a beer.
+  farnesene: Non
+  myrcene: Non
+  name: Monroe
+  total_oils: 0.95 ml/100g
+mosaic:
+  alpha: 11.5 - 13.5%
+  beta: 3.2 - 3.9%
+  caryophyllene: 5 - 8%
+  cohumulone: 24 - 26%
+  description: Diffusée en 2012, Mosaic est une variété aromatique de houblon développée
+    par la Hop Breeding Company LLC.  Mosaic est un mariage unique de caractéristiques
+    fleuries, tropicales, fruitées et terreuses qui se révèlent très avantageusement
+    dans plusieurs styles bière.
+  farnesene: 0.0%
+  myrcene: 47 - 53%
+  name: Mosaic
+  total_oils: 1,0 - 1,5
+moteuka:
+  alpha: 6.5 - 7.5 %
+  beta: 5.0 - 5.5%
+  caryophyllene: ~ 2%
+  cohumulone: ~29.0%
+  description: A triploid aroma type developed by New Zealand’s HortResearch.  This
+    hop was bred by crossing a New Zealand breeding selection (2/3) with Saazer parentage
+    (1/3).   First impressions are a very lively and lifted lemon and lime followed
+    by a background of tropical fruit.
+  farnesene: ~12.2%
+  myrcene: '47.7'
+  name: Moteuka
+  total_oils: '0.8'
+mount-hood:
+  alpha: 4.0 - 7.0%
+  beta: 5.0 - 8.0%
+  caryophyllene: 13 - 16%
+  cohumulone: 21 - 23%
+  description: Mt. Hood est une variété aromatique diffusée en 1989 dans le cadre
+    du programme de culture du l'USDA en Oregon. Il a une teneur faible en acides
+    alpha et beta, et présente un arôme délicat et plaisant.
+  farnesene: <1%
+  myrcene: 30 - 40%
+  name: Mount Hood
+  total_oils: 1,2 - 1,7
+mount-rainier:
+  alpha: 5.0 - 8.1%
+  beta: 5.0 - 7.0%
+  caryophyllene: 9.5% of total oil
+  cohumulone: 21 - 24%
+  description: Complex parentage including Hallertau, Galena and Fuggle
+  farnesene: Non
+  myrcene: 29% of total oil
+  name: Mount Rainier
+  total_oils: 0.2 - 0.5 mL / 100g
+nelson-sauvin:
+  alpha: ' 12 - 13 % '
+  beta: 6 – 8 %
+  caryophyllene: 8%
+  cohumulone: 24 % of Alpha Acids
+  description: A triploid variety bred from New Zealand variety “Smoothcone” and a
+    selected New Zealand male. Developed at New Zealand HortResearch and released
+    in 2000.  The essential oil profile displays “fresh crushed gooseberries” a descriptor
+    often used for the grape variety Sauvignon Blanc, giving  rise to this variety’s
+    name.
+  farnesene: ' 0.4 % '
+  myrcene: ' 22.2 % '
+  name: Nelson Sauvin
+  total_oils: 1,2 - 1,6
+northdown:
+  alpha: 7,5 - 9,5%
+  beta: 5,0 - 5,5%
+  caryophyllene: 13 - 17%
+  cohumulone: 24 - 30%
+  description: Bred at Wye in 1970 from Northern Brewer and related to Challenger
+    and Target. Medium level alpha and an appealing aroma profile make it an ideal
+    dual-purpose hop. Aroma tends to fresh, floral pine but with a berry-like richness.Makes
+    a very good dual purpose and background hop across a wide range of Ales and Lagers.
+  farnesene: <1%
+  myrcene: 23 - 29%
+  name: Northdown
+  total_oils: 1.5 - 2.5
+northern-brewer:
+  alpha: 6.0 - 10.0%
+  beta: 3.0 - 5.0%
+  caryophyllene: 10 - 20%
+  cohumulone: Non
+  description: Bred in England, this variety has a high alpha content.  It is one
+    of the main varieties in the Hallertau region, where it developed good aroma qualities
+    by adapting to climate and soil. Northern Brewer is wilt resistant.
+  farnesene: <1%
+  myrcene: 25 - 45
+  name: Northern Brewer
+  total_oils: 1.0 - 1.6
+nugget:
+  alpha: 11.5 - 14.0%
+  beta: 3.0 - 5.0%
+  caryophyllene: 7 - 10%
+  cohumulone: 22 - 30%
+  description: Nugget est une variété à l'alpha élevé qui a été initialement développée
+    par le programme de l'USDA à l'Oregon State University à partir d'un croisement
+    réalisé en 1970 et enregistré beaucoup plus tard en 1984.  Nugget est également
+    cultivé dans le Hallertau allemand, où il y montre une teneur en alpha peu plus
+    basse.
+  farnesene: <1%
+  myrcene: 27 - 42
+  name: Nugget
+  total_oils: 0,9 - 1,3
+opal:
+  alpha: 5.0 - 8.0%
+  beta: 3.5 - 5.5%
+  caryophyllene: 8 - 15%
+  cohumulone: 13 - 17%
+  description: The cultivar Opal is named after the precious stone of the same name.
+    The choice of name may have been inspired by the hop’s bluish-green shimmer. The
+    aromatic Opal comes from the Hallertau growing region and was bred at the Huell
+    Hop Research Center.
+  farnesene: <1%
+  myrcene: 20 - 45
+  name: Opal
+  total_oils: 0.8 - 1.3
+organic-admiral:
+  alpha: 13,0 - 16,0%
+  beta: 4,8 - 6,1%
+  caryophyllene: 6 - 8%
+  cohumulone: 37 - 45%
+  description: Admiral a été créé au Wye College dans le Kent diffusé en 1998. Moins
+    âpre que Target, mais avec des arômes très doux il faut donc l'utiliser en combinaison
+    avec d'autres variétés pour un houblonnage tardif ou à sec. Des cônes compacts
+    aux taux d'alpha élevés et un arôme de houblon subtil mais frais.
+  farnesene: 1 - 3%
+  myrcene: 39 - 48%
+  name: Organic Admiral
+  total_oils: 1,0 - 1,7
+organic-cascade:
+  alpha: 4.5 - 7.0%
+  beta: 4.8 - 7.0%
+  caryophyllene: 3 - 6%
+  cohumulone: 33 - 40%
+  description: Cascade a fait partie du programme de culture du l'USDA en Oregon et
+    a été diffusé en tant que variété aromatique en 1972. Des cônes allongés, vert
+    foncés à l'arôme distinct et d'une intensité moyenne. Cascade est le houblon incontournable
+    des brasseries artisanales américaines.
+  farnesene: 3 - 7%
+  myrcene: 45 - 60
+  name: Organic Cascade
+  total_oils: 0,7 - 1,5
+organic-challenger:
+  alpha: 6.5 - 8.5%
+  beta: 4.0 - 4.5%
+  caryophyllene: 8 - 10%
+  cohumulone: 20 - 25%
+  description: Bred at Wye College, introduced in 1972. Mid-size pale green cones
+    with medium Alpha level and good aromatic potential, tending to fresh verdant
+    character of hedgerow and verges, with floral, pine and grassy notes. Used to
+    good effect for both bittering and late aromas in many classic British Bitters
+    and Pale Ales.
+  farnesene: 1 - 3%
+  myrcene: 30 - 42%
+  name: Organic Challenger
+  total_oils: 1.0 - 1.5
+organic-goldings:
+  alpha: 4.0 - 6.0%
+  beta: 2.0 - 3.0%
+  caryophyllene: 13 - 16%
+  cohumulone: 23 - 28%
+  description: Houblon aromatique britannique classique, aux origines similaires de
+    celles de East Kent Goldings mais cultivé en Hereford et Worcester. Délicatement
+    parfumé et fleuri avec des caractères de zeste de citron, d'orange et de pamplemousse.
+    Souvent utilisé pour le houblonnage à sec, conférant des notes florales et citronnées.
+    Se combine bien à Fuggles dans les Bitters et Pale Ales. Idéal pour les ESB et
+    les styles de Blondes et Tripels belges fruités, Saison, Kölsch ainsi que les
+    Lagers plus légères.
+  farnesene: <1%
+  myrcene: 25 - 35%
+  name: Organic Goldings
+  total_oils: 0,7 - 1,0
+organic-perle:
+  alpha: 4,0 - 9,0%
+  beta: 2,5 - 4,5%
+  caryophyllene: 10 - 20%
+  cohumulone: 29 - 35%
+  description: Perle is a particularly popular hop due to the interaction of its well-balanced
+    aromas with its high bitter content. Its remarkable yields and particularly high
+    resistance to diseases make this variety especially attractive to growers.
+  farnesene: <1%
+  myrcene: 20 - 35%
+  name: Organic Perle
+  total_oils: 0.5 - 1.5
+organic-pilgrim:
+  alpha: 9.0 - 13.0%
+  beta: 4.3 - 5.0%
+  caryophyllene: 7 - 8%
+  cohumulone: 36 - 38%
+  description: Un houblon à double usage développé par le Horticultural Research Institute
+    de Wye en Angleterre ; diffusé en 2001. Son profil est adapté aux Bitters, Pale
+    Ales, Stouts britanniques ainsi que potentiellement aux Helles Lagers, en particulier
+    si un houblonnage léger est souhaité.
+  farnesene: 0.3%
+  myrcene: 30%
+  name: Organic Pilgrim
+  total_oils: 1,2 - 2,4
+pacific-gem:
+  alpha: 13 - 15 %
+  beta: 7 - 9 %
+  caryophyllene: 11.0 %
+  cohumulone: 37 - 40 % of Alpha Acids
+  description: Does not carry the punchy aromas usually associated with higher Alpha
+    hops. Pacific Gem contains a good balance of oils which constantly contributes
+    to its aroma score. A very pleasing hop with useful bittering potential with Alpha
+    Acids at 13 % and above Pacific Gem fills the brew house with enticing aromas
+    during kettle addition and has been described as producing oaken flavours with
+    a distinct blackberry aroma. Typically used as a first hop addition and makes
+    its presence felt through an excellent tempered bitterness and flavour. Well suited
+    to a wide range of beer styles and lends itself well to European Lager styles
+    of various bitterness levels. “A master of consistency”
+  farnesene: 0.3 %
+  myrcene: 33.3 %
+  name: Pacific Gem
+  total_oils: 1.2 mls oil per 100 gram cone weight
+palisade:
+  alpha: 5.5 - 9.5%
+  beta: 6.0 - 8.0%
+  caryophyllene: 16 - 18%
+  cohumulone: 24 - 29%
+  description: Palisade est une variété aromatique de Yakima Chief Ranches. Il est
+    utilisé en brassage pour ses propriétés aromatiques et son léger pouvoir amérisant.
+    Le cultivar Palisade tient son nom d'un instrument important pour la culture du
+    houblon.
+  farnesene: <1%
+  myrcene: 9 - 10%
+  name: Palisade
+  total_oils: 1.4 - 1.6
+perle:
+  alpha: 4.0 - 9.0%
+  beta: 2.5 - 4.5%
+  caryophyllene: 10 - 20%
+  cohumulone: 29 - 35%
+  description: Perle est un houblon particulièrement apprécié en raison des interactions
+    de ses arômes bien équilibrés avec sa teneur élevée en composants amers. Ses rendements
+    remarquables et sa résistance particulièrement élevée aux maladies sont particulièrement
+    attractifs pour les cultivateurs.
+  farnesene: <1%
+  myrcene: 20 - 35%
+  name: Perle
+  total_oils: 0,5 - 1,5
+phoenix:
+  alpha: 12.0 - 15.0%
+  beta: 3.3 - 5.3%
+  caryophyllene: 11%
+  cohumulone: 24 - 28%
+  description: Créé à partir de Yeoman à la fin des années 1990, Phoenix est un houblon
+    à utilisation double, à l'alpha élevé high Alpha, riche en huiles et aux propriétés
+    de stockage excellentes. Son profil est adapté aux Bitters, Pale Ales, Stouts
+    britanniques ainsi que potentiellement aux Helles Lagers, en particulier si un
+    houblonnage léger est souhaité. C'est pourquoi il convient également aux Tripels
+    belges et Saison qui nécessitent des caractéristiques fleuries et légèrement épicées.
+  farnesene: 1.4%
+  myrcene: 24%
+  name: Phoenix
+  total_oils: 1,2 - 2,4
+pilgrim:
+  alpha: 9.0 - 13.0%
+  beta: 7 - 8%
+  caryophyllene: Non
+  cohumulone: 36 - 38%
+  description: Un houblon à double usage développé par le Horticultural Research Institute
+    de Wye en Angleterre ; diffusé en 2001. Son profil est adapté aux Bitters, Pale
+    Ales, Stouts britanniques ainsi que potentiellement aux Helles Lagers, en particulier
+    si un houblonnage léger est souhaité.
+  farnesene: 0.3%
+  myrcene: 30%
+  name: Pilgrim
+  total_oils: 1,2 - 2,4
+polaris:
+  alpha: 18.0 - 23.0%
+  beta: 4.5 - 6.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 22 - 28%
+  description: This new variety has an intense aroma and a refreshing note, described
+    by some as "mint drop". The variety was bred at the Hop Research Centre Hüll and
+    was released in 2012.
+  farnesene: <1%
+  myrcene: 50%
+  name: Polaris
+  total_oils: 4,4
+progress:
+  alpha: 5.0 - 7.0%
+  beta: 2.0 - 2.5%
+  caryophyllene: 12 - 15%
+  cohumulone: 25 - 30%
+  description: Bred at Wye from WGV as an alternative to Fuggles. Low to medium Alpha,
+    just enough to use for both roles. Full round, dark green cones producing good
+    strong aromas reminiscent of Fuggles with sweet grass, floral mint and earthy
+    notes.
+  farnesene: <1%
+  myrcene: 30 - 35%
+  name: Progress
+  total_oils: 0,6 - 1,2
+relax:
+  alpha: 0.25%
+  beta: 13.2%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Relax is a hop Variety that originally wasn`t bred for beer but instead
+    for tee
+  farnesene: Non
+  myrcene: Non
+  name: Relax
+  total_oils: 1.15 ml/100g
+saaz:
+  alpha: 2.0 - 4.5%
+  beta: 4.0 - 7.0%
+  caryophyllene: 9 - 14%
+  cohumulone: 12 - 17%
+  description: Saaz originates from the Czech growing region of the same name. The
+    success of this old, traditional regional variety lies in its particularly mild
+    hoppy note. The aromas in the raw hops are predominantly spicy, woody ones, such
+    as tarragon, lavender, cedarwood and smoked bacon.
+  farnesene: <1%
+  myrcene: 25 - 40%
+  name: Saaz
+  total_oils: 0,8 - 1,4
+saphir:
+  alpha: 2.0 - 4.5%
+  beta: 4.0 - 7.0%
+  caryophyllene: 9 - 14%
+  cohumulone: 12 - 17%
+  description: Saphir is a very fine aroma variety, with average bitter value and
+    storage characteristics. It was developed at the Hop Research Center in Hull,
+    Germany and released in 2002.
+  farnesene: <1%
+  myrcene: 25 - 40%
+  name: Saphir
+  total_oils: 0,8 - 1,4
+simcoe:
+  alpha: 12.0 - 14.0 %
+  beta: 4.0 - 5.0%
+  caryophyllene: 5 - 8%
+  cohumulone: 15 - 20%
+  description: Simcoe® is a multi-purpose hop bred by Yakima Chief Ranches. It not
+    only has a very special aroma but also a high alpha content. It was released for
+    planting in the year 2000.
+  farnesene: <1%
+  myrcene: 60 - 65%
+  name: Simcoe
+  total_oils: 2,0 - 2,5
+simcoe-r:
+  alpha: 12.0 - 14.0%
+  beta: 4.0 0 5.0%
+  caryophyllene: 5 - 8%
+  cohumulone: 15 - 20%
+  description: Simcoe® est un houblon à double usage cultivé à Yakima, Washington;
+    diffusé et enregistré en 2000. Il a un arôme caractéristique de pin avec des accents
+    d'agrumes et un alpha élevé.  Cette variété a beaucoup de succès auprès des brasseurs
+    artisanaux américains.
+  farnesene: <1%
+  myrcene: 60 - 65%
+  name: Simcoe®
+  total_oils: 2,0 - 2,5
+smaragd:
+  alpha: 4.0 - 6.0%
+  beta: 3.5 - 5.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: The name of this fine aroma variety is the German word meaning “emerald”.
+    The Smaragd hop has a high bittering value and good disease characteristics. This
+    German cultivar is particularly high-yielding. Smaragd was bred at the„ Hopfenforschungszentrum
+    Hüll“ and was released in 2000, together with the varieties Saphir and Opal as
+    new aroma varieties.
+  farnesene: Non
+  myrcene: 20 - 40%
+  name: Smaragd
+  total_oils: 0.4 - 0.8
+sorachi-ace:
+  alpha: 12.0 - 16.0%
+  beta: 6.0 - 7.0%
+  caryophyllene: Unknown
+  cohumulone: 20 - 25%
+  description: Soarchi Ace was developed in 1984 for Sopporo Breweries Ltd. The name
+    Sorachi is derived from a sub-prefecture of Hokkaido, Japan. The variety is currently
+    grown in limited quantities in the US.
+  farnesene: Unknown
+  myrcene: Non
+  name: Sorachi Ace
+  total_oils: 2,0 - 3,0
+sovereign:
+  alpha: 4.5 - 6.5%
+  beta: 2.1 - 3.1%
+  caryophyllene: 7 - 10%
+  cohumulone: 26 - 30%
+  description: Sovereign is a hedgerow variety bred at Wye College from an open pollination
+    made in 1995. It was selected for its good aroma, often likened to that of Fuggles.
+    Recommended for use alone in Stouts and in combination with Goldings in British
+    Bitters and Pale Ales.
+  farnesene: 2 - 5%
+  myrcene: 20 - 31%
+  name: Sovereign
+  total_oils: 0,6 - 1,0
+spalter-select:
+  alpha: 2.5 - 5.5%
+  beta: 3.0 - 5.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 22 - 29%
+  description: Créé à la fin des années 1980 comme une variété aromatique de Hallertau
+    Mittelfrüh. Des cônes jaune-vert de taille moyenne créent des arômes fleuris,
+    mentholés et délicatement épicés. Idéal pour un éventail de styles de bières blondes
+    allemandes, en particulier si un arôme plus floral, doux et fruité est souhaité.
+  farnesene: 12 - 18%
+  myrcene: 20 - 35%
+  name: Spalter Select
+  total_oils: 0,5 - 0,9
+strisselspalt:
+  alpha: 1.8 - 2.5%
+  beta: 3.0 - 6.0%
+  caryophyllene: 8 - 10%
+  cohumulone: 22 - 25%
+  description: The highly valued Strisselspalt is one of the best known hop varieties
+    from the Alsace and comes from the region of Strasbourg.  Its name is derived
+    from the words Strissel and Spalt, meaning bouquet and quality. It has a very
+    fine, soft and balanced aroma with citrus, fruity, spicy and floral notes.  It
+    is an ideal variety for late hopping.
+  farnesene: <1%
+  myrcene: 35 - 52%
+  name: Strisselspalt
+  total_oils: 0,6 - 0,8
+styrian-golding-b-bobek:
+  alpha: 3.5 - 7.8 %
+  beta: 4.0 - 6.1 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: Bobek, a daughter of Styrian Savinjski Golding, is known for its very
+    good agronomic traits in hop production and processing.
+  farnesene: Non
+  myrcene: 49.0 - 57.0 %
+  name: Styrian Golding B, Bobek
+  total_oils: 0.7 - 4.0 mL
+styrian-savinjski-goldings:
+  alpha: 4.5 - 6.0%
+  beta: 2.5 - 3.5%
+  caryophyllene: 9 - 11%
+  cohumulone: 25 - 30%
+  description: Styrian Savinjski Golding is a traditional Slovenian variety originating
+    from the English variety Fuggle, which was brought to Slovenia in the early 19th
+    century. This variety is known for its noble hop aroma and pleasant bitterness.
+  farnesene: 2 - 5%
+  myrcene: 27 - 33%
+  name: Styrian Savinjski Goldings
+  total_oils: 0.5 - 1.0
+summer:
+  alpha: 5.6 - 6.4%
+  beta: 4.8 - 6.1%
+  caryophyllene: 8 - 11%
+  cohumulone: 20 - 25%
+  description: Summer is a unique seedless aroma hop developed and grown in Australia.
+    Summer provides distinctive light aprocot and melon fruit notes nicely balanced
+    by a background hop character which can be used to great effect in many beer styles.
+  farnesene: <1%
+  myrcene: 29 - 38%
+  name: Summer
+  total_oils: 1.4 - 2.0
+summit:
+  alpha: 16.0 - 18.0%
+  beta: 4.0 - 6.0%
+  caryophyllene: 10 - 15%
+  cohumulone: 26 - 33%
+  description: Summit est une variété naine à alpha élevé cultivée aux EU par l'association
+    américaine pour le houblon nain (American Dwarf Hop Association). Diffusée en
+    2003, Summit a un puissant profil aromatique qui inclus des touches d'agrumes
+    et de pamplemousse.
+  farnesene: <1%
+  myrcene: 35 - 50%
+  name: Summit
+  total_oils: 1,5 - 2,5
+t-n-t:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: This exclusive Barth-Haas-Group Hop Composition provides an explosive
+    aroma and taste character to your beer.
+  farnesene: Non
+  myrcene: Non
+  name: T 'n' T
+  total_oils: Non
+target:
+  alpha: 9.5 - 12.5%
+  beta: 4.3 - 5.7%
+  caryophyllene: 8 - 10%
+  cohumulone: 35 - 40%
+  description: Conçu à Wye College, diffusé en 1976, et le houblon britannique le
+    plus largement cultivé. De minuscules cônes verts profonds donnent un bon profil
+    amer, ne convient pas au houblonnage tardif, mais peut être utilisé avec succès
+    pour le houblonnage à sec. Ses arômes reflètent la sauge verte et fraîche, épicé
+    et poivré, on trouve également des notes de marmelade d'agrumes.
+  farnesene: <1%
+  myrcene: 45 - 55%
+  name: Target
+  total_oils: 1,2 - 1,4
+tettnanger:
+  alpha: 2.5 - 5.5%
+  beta: 3.0 - 5.0%
+  caryophyllene: 6 - 11%
+  cohumulone: 22 - 28%
+  description: Tettnanger is a traditional domestic cultivar belonging to the Saaz
+    family and is grown exclusively around Tettnang near Lake Constance. In this region,
+    the unique combination of favourable climate and loamy soil provide for a very
+    fine aroma. The Tettnang hop displays good resistance to all plant diseases.
+  farnesene: 16 - 24%
+  myrcene: 20 - 35%
+  name: Tettnanger
+  total_oils: 0.5 - 0.9
+topaz:
+  alpha: 15.5 - 18.0%
+  beta: 6.0 - 7.0%
+  caryophyllene: 10 - 11%
+  cohumulone: 47 - 50%
+  description: Topaz a été sélectionné à l'origine comme houblon à graines à alpha
+    élevé mais des travaux récents ont démontré son excellent potentiel organoleptique.
+    Topaz propose des notes terreuses au caractère rappelant celui des cultivars anglais
+    traditionnels ainsi que des saveurs de fruits tropicaux et de letchi.
+  farnesene: <1%
+  myrcene: 25 - 43%
+  name: Topaz
+  total_oils: 0.8 - 1.7
+toyomidori:
+  alpha: 11.0-13.0%
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: A Japanese variety released in 1981 and bred in the UK. With mild fruity
+    flavours, this hop is perfect for bittering.
+  farnesene: Non
+  myrcene: Non
+  name: Toyomidori
+  total_oils: 0.8-1.2 ml/100g
+triskel:
+  alpha: 3.0 - 5.0%
+  beta: 4.0 - 4.7%
+  caryophyllene: TBC
+  cohumulone: 20 - 23%
+  description: 'Triskel est une nouvelle race de houblon avec un arôme semblable à
+    Strisselspalt, dont Triskel a hérité les accents fleuris, mais légèrement fruités.
+    Son taux élevé en huile le rend très adapté au houblonnage tardif et à sec. Son
+    nom‚ Triskel est inspiré de triskelion, le symbole des Gaulois, ancêtres des français
+    d''aujourd''hui. Ce symbole représente les trois éléments: la terre, l''air et
+    l''eau'
+  farnesene: TBC
+  myrcene: 60%
+  name: Triskel
+  total_oils: 1,5 - 2,0
+ultra:
+  alpha: 2.0 - 3.5%
+  beta: 3.0 - 4.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Ultra Hops was bred by the hops research program in Corvallis, Oregon
+    in 1983 and is a triploid variety.
+  farnesene: Non
+  myrcene: 15 - 25
+  name: Ultra
+  total_oils: 0.5 - 1.0
+vanguard:
+  alpha: 5.5 - 6.0 %
+  beta: 6.0 - 7.0 %
+  caryophyllene: 12 - 14 % of Total Oil
+  cohumulone: 14 - 16 % of Alpha Acids
+  description: Vanguard Was Developed From a Diploid Seeing From Hallertau Mittelfrueh
+    and Both USDA Male and Female Crosses The Variety Was Released in 1997
+  farnesene: 1% of Total Oil
+  myrcene: 20 25 % of Total Oil
+  name: Vanguard
+  total_oils: 0.9 - 1.2 ml/100g
+vic-secret-r:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: Vic Secret® is the Barth-Haas Groups new budding star. Lighter and
+    less dominant than Galaxy, yet there is still more than enough character for Vic
+    Secret to embellish the world of beer flavour. The clean, distinct fruit and pine
+    characters of Vic Secret are best accessed by dry hopping or whirlpool additions.
+    Late kettle additions have been found to impart a pleasant earthy character, but
+    little fruit. She has very high levels of alpha acid so brewers may find it easier
+    to craft the right balance in their beer by dry hopping.
+  farnesene: Non
+  myrcene: Non
+  name: Vic Secret®
+  total_oils: Non
+warrior:
+  alpha: 14.5 - 16.5%
+  beta: 4.3 - 5.3%
+  caryophyllene: 9 - 11%
+  cohumulone: 22 - 26%
+  description: Warrior est une variété à alpha élevé développée par Yakima Chief Ranches.
+    Il possède les rendements agronomiques et se caractérise par une faible teneur
+    en cohumulone et une bonne stabilité au stockage.
+  farnesene: <1%
+  myrcene: 40 - 50%
+  name: Warrior
+  total_oils: 1.3 - 1.7
+warrior-queen:
+  alpha: 5.19%
+  beta: 2.92%
+  caryophyllene: 17.58%
+  cohumulone: 31.60%
+  description: A bespoke hop blend with a Sensory Profile of Woody Aromatic (Resinous),
+    Spicy (Curry), Dry Sweets Fruits
+  farnesene: 3.59%
+  myrcene: 25%
+  name: Warrior Queen
+  total_oils: 1.20ml/100g
+willamette:
+  alpha: 4.0 - 6.0%
+  beta: 3.5 - 4.5%
+  caryophyllene: 7 - 8%
+  cohumulone: 30 - 35%
+  description: Willamette a été diffusée en 1976 en tant que variété aromatique des
+    EU issue du programme de culture de l'USDA en Oregon. Cette variété aromatique
+    est actuellement la plus cultivée aux EU.
+  farnesene: 5 - 6%
+  myrcene: 30 - 40%
+  name: Willamette
+  total_oils: 1,0 - 1,5
+yellow-sub:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: This composition turns a fine and excellent hop aroma into a sweet,
+    fruity flamenco of apricot and orange, with a hint of blackberries,
+  farnesene: Non
+  myrcene: Non
+  name: Yellow Sub
+  total_oils: Non
+zeus:
+  alpha: 15.0 - 17.0%
+  beta: 4.5 - 5.0%
+  caryophyllene: 9 - 11%
+  cohumulone: 28 - 32%
+  description: Les variétés actuelles à teneur extrêmement en alphas (Super High Alpha)
+    qui incluent les noms de Columbus, Tomahawk et Zeus (CTZ). Les variétés CTZ sont
+    actuellement utilisées de manière extensive pour leur pouvoir amérisant.
+  farnesene: <1%
+  myrcene: 50 - 60%
+  name: Zeus
+  total_oils: 2,5 - 3,5
+zythos:
+  alpha: 10.0 - 12.5%
+  beta: 4.7 - 6.2%
+  caryophyllene: Non
+  cohumulone: 28 - 31%
+  description: American hop pellet blend Zythos was designed to complement existing
+    IPA and Pale Ale hop varieties, and is an excellent blend for any hop forward
+    beer.
+  farnesene: Non
+  myrcene: Non
+  name: Zythos
+  total_oils: 0.7 - 1.2

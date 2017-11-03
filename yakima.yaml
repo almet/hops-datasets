@@ -1,0 +1,1925 @@
+admiral:
+  alpha: 13 - 16%
+  aroma: Specific aroma descriptors include pleasant, resinous hop aroma with hints
+    of citrus (orange) and herbal flavors.
+  beta: 4 - 6%
+  caryophyllene: 6 - 8% of total oil
+  cohumulone: 37 - 45% of alpha acids
+  description: "\n                  A high alpha hop with balanced bitterness and\
+    \ an acceptable aroma profile; a versatile replacement for both high alpha and...\n\
+    \                "
+  farnesene: 0 - 2% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 23 - 26% of total oil
+  myrcene: 39 - 48% of total oil
+  name: Admiral
+  region: United Kingdom
+  total_oils: 1 - 1.7 mL/100g
+  url: https://ychhops.com/varieties/admiral
+ahtanum:
+  alpha: 3.5 - 6.5%
+  aroma: Specific aroma descriptors include citrus grapefruit and geranium.
+  beta: 4 - 6%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 30 - 34% of alpha acids
+  description: "\n                  Bred by Select Botanicals Group, Ahtanum® Brand\
+    \ YCR 1 is an aroma-type cultivar used for its aromatic properties and moderate...\n\
+    \                "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 9 - 12% of total oil
+  myrcene: 0.6 - 0.9% of total oil
+  name: Ahtanum
+  region: United States
+  total_oils: 0.5 - 1.7 mL/100g
+  url: https://ychhops.com/varieties/ahtanum-brand-ycr-1-cv
+amarillo:
+  alpha: 7 - 11%
+  aroma: Specific aroma descriptors include grapefruit, orange, lemon, melon, apricot
+    and peach.
+  beta: 5.5 - 8%
+  caryophyllene: 40 - 50% of total oil
+  cohumulone: 20 - 24% of alpha acids
+  description: "\n                  Discovered and introduced by Virgil Gamache Farms\
+    \ in Washington State, Amarillo® Brand VGXP01 cv. is an aroma variety that...\n\
+    \                "
+  farnesene: 0.5 - 0.8% of total oil
+  geraniol: 6 - 9% of total oil
+  humulene: 7 - 10% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Amarillo
+  region: United States
+  total_oils: 1 - 2.3 mL/100g
+  url: https://ychhops.com/varieties/amarillo-brand-vgxp01
+aramis:
+  alpha: 7.9 - 8.3%
+  aroma: Specific aroma descriptors include spicy, herbal and subtle citrus.
+  beta: 3.8 - 4.5%
+  caryophyllene: 7.3 - 7.5% of total oil
+  cohumulone: 20 - 21% of alpha acids
+  description: "\n                  Closely resembling Strisselspalt, but with higher\
+    \ oil and alpha content, Aramis is the first variety from the Comptoir...\n  \
+    \              "
+  farnesene: 2 - 4% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 20.9 - 21.1% of total oil
+  myrcene: 39 - 41% of total oil
+  name: Aramis
+  region: France
+  total_oils: 1.2 - 1.6 mL/100g
+  url: https://ychhops.com/varieties/aramis
+aurora:
+  alpha: 7 - 13%
+  aroma: Specific aroma descriptors include noble characteristics.
+  beta: 2.7 - 4.4%
+  caryophyllene: 6 - 9% of total oil
+  cohumulone: 20 - 26% of alpha acids
+  description: "\n                  A diploid hybrid of Northern Brewer and a TG seedling\
+    \ of unknown origin, Aurora displays an intense yet pleasant aroma in...\n   \
+    \             "
+  farnesene: 5 - 10% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 20 - 25% of total oil
+  myrcene: 20 - 25% of total oil
+  name: Aurora
+  region: Slovenia
+  total_oils: 0.9 - 1.6 mL/100g
+  url: https://ychhops.com/varieties/aurora
+bitter-gold:
+  alpha: 12 - 14.5%
+  aroma: Specific aroma descriptors include pear, watermelon, stone fruit and fresh
+    cut grass.
+  beta: 4.5 - 6%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 36 - 41% of alpha acids
+  description: "\n                  Released in 1999, Bitter Gold is a high alpha\
+    \ variety with excellent aroma capabilities. Its lineage includes Brewer's Gold,...\n\
+    \                "
+  farnesene: 0.4 - 0.7% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 7 - 11% of total oil
+  myrcene: 0.6 - 0.9% of total oil
+  name: Bitter Gold
+  region: United States
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/bitter-gold
+blanc:
+  alpha: 9 - 12%
+  aroma: Specific aroma descriptors include floral and fruity with passion fruit,
+    grapefruit, pineapple, grape and lemongrass overtones.
+  beta: 4.5 - 5.5%
+  caryophyllene: 0 - 2% of total oil
+  cohumulone: 22 - 26% of alpha acids
+  description: "\n                  Released in 2012, Hallertau Blanc is one of several\
+    \ new German varieties with bold flavor profiles, perfect for...\n           \
+    \     "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 0 - 3% of total oil
+  myrcene: 50 - 75% of total oil
+  name: Blanc
+  region: Germany
+  total_oils: 1.2 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/blanc
+bobek:
+  alpha: 3.5 - 7%
+  aroma: Specific aroma descriptors include intense and pleasant with floral and pine
+    overtones.
+  beta: 4 - 6.1%
+  caryophyllene: 4 - 6% of total oil
+  cohumulone: 27 - 31% of alpha acids
+  description: "\n                  A world-renowned couplet with moderate bitterness.\n\
+    \                "
+  farnesene: 4 - 7% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 13 - 19% of total oil
+  myrcene: 30 - 45% of total oil
+  name: Bobek
+  region: Slovenia
+  total_oils: 0.7 - 4 mL/100g
+  url: https://ychhops.com/varieties/bobek
+bramling-cross:
+  alpha: 5 - 7%
+  aroma: Specific aroma descriptors include strong spice, blackcurrant, loganberry
+    and lemon.
+  beta: 2.3 - 3.2%
+  caryophyllene: 14.9 - 15.1% of total oil
+  cohumulone: 33 - 35% of alpha acids
+  description: "\n                  Developed at Wye College by Professor Salmon.\
+    \ Often used in traditional cask conditioned beers due to its distinct...\n  \
+    \              "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 29.9 - 30.1% of total oil
+  myrcene: 35 - 37% of total oil
+  name: Bramling Cross
+  region: United Kingdom
+  total_oils: 0.7 - 1 mL/100g
+  url: https://ychhops.com/varieties/bramling-cross
+bravo:
+  alpha: 15 - 18%
+  aroma: Specific aroma descriptors include orange, vanilla and floral.
+  beta: 3.5 - 5.5%
+  caryophyllene: 55 - 60% of total oil
+  cohumulone: 28 - 35% of alpha acids
+  description: "\n                  Developed by Hopsteiner Breeding Company and released\
+    \ in 2006, Bravo is a second generation super-alpha variety. It is an...\n   \
+    \             "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 8% of total oil
+  myrcene: 0.8 - 1% of total oil
+  name: Bravo
+  region: United States
+  total_oils: 2.3 - 3.5 mL/100g
+  url: https://ychhops.com/varieties/bravo
+brewers-gold:
+  alpha: 8 - 11%
+  aroma: Specific aroma descriptors include blackcurrant and spicy.
+  beta: 4 - 6.5%
+  caryophyllene: 45 - 60% of total oil
+  cohumulone: 40 - 48% of alpha acids
+  description: "\n                  Bred at Wye College in 1919, Brewer’s Gold is\
+    \ an ancestor to many major high alpha hops including Sterling, Galena, Horizon,...\n\
+    \                "
+  farnesene: 0.5 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 12% of total oil
+  myrcene: 0.6 - 0.9% of total oil
+  name: Brewers Gold
+  region: United States
+  total_oils: 1.5 - 3 mL/100g
+  url: https://ychhops.com/varieties/brewers-gold
+bullion:
+  alpha: 8.1 - 8.2%
+  aroma: Strong and zesty blackcurrant characteristics
+  beta: 4.1 - 4.6%
+  caryophyllene: 40 - 55% of total oil
+  cohumulone: 38 - 40% of alpha acids
+  description: "\n                  Strong and zesty blackcurrant characteristics.\
+    \ A major hop variety since the mid-1940s, however, product ceased in 1985 due...\n\
+    \                "
+  farnesene: 0.5 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 9 - 14% of total oil
+  myrcene: 0.6 - 0.8% of total oil
+  name: Bullion
+  region: United States
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/bullion
+cascade:
+  alpha: 5.5 - 9%
+  aroma: Medium intense floral, citrus and grapefruit tones
+  beta: 6 - 7.5%
+  caryophyllene: 45 - 60% of total oil
+  cohumulone: 30 - 35% of alpha acids
+  description: "\n                  Originating from the USDA-ARA breeding program,\
+    \ Cascade is an aroma-type cultivar bred in 1956 and released in 1972. It was...\n\
+    \                "
+  farnesene: 0.3 - 0.6% of total oil
+  geraniol: 6 - 9% of total oil
+  humulene: 5 - 9% of total oil
+  myrcene: 0.5 - 0.8% of total oil
+  name: Cascade
+  region: United States
+  total_oils: 0.8 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/cascade
+celeia:
+  alpha: 3 - 6%
+  aroma: Specific aroma descriptors include noble characteristics.
+  beta: 2 - 3.3%
+  caryophyllene: 8 - 9% of total oil
+  cohumulone: 26 - 29% of alpha acids
+  description: "\n                  A hybrid of Styrian Golding, Aurora and a Slovenia\
+    \ wild hop, Celeia is known for its noble characteristics. It has widespread...\n\
+    \                "
+  farnesene: 3 - 7% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 18 - 23% of total oil
+  myrcene: 26 - 35% of total oil
+  name: Celeia
+  region: Slovenia
+  total_oils: 0.6 - 3.6 mL/100g
+  url: https://ychhops.com/varieties/celeia
+centennial:
+  alpha: 7 - 12%
+  aroma: Specific aroma descriptors include lemon and floral.
+  beta: 3.5 - 5.5%
+  caryophyllene: 55 - 65% of total oil
+  cohumulone: 23 - 27% of alpha acids
+  description: "\n                  Bred in 1974 and released by Washington State\
+    \ University in 1990, Centennial is an aroma-type cultivar that has found favor...\n\
+    \                "
+  farnesene: 0.6 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 5 - 7% of total oil
+  myrcene: 0.8 - 1% of total oil
+  name: Centennial
+  region: United States
+  total_oils: 1 - 3 mL/100g
+  url: https://ychhops.com/varieties/centennial
+challenger:
+  alpha: 6.5 - 8.5%
+  aroma: Specific aroma descriptors include cedar, green tea and sweet fruit.
+  beta: 4 - 4.5%
+  caryophyllene: 9.5 - 9.5% of total oil
+  cohumulone: 20 - 25% of alpha acids
+  description: "\n                  Bred at Wye College and introduced in 1972, Challenger\
+    \ is a granddaughter of Northern Brewer and niece of Northdown. It is a...\n \
+    \               "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 25 - 25% of total oil
+  myrcene: 30 - 42% of total oil
+  name: Challenger
+  region: United Kingdom
+  total_oils: 1 - 1.7 mL/100g
+  url: https://ychhops.com/varieties/challenger
+chelan:
+  alpha: 12 - 14.5%
+  aroma: Specific aroma descriptors include mild floral and citrus characteristics.
+  beta: 8.5 - 9.8%
+  caryophyllene: 9 - 12% of total oil
+  cohumulone: 33 - 35% of alpha acids
+  description: "\n                  Similar to Galena but with higher alpha acids,\
+    \ Chelan was developed by the John I Haas, Inc. breeding company and released\
+    \ in...\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 12 - 15% of total oil
+  myrcene: 45 - 55% of total oil
+  name: Chelan
+  region: United States
+  total_oils: 1.5 - 1.9 mL/100g
+  url: https://ychhops.com/varieties/chelan
+chinook:
+  alpha: 11.5 - 15%
+  aroma: Specific aroma descriptors include grapefruit, spice, and pine.
+  beta: 3 - 4%
+  caryophyllene: 20 - 30% of total oil
+  cohumulone: 27 - 31% of alpha acids
+  description: "\n                  Developed by the USDA breeding program in Washington\
+    \ State and released in 1985 as a high alpha bittering variety, Chinook is...\n\
+    \                "
+  farnesene: 0.3 - 0.5% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 9 - 11% of total oil
+  myrcene: 0.3 - 0.5% of total oil
+  name: Chinook
+  region: United States
+  total_oils: 1 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/chinook
+citra:
+  alpha: 11 - 15%
+  aroma: Specific aroma descriptors include grapefruit, melon, lime, gooseberry, passion
+    fruit and lychee.
+  beta: 3 - 4.5%
+  caryophyllene: 60 - 70% of total oil
+  cohumulone: 20 - 24% of alpha acids
+  description: "\n                  Developed by Hop Breeding Company and released\
+    \ in 2007. Citra® Brand HBC 394 features fairly high alpha acids and total oil...\n\
+    \                "
+  farnesene: 0.6 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 5 - 8% of total oil
+  myrcene: 0.7 - 1% of total oil
+  name: Citra
+  region: United States
+  total_oils: 1.5 - 3 mL/100g
+  url: https://ychhops.com/varieties/citra-brand-hbc-394-cv
+cluster:
+  alpha: 6 - 9%
+  aroma: Specific aroma descriptors include floral, earthy and sweet fruit.
+  beta: 4 - 6%
+  caryophyllene: 38 - 46% of total oil
+  cohumulone: 36 - 41% of alpha acids
+  description: "\n                  Cluster is one of the oldest hop varieties grown\
+    \ in the United States and until the late 1970s, accounted for the majority of...\n\
+    \                "
+  farnesene: 0.4 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 10% of total oil
+  myrcene: 0.5 - 0.7% of total oil
+  name: Cluster
+  region: United States
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/cluster
+columbus:
+  alpha: 14.5 - 17.5%
+  aroma: Specific aroma descriptors include black pepper, licorice, curry and subtle
+    citrus.
+  beta: 4.5 - 6%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 28 - 30% of alpha acids
+  description: "\n                  Originally selected by Charles Zimmerman for Hopunion,\
+    \ Inc., Columbus is a descendant of Nugget. It is a high alpha variety...\n  \
+    \              "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 10% of total oil
+  myrcene: 0.6 - 1% of total oil
+  name: Columbus
+  region: United States
+  total_oils: 2.5 - 4.5 mL/100g
+  url: https://ychhops.com/varieties/columbus
+comet:
+  alpha: 8 - 10.5%
+  aroma: Specific aroma descriptors include subtle, "wild American," grassy and grapefruit.
+  beta: 4 - 5%
+  caryophyllene: 40 - 55% of total oil
+  cohumulone: 34 - 37% of alpha acids
+  description: "\n                  Selected in 1961 and released in 1974 by the USDA,\
+    \ Comet was originally utilized for its high alpha acid content and...\n     \
+    \           "
+  farnesene: 0.5 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 10 - 15% of total oil
+  myrcene: 0.8 - 1.1% of total oil
+  name: Comet
+  region: United States
+  total_oils: 1.2 - 2 mL/100g
+  url: https://ychhops.com/varieties/comet
+crystal:
+  alpha: 3 - 6%
+  aroma: Specific aroma descriptors include woody and green.
+  beta: 6 - 8.5%
+  caryophyllene: 30 - 55% of total oil
+  cohumulone: 23 - 26% of alpha acids
+  description: "\n                  Bred in 1983 by the USDA, Crystal is a triploid\
+    \ aroma-type cultivar from Hallertau Mittelfrüh, Cascade, Brewer's Gold and...\n\
+    \                "
+  farnesene: 0.6 - 1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 5 - 12% of total oil
+  myrcene: 0.4 - 1% of total oil
+  name: Crystal
+  region: United States
+  total_oils: 0.8 - 2.3 mL/100g
+  url: https://ychhops.com/varieties/crystal
+dr-rudi:
+  alpha: 10 - 12%
+  aroma: Specific aroma descriptors include resin, pine, and lemongrass.
+  beta: 7 - 8.5%
+  caryophyllene: 10.1 - 10.1% of total oil
+  cohumulone: 33 - 36% of alpha acids
+  description: "\n                  Developed at the New Zealand Horticultural Research\
+    \ Centre (now New Zealand Institute for Plant and Food Research) and...\n    \
+    \            "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 33.2 - 33.2% of total oil
+  myrcene: 29 - 30% of total oil
+  name: Dr. Rudi
+  region: New Zealand
+  total_oils: 1.3 - 1.3 mL/100g
+  url: https://ychhops.com/varieties/dr-rudi
+east-kent-golding:
+  alpha: 4.5 - 6.5%
+  aroma: Specific aroma descriptors include smooth and delicate with floral, lavender,
+    spice, honey, earth, lemon, orange, grapefruit and thyme overtones.
+  beta: 1.9 - 2.8%
+  caryophyllene: 12 - 16% of total oil
+  cohumulone: 28 - 32% of alpha acids
+  description: "\n                  Developed from wild Canterbury Whitebine in the\
+    \ late 1700s, East Kent Godling is the quintessential English variety. It has...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 38 - 44% of total oil
+  myrcene: 29 - 31% of total oil
+  name: East Kent Golding
+  region: United Kingdom
+  total_oils: 0.4 - 0.8 mL/100g
+  url: https://ychhops.com/varieties/east-kent-golding
+ekuanot:
+  alpha: 13 - 15.5%
+  aroma: Specific descriptors include melon, berry, orange peel, lime, papaya, pine
+    and fresh peppers.
+  beta: 4 - 5%
+  caryophyllene: 30 - 45% of total oil
+  cohumulone: 31 - 36% of alpha acids
+  description: "\n                  Developed by Hop Breeding Company and released\
+    \ in 2014, Ekuanot™ Brand HBC 366 features pronounced aroma characteristics and...\n\
+    \                "
+  farnesene: 0.2 - 0.5% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 12% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Ekuanot
+  region: United States
+  total_oils: 2.5 - 4 mL/100g
+  url: https://ychhops.com/varieties/ekuanot-brand-hbc-366-cv
+ella:
+  alpha: 13.3 - 16.3%
+  aroma: Specific aroma descriptors include distinct grapefruit and tropical flavor.
+  beta: 4.8 - 7.8%
+  caryophyllene: 12 - 18% of total oil
+  cohumulone: 34 - 38% of alpha acids
+  description: "\n                  Reminiscent of, yet distinctly different from,\
+    \ noble European varieties - one of the most versatile hops available.\n     \
+    \           "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 16 - 22% of total oil
+  myrcene: 40 - 50% of total oil
+  name: Ella
+  region: Australia
+  total_oils: 2.4 - 3.4 mL/100g
+  url: https://ychhops.com/varieties/ella
+falconer:
+  alpha: 9 - 10.5%
+  aroma: Specific aroma descriptors include strong fruit and citrus characteristics
+    with layers of spicy and earthy overtones.
+  beta: 4.7 - 5.1%
+  caryophyllene: 0 - 70% of total oil
+  cohumulone: 0 - 48% of alpha acids
+  description: "\n                  Developed by Hopunion LLC in 2011, Falconer's\
+    \ Flight hop pellets are an exclusive proprietary hop blend created to honor and...\n\
+    \                "
+  farnesene: 0 - 2% of total oil
+  geraniol: 0 - 20% of total oil
+  humulene: 0 - 20% of total oil
+  myrcene: 0 - 2% of total oil
+  name: Falconer
+  region: United States
+  total_oils: 1.7 - 1.7 mL/100g
+  url: https://ychhops.com/varieties/falconers-flight-7cs
+first-gold:
+  alpha: 5.6 - 9.3%
+  aroma: Specific aroma descriptors include smooth, with tangerine, orange marmalade,
+    apricot, geranium and magnolia.
+  beta: 2.3 - 4.1%
+  caryophyllene: 6 - 7% of total oil
+  cohumulone: 32 - 34% of alpha acids
+  description: "\n                  Bred at Wye College in 1995, First Gold is a cross\
+    \ between WGV (Whitbread Golding Variety) and a dwarf male. It features many...\n\
+    \                "
+  farnesene: 2 - 4% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 20 - 24% of total oil
+  myrcene: 24 - 27% of total oil
+  name: First Gold
+  region: United Kingdom
+  total_oils: 0.7 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/first-gold
+fuggle:
+  alpha: 3 - 5.6%
+  aroma: Specific aroma descriptors include delicate and pleasant mint, grass and
+    floral tones.
+  beta: 2 - 3%
+  caryophyllene: 9 - 13% of total oil
+  cohumulone: 25 - 30% of alpha acids
+  description: "\n                  The most revered and famous English hop, known\
+    \ for its full bodied flavor in traditional ales.\n                "
+  farnesene: 5 - 7% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 33 - 38% of total oil
+  myrcene: 24 - 28% of total oil
+  name: Fuggle
+  region: United Kingdom
+  total_oils: 0.7 - 1.4 mL/100g
+  url: https://ychhops.com/varieties/fuggle-1
+galaxy:
+  alpha: 11.6 - 16%
+  aroma: Specific aroma descriptors include distinct passionfruit and clean citrus
+    aromas.
+  beta: 5 - 6.9%
+  caryophyllene: 7 - 9% of total oil
+  cohumulone: 32 - 42% of alpha acids
+  description: "\n                  Typically used as a late addition - the aroma\
+    \ and flavor characteristics become more pronounced the later the addition.\n\
+    \                "
+  farnesene: 2 - 4% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 1 - 2% of total oil
+  myrcene: 33 - 69% of total oil
+  name: Galaxy
+  region: Australia
+  total_oils: 3 - 5 mL/100g
+  url: https://ychhops.com/varieties/galaxy
+galena:
+  alpha: 13 - 15%
+  aroma: Specific aroma descriptors include sweet fruits, pear, pineapple, blackcurrant,
+    grapefruit, lime, gooseberry and spicy wood.
+  beta: 7.5 - 8.5%
+  caryophyllene: 40 - 50% of total oil
+  cohumulone: 34 - 39% of alpha acids
+  description: "\n                  Developed by the USDA breeding program in Idaho\
+    \ in 1968 and released in 1978, Galena is a high alpha variety with...\n     \
+    \           "
+  farnesene: 0.1 - 0.3% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 5 - 9% of total oil
+  myrcene: 0.4 - 0.7% of total oil
+  name: Galena
+  region: United States
+  total_oils: 1.3 - 2.1 mL/100g
+  url: https://ychhops.com/varieties/galena
+glacier:
+  alpha: 4 - 7.5%
+  aroma: Specific aroma descriptors include plum, blackberry and wood.
+  beta: 7 - 10%
+  caryophyllene: 35 - 45% of total oil
+  cohumulone: 13 - 16% of alpha acids
+  description: "\n                  Released in 2000 by Washington State University,\
+    \ Glacier is an offspring of French Elsasser, Brewer's Gold and Northern...\n\
+    \                "
+  farnesene: 0.8 - 1.1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 13% of total oil
+  myrcene: 0.2 - 0.6% of total oil
+  name: Glacier
+  region: United States
+  total_oils: 0.8 - 1 mL/100g
+  url: https://ychhops.com/varieties/glacier
+gold:
+  alpha: 3.5 - 6.5%
+  aroma: Specific aroma descriptors include honey, oregano, basil, nettle and hay.
+  beta: 3.5 - 5.9%
+  cohumulone: 0% of alpha acids
+  description: "\n                  Daughter of Styrian Savinsjki Golding and released\
+    \ in 2009, Gold was bred to improve the agronomic values of the traditional...\n\
+    \                "
+  name: Gold
+  region: Slovenia
+  total_oils: 1.3 - 2.3 mL/100g
+  url: https://ychhops.com/varieties/gold
+golding:
+  alpha: 3 - 6.5%
+  aroma: Specific aroma descriptors include delicate and sweet floral.
+  beta: 2 - 3.5%
+  caryophyllene: 25 - 35% of total oil
+  cohumulone: 25 - 28% of alpha acids
+  description: "\n                  Golding hops consist of a group of traditional\
+    \ English aroma varieties which have been cultivated since 1790. The cultivar...\n\
+    \                "
+  farnesene: 0.6 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 10 - 15% of total oil
+  myrcene: 0.3 - 0.5% of total oil
+  name: Golding
+  region: United States
+  total_oils: 0.4 - 1 mL/100g
+  url: https://ychhops.com/varieties/golding
+green-bullet:
+  alpha: 11 - 14%
+  aroma: Specific aroma descriptors include spicy, dried fruit characters; high levels
+    of floral oil that complements and balances the piney resinous hop character.
+  beta: 6.5 - 7%
+  caryophyllene: 9.1 - 9.3% of total oil
+  cohumulone: 38 - 39% of alpha acids
+  description: "\n                  Green Bullet is a triploid alpha variety bred\
+    \ by open cross pollination of the New Zealand \"Smoothcone\" variety. Used...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 28.1 - 28.3% of total oil
+  myrcene: 37 - 39% of total oil
+  name: Green Bullet
+  region: New Zealand
+  total_oils: 1 - 1.2 mL/100g
+  url: https://ychhops.com/varieties/green-bullet
+hallertau:
+  alpha: 3.5 - 6.5%
+  aroma: Specific aroma descriptors include noble, earthy, and herbal.
+  beta: 2.5 - 6.5%
+  caryophyllene: 18 - 25% of total oil
+  cohumulone: 23 - 26% of alpha acids
+  description: "\n                  US Hallertau originates from the classic Hallertau\
+    \ variety of Germany. It is a noble aroma variety. Despite low yield and low...\n\
+    \                "
+  farnesene: 0.6 - 1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 10 - 15% of total oil
+  myrcene: 0.2 - 0.6% of total oil
+  name: Hallertau
+  region: United States
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/hallertau
+hallertau-mittlefruh:
+  alpha: 3 - 5.5%
+  aroma: Specific aroma descriptors include mild, yet spicy, with floral and citrus
+    tones.
+  beta: 3 - 5%
+  caryophyllene: 14.5 - 14.7% of total oil
+  cohumulone: 18 - 28% of alpha acids
+  description: "\n                  This classic German aroma hop is often associated\
+    \ with Bavarian-style lager beers and distinguished by an intense,...\n      \
+    \          "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 55 - 55.2% of total oil
+  myrcene: 14 - 16% of total oil
+  name: Hallertau Mittlefruh
+  region: Germany
+  total_oils: 0.7 - 1.3 mL/100g
+  url: https://ychhops.com/varieties/hallertau-mittlefruh
+hbc-431:
+  alpha: 14 - 16%
+  aroma: Specific aroma descriptors include peach, berry, tropical fruit, citrus and
+    herbal.
+  beta: 4 - 5%
+  caryophyllene: 0.5 - 0.5% of total oil
+  cohumulone: 18 - 18% of alpha acids
+  description: "\n                  Bred by Hop Breeding Company but with little known\
+    \ family history, HBC 431 is a dual-purpose variety still in experimental...\n\
+    \                "
+  farnesene: 13 - 14% of total oil
+  geraniol: 0.6 - 0.6% of total oil
+  humulene: 22 - 26% of total oil
+  myrcene: 33 - 37% of total oil
+  name: HBC 431
+  region: United States
+  total_oils: 1.5 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/hbc-431
+hbc-438:
+  alpha: 12.4 - 14.9%
+  aroma: Specific descriptors include peachy stone fruit, tropical pineapple, and
+    lime with herbal notes of cedar and coconut; exceptionally distinct and pleasant.
+  beta: 5.1 - 6%
+  caryophyllene: 61 - 66% of total oil
+  cohumulone: 23 - 25% of alpha acids
+  description: "\n                  Developed by Hop Breeding Company, HBC 438 is\
+    \ an experimental variety originating from the open pollination of YCR 123, a...\n\
+    \                "
+  farnesene: 0.4 - 0.5% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 9.7 - 10.5% of total oil
+  myrcene: 0.8 - 1% of total oil
+  name: HBC 438
+  region: United States
+  total_oils: 3 - 3.4 mL/100g
+  url: https://ychhops.com/varieties/hbc-438
+hbc-472:
+  alpha: 9 - 11%
+  aroma: Specific aroma descriptors include floral, wood, coconut and distinct whiskey/bourbon.
+  beta: 7 - 9%
+  caryophyllene: 0 - 0.1% of total oil
+  cohumulone: 42 - 46% of alpha acids
+  description: "\n                  Bred by Hop Breeding Company through open pollination\
+    \ of a wild American hop, subspecies neomexicanus, HBC 472 is a dual...\n    \
+    \            "
+  farnesene: 20 - 20% of total oil
+  geraniol: 0 - 0.2% of total oil
+  humulene: 1 - 2% of total oil
+  myrcene: 0 - 2% of total oil
+  name: HBC 472
+  region: United States
+  total_oils: 0 - 5 mL/100g
+  url: https://ychhops.com/varieties/hbc-472
+hbc-682:
+  alpha: 18 - 21%
+  aroma: Specific aroma descriptors include strong and earthy.
+  beta: 4.5 - 5.5%
+  caryophyllene: 0.5 - 0.8% of total oil
+  cohumulone: 30 - 32% of alpha acids
+  description: "\n                  A descendant of HBC 463 and a UK male, HBC 682\
+    \ is a super alpha hop cultivar still in the experimental phase. It has a mild...\n\
+    \                "
+  farnesene: 4.5 - 5.5% of total oil
+  geraniol: 2 - 2% of total oil
+  humulene: 13 - 15% of total oil
+  myrcene: 48 - 52% of total oil
+  name: HBC 682
+  region: United States
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/hbc-682
+helga:
+  alpha: 5.4 - 7.3%
+  aroma: Specific aroma descriptors include pleasant, noble characteristics.
+  beta: 5 - 7%
+  caryophyllene: 0.1 - 0.6% of total oil
+  cohumulone: 20 - 23% of alpha acids
+  description: "\n                  Bred in 1986 and formerly known as Southern Hallertau,\
+    \ Helga™ is a descendant of Hallertau Mittelfrüh. Its brewing...\n           \
+    \     "
+  farnesene: 10 - 15% of total oil
+  geraniol: 35 - 55% of total oil
+  humulene: < 1.0% of total oil
+  myrcene: 1 - 13% of total oil
+  name: Helga
+  region: Australia
+  total_oils: 0.6 - 1 mL/100g
+  url: https://ychhops.com/varieties/helga
+herkules:
+  alpha: 12 - 17%
+  aroma: Specific aroma descriptors include robust hoppy with some citrus and melon.
+  beta: 4 - 5.5%
+  caryophyllene: 7 - 12% of total oil
+  cohumulone: 32 - 38% of alpha acids
+  description: "\n                  Bred at the Hop Research Center in Hüll, Germany,\
+    \ Herkules imparts robust, hoppy flavors.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 30 - 45% of total oil
+  myrcene: 30 - 50% of total oil
+  name: Herkules
+  region: Germany
+  total_oils: 1.6 - 2.4 mL/100g
+  url: https://ychhops.com/varieties/herkules
+hersbrucker:
+  alpha: 1.5 - 4%
+  aroma: Specific aroma descriptors include hay, tobacco and orange.
+  beta: 2.5 - 6%
+  caryophyllene: 0.5 - 1% of total oil
+  cohumulone: 17 - 25% of alpha acids
+  description: "\n                  A landrace variety originating from the Hersbruck\
+    \ region of Southern Germany, Hersbrucker has expanded and is now widely...\n\
+    \                "
+  farnesene: 8 - 13% of total oil
+  geraniol: 20 - 30% of total oil
+  humulene: < 1.0% of total oil
+  myrcene: 15 - 30% of total oil
+  name: Hersbrucker
+  region: Germany
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/hersbrucker
+horizon:
+  alpha: 8.8 - 12%
+  aroma: Specific aroma descriptors include floral bouquet and spicy.
+  beta: 5.5 - 7.5%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 16 - 19% of alpha acids
+  description: "\n                  Bred in Oregon in 1970 and released in 1997, Horizon\
+    \ is a descendant of Brewer's Gold and half-sister to Nugget. Its low...\n   \
+    \             "
+  farnesene: 0.9 - 1.5% of total oil
+  geraniol: 3 - 5% of total oil
+  humulene: 8 - 14% of total oil
+  myrcene: 0.6 - 0.8% of total oil
+  name: Horizon
+  region: United States
+  total_oils: 0.5 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/horizon
+huell-melon:
+  alpha: 6.9 - 7.5%
+  aroma: Specific aroma descriptors include distinctive honeydew melon and strawberry.
+  beta: 7.3 - 7.9%
+  caryophyllene: 5 - 10% of total oil
+  cohumulone: 25 - 30% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll, this\
+    \ hop variety has bold flavors and is not necessarily associated with typical...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 10 - 20% of total oil
+  myrcene: 35 - 37% of total oil
+  name: Huell Melon
+  region: Germany
+  total_oils: 0.7 - 0.9 mL/100g
+  url: https://ychhops.com/varieties/huell-melon
+kohatu:
+  alpha: 6 - 7%
+  aroma: Specific aroma descriptors include fresh tropical fruit characters and an
+    excellent finish and bitterness.
+  beta: 4 - 5%
+  caryophyllene: 11.5 - 11.5% of total oil
+  cohumulone: 20 - 22% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 2011, Kohatu is a...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 36 - 37% of total oil
+  myrcene: 35 - 36% of total oil
+  name: Kohatu
+  region: New Zealand
+  total_oils: 1 - 1 mL/100g
+  url: https://ychhops.com/varieties/kohatu
+liberty:
+  alpha: 4 - 5.5%
+  aroma: Specific aroma descriptors include noble, delicate, floral bouquet and spice.
+  beta: 3 - 4%
+  caryophyllene: 15 - 25% of total oil
+  cohumulone: 22 - 24% of alpha acids
+  description: "\n                  Bred in 1983, Liberty is an extension of the Hallertau\
+    \ hop family. It is a half-sister to Ultra, Mt. Hood and Crystal....\n       \
+    \         "
+  farnesene: 0.6 - 1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 10 - 15% of total oil
+  myrcene: 0.1 - 0.3% of total oil
+  name: Liberty
+  region: United States
+  total_oils: 1 - 1.8 mL/100g
+  url: https://ychhops.com/varieties/liberty
+loral:
+  alpha: 11.3 - 12.2%
+  aroma: Specific aroma descriptors include very pleasant, floral, peppery, lemon-citrus
+    and dark fruit.
+  beta: 4.9 - 5.3%
+  caryophyllene: 52 - 58% of total oil
+  cohumulone: 21 - 24% of alpha acids
+  description: "\n                  Developed by Hop Breeding Company and released\
+    \ in 2016, Loral® Brand HBC 291 has a noble heritage that straddles the fence...\n\
+    \                "
+  farnesene: 1 - 1.1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 5 - 5.7% of total oil
+  myrcene: 0.6 - 0.7% of total oil
+  name: Loral
+  region: United States
+  total_oils: 1.8 - 2.9 mL/100g
+  url: https://ychhops.com/varieties/loral-brand-hbc-291-cv
+magnum:
+  alpha: 12 - 15.5%
+  aroma: Magnum is a bittering hop with no distinct aroma characteristics.
+  beta: 5.5 - 8%
+  caryophyllene: 30 - 40% of total oil
+  cohumulone: 23 - 28% of alpha acids
+  description: "\n                  Bred at the Hop Research Center in Hüll in 1980\
+    \ and released in 1993, Magnum is a German variety (also grown in the US) and...\n\
+    \                "
+  farnesene: 0.4 - 0.7% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 7 - 12% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Magnum
+  region: United States
+  total_oils: 2 - 3 mL/100g
+  url: https://ychhops.com/varieties/magnum
+mandarina-bavaria:
+  alpha: 7 - 10%
+  aroma: Specific aroma descriptors include fruity and citrus, specifically distinct
+    tangerine and citrus flavors.
+  beta: 5 - 6.5%
+  caryophyllene: 1 - 5% of total oil
+  cohumulone: 31 - 35% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll, Mandarina\
+    \ Bavaria displays pleasant fruitiness in finished beers.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 5 - 15% of total oil
+  myrcene: 70 - 72% of total oil
+  name: Mandarina Bavaria
+  region: Germany
+  total_oils: 2.1 - 2.3 mL/100g
+  url: https://ychhops.com/varieties/mandarina-bavaria
+merkur:
+  alpha: 12 - 14%
+  aroma: Specific aroma descriptors include sugar, pineapple and mint.
+  beta: 4.5 - 5.5%
+  caryophyllene: 0.6 - 1.1% of total oil
+  cohumulone: 18 - 20% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll and\
+    \ registered in 2001, Merkur was the first mildew-resistant hop variety from the...\n\
+    \                "
+  farnesene: 8 - 10% of total oil
+  geraniol: 28 - 32% of total oil
+  humulene: < 1.0% of total oil
+  myrcene: 45 - 50% of total oil
+  name: Merkur
+  region: Germany
+  total_oils: 2 - 3 mL/100g
+  url: https://ychhops.com/varieties/merkur
+millennium:
+  alpha: 15.5 - 18.5%
+  aroma: Specific aroma descriptors include resin, floral, toffee and pear.
+  beta: 5 - 6.5%
+  caryophyllene: 35 - 55% of total oil
+  cohumulone: 29 - 35% of alpha acids
+  description: "\n                  Bred by the John I. Haas breeding program and\
+    \ released in 2000, Millennium is a super-alpha variety with mild, herbal aromas....\n\
+    \                "
+  farnesene: 0.3 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 10% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Millennium
+  region: United States
+  total_oils: 1.5 - 3 mL/100g
+  url: https://ychhops.com/varieties/millennium
+mosaic:
+  alpha: 10.5 - 14%
+  aroma: Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms,
+    grass and bubble gum.
+  beta: 3 - 4.5%
+  caryophyllene: 48 - 55% of total oil
+  cohumulone: 21 - 25% of alpha acids
+  description: "\n                  Developed by Hop Breeding Company and released\
+    \ in 2012, Mosaic® Brand HBC 369 contains high alpha content and features a...\n\
+    \                "
+  farnesene: 0.4 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 3 - 8% of total oil
+  myrcene: 0.6 - 1% of total oil
+  name: Mosaic
+  region: United States
+  total_oils: 0.8 - 3 mL/100g
+  url: https://ychhops.com/varieties/mosaic-brand-hbc-369-cv
+motueka:
+  alpha: 6.5 - 7.5%
+  aroma: Specific aroma descriptors include distinctive fresh crushed citrus, "Mojito"
+    lime character, lively lemon and lime tones with background hints of tropical
+    fruit.
+  beta: 5 - 5.5%
+  caryophyllene: 1 - 3% of total oil
+  cohumulone: 28 - 30% of alpha acids
+  description: "\n                  Bred as part of the Hops with a Difference programme,\
+    \ Motueka is an excellent hop in many applications from first kettle...\n    \
+    \            "
+  farnesene: 12.1 - 12.3% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 3.5 - 3.7% of total oil
+  myrcene: 47 - 49% of total oil
+  name: Motueka
+  region: New Zealand
+  total_oils: 0.7 - 0.9 mL/100g
+  url: https://ychhops.com/varieties/motueka
+mt-hood:
+  alpha: 4 - 6.5%
+  aroma: Specific aroma descriptors include herbal, pungent and spicy.
+  beta: 4.4 - 7.2%
+  caryophyllene: 25 - 35% of total oil
+  cohumulone: 21 - 25% of alpha acids
+  description: "\n                  Bred in 1983 and released from the USDA breeding\
+    \ program in Oregon in 1989, Mt. Hood is a triploid aroma type cultivar with...\n\
+    \                "
+  farnesene: 0.5 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 10 - 16% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Mt. Hood
+  region: United States
+  total_oils: 0.8 - 2 mL/100g
+  url: https://ychhops.com/varieties/mt-hood
+mt-rainier:
+  alpha: 5 - 7%
+  aroma: Specific aroma descriptors include noble, licorice and floral bouquet.
+  beta: 8 - 10%
+  caryophyllene: 50 - 60% of total oil
+  cohumulone: 21 - 23% of alpha acids
+  description: "\n                  Bred by Oregon State University, Mt. Rainier is\
+    \ a dual purpose variety with noble aroma characteristics. It is similar to the...\n\
+    \                "
+  farnesene: 0.6 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 10% of total oil
+  myrcene: 0.6 - 0.8% of total oil
+  name: Mt. Rainier
+  region: United States
+  total_oils: 1.5 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/mt-rainier
+nelson-sauvin:
+  alpha: 12 - 13%
+  aroma: Specific aroma descriptors include distinctive "New World" white wine characters;
+    fruitiness with fresh crushed gooseberry and grape infused flavors.
+  beta: 6 - 8%
+  caryophyllene: 10.7 - 10.7% of total oil
+  cohumulone: 23 - 25% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 2000, Nelson Sauvin...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 36.4 - 36.4% of total oil
+  myrcene: 22 - 23% of total oil
+  name: Nelson Sauvin
+  region: New Zealand
+  total_oils: 1.1 - 1.1 mL/100g
+  url: https://ychhops.com/varieties/nelson-sauvin
+newport:
+  alpha: 10 - 12.5%
+  aroma: Specific aroma descriptors include earth, citrus, wine and balsamic.
+  beta: 5.5 - 6.5%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 36 - 38% of alpha acids
+  description: "\n                  Bred in 1992 by Oregon State University and released\
+    \ in 1992 through the USDA, Newport is a descendant of the classic...\n      \
+    \          "
+  farnesene: 0.3 - 0.7% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 7 - 11% of total oil
+  myrcene: 0.6 - 0.9% of total oil
+  name: Newport
+  region: United States
+  total_oils: 1.6 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/newport
+northdown:
+  alpha: 7.5 - 9.5%
+  aroma: Specific aroma descriptors include pleasant spice, cedar and pine characteristics
+    with hints of floral and berry flavors.
+  beta: 5 - 5.5%
+  caryophyllene: 13 - 17% of total oil
+  cohumulone: 24 - 30% of alpha acids
+  description: "\n                  An excellent dual purpose hop that works well\
+    \ on its own, or in conjunction with an aroma variety.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 40 - 45% of total oil
+  myrcene: 23 - 29% of total oil
+  name: Northdown
+  region: United Kingdom
+  total_oils: 1.5 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/northdown
+northern-brewer:
+  alpha: 7 - 10%
+  aroma: Specific aroma descriptors include evergreen, wood and mint.
+  beta: 3.5 - 5.5%
+  caryophyllene: 35 - 45% of total oil
+  cohumulone: 30 - 34% of alpha acids
+  description: "\n                  Bred in England in 1934 from a Canterbury Golding\
+    \ plant and male seedling of Brewer's Gold, Northern Brewer is mainly grown...\n\
+    \                "
+  farnesene: 0.4 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 11 - 15% of total oil
+  myrcene: 0.4 - 0.7% of total oil
+  name: Northern Brewer
+  region: United States
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/northern-brewer
+nugget:
+  alpha: 13.5 - 16%
+  aroma: Specific aroma descriptors include mild, pleasant, herbal aromas.
+  beta: 4.4 - 5.5%
+  caryophyllene: 40 - 50% of total oil
+  cohumulone: 22 - 26% of alpha acids
+  description: "\n                  Nugget can be used as a bittering hop. It has\
+    \ pleasant, mild, herbal aromas.\n                "
+  farnesene: 0.8 - 1% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 9 - 11% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Nugget
+  region: United States
+  total_oils: 1 - 3 mL/100g
+  url: https://ychhops.com/varieties/nugget
+opal:
+  alpha: 5 - 8%
+  aroma: Specific aroma descriptors include spice, pepper, citrus and an even dispersal
+    of fruity, floral and herbal.
+  beta: 3.5 - 5.5%
+  caryophyllene: 8 - 15% of total oil
+  cohumulone: 13 - 17% of alpha acids
+  description: "\n                  Developed at the Hüll Research Center, Opal exhibits\
+    \ excellent aroma characteristics combined with a respectable alpha acid...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 30 - 50% of total oil
+  myrcene: 20 - 45% of total oil
+  name: Opal
+  region: Germany
+  total_oils: 0.8 - 1.3 mL/100g
+  url: https://ychhops.com/varieties/opal
+pacific-gem:
+  alpha: 13 - 15%
+  aroma: Specific aroma descriptors include spicy black pepper and berry fruit aroma
+    characteristics; some brewers have noted delicate blackberry, floral or oak tones.
+  beta: 7 - 9%
+  caryophyllene: 10 - 12% of total oil
+  cohumulone: 36 - 38% of alpha acids
+  description: "\n                  A triploid alpha type developed through the New\
+    \ Zealand Hop breeding program, Pacific Gem fills the brew house with enticing...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 29.8 - 30% of total oil
+  myrcene: 32 - 34% of total oil
+  name: Pacific Gem
+  region: New Zealand
+  total_oils: 1.1 - 1.3 mL/100g
+  url: https://ychhops.com/varieties/pacific-gem
+pacific-jade:
+  alpha: 12 - 14%
+  aroma: Specific aroma descriptors include fresh citrus and complex spice characters;
+    some bold herbal aromas and hints of black pepper.
+  beta: 7 - 8%
+  caryophyllene: 10.2 - 10.2% of total oil
+  cohumulone: 23 - 25% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 2004, Pacific Jade is...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 32.9 - 32.9% of total oil
+  myrcene: 33 - 34% of total oil
+  name: Pacific Jade
+  region: New Zealand
+  total_oils: 1.4 - 1.4 mL/100g
+  url: https://ychhops.com/varieties/pacific-jade
+pacifica:
+  alpha: 5 - 6%
+  aroma: Specific aroma descriptors include a signature citrus "orange zest" marmalade;
+    classic Hallertau characteristics with some floral notes.
+  beta: 5.9 - 6.1%
+  caryophyllene: 16.6 - 16.8% of total oil
+  cohumulone: 24 - 26% of alpha acids
+  description: "\n                  A triploid aroma type developed through the HortResearch,\
+    \ New Zealand Hop Breeding programme, Pacifica brings something of a...\n    \
+    \            "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 50.8 - 51% of total oil
+  myrcene: 12 - 13% of total oil
+  name: Pacifica
+  region: New Zealand
+  total_oils: 0.9 - 1.1 mL/100g
+  url: https://ychhops.com/varieties/pacifica
+palisade:
+  alpha: 6.5 - 10%
+  aroma: Specific aroma descriptors include apricot, grass and clean floral characteristics.
+  beta: 5.5 - 8%
+  caryophyllene: 45 - 52% of total oil
+  cohumulone: 26 - 28% of alpha acids
+  description: "\n                  Developed by Select Botanicals Group, Palisade®\
+    \ Brand YCR 4 is known for its high yield and unique aroma profile. The variety...\n\
+    \                "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 16% of total oil
+  myrcene: 0.6 - 0.8% of total oil
+  name: Palisade
+  region: United States
+  total_oils: 0.8 - 2 mL/100g
+  url: https://ychhops.com/varieties/palisade-brand-ycr-4-cv
+perle:
+  alpha: 6 - 9%
+  aroma: Specific aroma descriptors include floral and spicy.
+  beta: 3 - 4.5%
+  caryophyllene: 30 - 45% of total oil
+  cohumulone: 28 - 31% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll and\
+    \ released in 1978, Perle is a cross between Northern Brewer and 63/5/27M. It\
+    \ is...\n                "
+  farnesene: 0.3 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 12 - 16% of total oil
+  myrcene: 0.3 - 0.6% of total oil
+  name: Perle
+  region: United States
+  total_oils: 0.8 - 2 mL/100g
+  url: https://ychhops.com/varieties/perle
+phoenix:
+  alpha: 8 - 12%
+  aroma: Specific aroma descriptors include spicy, floral and chocolate.
+  beta: 3.8 - 4.5%
+  cohumulone: 0% of alpha acids
+  description: "\n                  Bred at Wye College and released in 1996, Phoenix\
+    \ is a seedling of Yeoman. In brewing trials, Phoenix has produced excellent...\n\
+    \                "
+  name: Phoenix
+  region: United Kingdom
+  total_oils: 1.2 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/phoenix
+pilgrim:
+  alpha: 9 - 13%
+  aroma: Specific aroma descriptors include distinct fruit and spice characteristics
+    with pleasant lemon, grapefruit, pear and berry flavors.
+  beta: 4.3 - 5%
+  caryophyllene: 7 - 8% of total oil
+  cohumulone: 36 - 38% of alpha acids
+  description: "\n                  Often compared to UK Target, Pilgrim performs\
+    \ well as a replacement for high alpha or dual purpose hops.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 16.9 - 17.1% of total oil
+  myrcene: 29 - 31% of total oil
+  name: Pilgrim
+  region: United Kingdom
+  total_oils: 1.2 - 2.4 mL/100g
+  url: https://ychhops.com/varieties/pilgrim
+pioneer:
+  alpha: 8.5 - 11.4%
+  aroma: Specific aroma descriptors include pleasant citrus (lemon and grapefruit)
+    tones and hints of herbal, cedar flavors.
+  beta: 3.2 - 4.9%
+  cohumulone: 33 - 40% of alpha acids
+  description: "\n                  Combines a pleasant aroma with a moderately high\
+    \ alpha acid content.\n                "
+  name: Pioneer
+  region: United Kingdom
+  total_oils: 1.5 - 2.3 mL/100g
+  url: https://ychhops.com/varieties/pioneer
+polaris:
+  alpha: 18 - 23%
+  aroma: Specific aroma descriptors include mint, pineapple and menthol.
+  beta: 4.5 - 6%
+  caryophyllene: 0.1 - 0.4% of total oil
+  cohumulone: 22 - 28% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll and\
+    \ released in 2012, Polaris was commercialized as a new, German variety in...\n\
+    \                "
+  farnesene: 8 - 13% of total oil
+  geraniol: 20 - 35% of total oil
+  humulene: < 1.0% of total oil
+  myrcene: 49 - 51% of total oil
+  name: Polaris
+  region: Germany
+  total_oils: 4 - 5 mL/100g
+  url: https://ychhops.com/varieties/polaris
+premiant:
+  alpha: 7 - 10%
+  aroma: Specific aroma descriptors include pleasant and mild.
+  beta: 3.5 - 5.5%
+  caryophyllene: 30 - 45% of total oil
+  cohumulone: 18 - 23% of alpha acids
+  description: "\n                  Bred from Saaz and released in 1996, Premiant\
+    \ has a relatively high alpha content for Czech varieties. As a result, it has...\n\
+    \                "
+  farnesene: 0.4 - 0.7% of total oil
+  geraniol: 1 - 3% of total oil
+  humulene: 9 - 13% of total oil
+  myrcene: 0.4 - 0.7% of total oil
+  name: Premiant
+  region: Czech Republic
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/premiant
+pride-of-ringwood:
+  alpha: 8.6 - 10.5%
+  aroma: Specific aroma descriptors include pronounced and pleasant with cedar, oak
+    and herbal tones.
+  beta: 4.4 - 7%
+  caryophyllene: 9 - 14% of total oil
+  cohumulone: 26 - 34% of alpha acids
+  description: "\n                  Bred in 1953 and commercially grown since the\
+    \ 1960s. One of Australia's most known and utilized hop varieties. Predominantly...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 2 - 4% of total oil
+  myrcene: 24 - 41% of total oil
+  name: Pride of Ringwood
+  region: Australia
+  total_oils: 1.6 - 1.8 mL/100g
+  url: https://ychhops.com/varieties/pride-of-ringwood
+progress:
+  alpha: 6 - 7.5%
+  aroma: Specific aroma descriptors include grass, mint, sweet, honey, and blackcurrant.
+  beta: 2 - 2.7%
+  caryophyllene: 12 - 15% of total oil
+  cohumulone: 25 - 30% of alpha acids
+  description: "\n                  Bred at Wye College in 1951 and released in 1964,\
+    \ Progress is a cross between WGV (Whitbread Golding Variety) and a wild,...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 40 - 47% of total oil
+  myrcene: 24 - 28% of total oil
+  name: Progress
+  region: United Kingdom
+  total_oils: 0.5 - 0.8 mL/100g
+  url: https://ychhops.com/varieties/progress
+rakau:
+  alpha: 10 - 11%
+  aroma: Specific aroma descriptors include stone fruit and fig characteristics; fresh
+    orchard fruits, specifically apricot with some resinous pine needle characteristics
+    are noted.
+  beta: 5 - 6%
+  caryophyllene: 5.2 - 5.2% of total oil
+  cohumulone: 23 - 25% of alpha acids
+  description: "\n                  Re-released in 2007 from the New Zealand hop breeding\
+    \ program, Rakau is often described as “the whole orchard.” It is often...\n \
+    \               "
+  farnesene: 4.5 - 4.5% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 16.3 - 16.3% of total oil
+  myrcene: 56 - 56% of total oil
+  name: Rakau
+  region: New Zealand
+  total_oils: 2.2 - 2.2 mL/100g
+  url: https://ychhops.com/varieties/rakau
+riwaka:
+  alpha: 4.5 - 6.5%
+  aroma: Specific aroma descriptors include powerfully fueled tropical passion fruit
+    with grapefruit and citrus characters.
+  beta: 4 - 5%
+  caryophyllene: 3.9 - 4.1% of total oil
+  cohumulone: 31 - 33% of alpha acids
+  description: "\n                  A triploid aroma type bred during the development\
+    \ of New Zealand Hops “Hops with a Difference” programme, Riwaka is a...\n   \
+    \             "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 8.9 - 9.1% of total oil
+  myrcene: 67 - 69% of total oil
+  name: Riwaka
+  region: New Zealand
+  total_oils: 1.4 - 1.6 mL/100g
+  url: https://ychhops.com/varieties/riwaka
+saaz:
+  alpha: 2.5 - 4.5%
+  aroma: Specific aroma descriptors include mild with pleasant earthy, herbal and
+    floral overtones.
+  beta: 4 - 6%
+  caryophyllene: 26 - 40% of total oil
+  cohumulone: 23 - 26% of alpha acids
+  description: "\n                  The classic \"noble\" aroma hop with long and\
+    \ strong traditions, associated with the renowned pilsner lager.\n           \
+    \     "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: 14 - 20% of total oil
+  humulene: 6 - 9% of total oil
+  myrcene: 0.4 - 0.8% of total oil
+  name: Saaz
+  region: Czech Republic
+  total_oils: 0.4 - 0.8 mL/100g
+  url: https://ychhops.com/varieties/czech-saaz
+santiam:
+  alpha: 6 - 8.5%
+  aroma: Specific aroma descriptors include black pepper, floral and spice.
+  beta: 7 - 8%
+  caryophyllene: 15 - 25% of total oil
+  cohumulone: 22 - 24% of alpha acids
+  description: "\n                  Released in 1997 by the USDA, Santiam is a triploid\
+    \ selection from Tettnang, Hallertau Mittelfrüh and a cultivar derived from...\n\
+    \                "
+  farnesene: 0.8 - 1.2% of total oil
+  geraniol: 14 - 18% of total oil
+  humulene: 6 - 9% of total oil
+  myrcene: 0.2 - 0.4% of total oil
+  name: Santiam
+  region: United States
+  total_oils: 1 - 2.2 mL/100g
+  url: https://ychhops.com/varieties/santiam
+saphir:
+  alpha: 2 - 4%
+  aroma: Specific aroma descriptors include spicy, fruity and floral with hints of
+    tangerine tones
+  beta: 4 - 7%
+  caryophyllene: 9 - 14% of total oil
+  cohumulone: 12 - 17% of alpha acids
+  description: "\n                  Saphir is a good aroma variety with a distinct\
+    \ hoppy tang and an average bitter value.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 20 - 30% of total oil
+  myrcene: 25 - 40% of total oil
+  name: Saphir
+  region: Germany
+  total_oils: 0.8 - 1.4 mL/100g
+  url: https://ychhops.com/varieties/saphir
+savinjski-golding:
+  alpha: 4.5 - 6%
+  aroma: Specific aroma descriptors include noble.
+  beta: 2.5 - 3.5%
+  caryophyllene: 9 - 11% of total oil
+  cohumulone: 25 - 30% of alpha acids
+  description: "\n                  Originating from UK Fuggle, Styrian Savinjski\
+    \ Golding is a traditional Slovenian variety with pleasant bittering and noble...\n\
+    \                "
+  farnesene: 2 - 5% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 34 - 38% of total oil
+  myrcene: 27 - 33% of total oil
+  name: Savinjski Golding
+  region: Slovenia
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/savinjski-golding
+select:
+  alpha: 3 - 6.5%
+  aroma: Specific aroma descriptors include spicy and grass.
+  beta: 2.4 - 5%
+  caryophyllene: 1 - 1.5% of total oil
+  cohumulone: 21 - 27% of alpha acids
+  description: "\n                  Bred at the Hop Research Center in Hüll and released\
+    \ in 1993, Select is often referred to as “Spalter Select.” It was bred to...\n\
+    \                "
+  farnesene: 4 - 10% of total oil
+  geraniol: 10 - 22% of total oil
+  humulene: 15 - 22% of total oil
+  myrcene: 20 - 40% of total oil
+  name: Select
+  region: Germany
+  total_oils: 0.6 - 0.9 mL/100g
+  url: https://ychhops.com/varieties/select
+simcoe:
+  alpha: 11.5 - 15%
+  aroma: Specific aroma descriptors include passion fruit, pine, berry and earth characteristics.
+  beta: 3 - 4.5%
+  caryophyllene: 40 - 50% of total oil
+  cohumulone: 17 - 21% of alpha acids
+  description: "\n                  Developed by Select Botanicals Group and released\
+    \ in 2000, Simcoe® Brand YCR 14 is known for its brewing versatility and...\n\
+    \                "
+  farnesene: 0.5 - 0.9% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 8 - 14% of total oil
+  myrcene: 0.5 - 1% of total oil
+  name: Simcoe
+  region: United States
+  total_oils: 0.8 - 3.2 mL/100g
+  url: https://ychhops.com/varieties/simcoe-brand-ycr-14-cv
+smaragd:
+  alpha: 4 - 6%
+  aroma: Specific aroma descriptors include floral, spicy and mild fruity.
+  beta: 3.5 - 5.5%
+  caryophyllene: 9 - 14% of total oil
+  cohumulone: 13 - 18% of alpha acids
+  description: "\n                  Formerly known as Emerald, Smaragd is a fine aroma\
+    \ variety with high bitter value. This variety shows high yields and good...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 30 - 50% of total oil
+  myrcene: 20 - 40% of total oil
+  name: Smaragd
+  region: Germany
+  total_oils: 0.4 - 0.8 mL/100g
+  url: https://ychhops.com/varieties/smaragd
+sorachi-ace:
+  alpha: 11.5 - 14.5%
+  aroma: Specific aroma descriptors include lemon, lime and dill.
+  beta: 6 - 7.5%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 25 - 28% of alpha acids
+  description: "\n                  Developed in Japan in 1984 for Sapporo Breweries,\
+    \ Ltd., Sorachi Ace is a cross between Brewer's Gold, Saaz and Beikei No. 2...\n\
+    \                "
+  farnesene: 0.3 - 0.5% of total oil
+  geraniol: 2 - 5% of total oil
+  humulene: 7 - 11% of total oil
+  myrcene: 0.5 - 0.8% of total oil
+  name: Sorachi Ace
+  region: United States
+  total_oils: 1.5 - 3 mL/100g
+  url: https://ychhops.com/varieties/sorachi-ace
+southern-cross:
+  alpha: 11 - 14%
+  aroma: Specific aroma descriptors include citrus and tropical fruit with hints of
+    lemon zest, lime, pine and spice.
+  beta: 5 - 6%
+  caryophyllene: 6.7 - 6.7% of total oil
+  cohumulone: 25 - 28% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 1994, Southern Cross...\n\
+    \                "
+  farnesene: 7.3 - 7.3% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 20.8 - 20.8% of total oil
+  myrcene: 31 - 32% of total oil
+  name: Southern Cross
+  region: New Zealand
+  total_oils: 1.2 - 1.2 mL/100g
+  url: https://ychhops.com/varieties/southern-cross
+sovereign:
+  alpha: 4.5 - 6.5%
+  aroma: Specific aroma descriptors include pleasant but intense fruity flavors with
+    mild floral, grassy, herbal and mint characteristics.
+  beta: 2.1 - 3.1%
+  cohumulone: 26 - 30% of alpha acids
+  description: "\n                  Works well with Goldings and as a single hop.\n\
+    \                "
+  name: Sovereign
+  region: United Kingdom
+  total_oils: 0.6 - 1 mL/100g
+  url: https://ychhops.com/varieties/sovereign
+spalt:
+  alpha: 2.5 - 5.5%
+  aroma: Specific aroma descriptors include noble characteristics.
+  beta: 3 - 5%
+  caryophyllene: 0.5 - 0.8% of total oil
+  cohumulone: 22 - 29% of alpha acids
+  description: "\n                  A landrace variety originating from the Spalt\
+    \ region in Southern Germany, Spalt (or Spalter) is an aroma variety with...\n\
+    \                "
+  farnesene: 8 - 13% of total oil
+  geraniol: 20 - 30% of total oil
+  humulene: 12 - 18% of total oil
+  myrcene: 20 - 35% of total oil
+  name: Spalt
+  region: Germany
+  total_oils: 0.5 - 0.9 mL/100g
+  url: https://ychhops.com/varieties/spalt
+sterling:
+  alpha: 5.5 - 8.5%
+  aroma: Specific aroma descriptors include noble and spicy.
+  beta: 4.5 - 6%
+  caryophyllene: 35 - 45% of total oil
+  cohumulone: 22 - 27% of alpha acids
+  description: "\n                  Bred in 1990 and released in 1998, Sterling is\
+    \ an aroma variety with noble hop characteristics. It shows moderate tolerance...\n\
+    \                "
+  farnesene: 0.6 - 0.9% of total oil
+  geraniol: 15 - 19% of total oil
+  humulene: 5 - 8% of total oil
+  myrcene: 0.3 - 0.6% of total oil
+  name: Sterling
+  region: United States
+  total_oils: 1 - 2 mL/100g
+  url: https://ychhops.com/varieties/sterling
+strisselspalt:
+  alpha: 1.8 - 2.5%
+  aroma: Specific aroma descriptors include spicy, citrusy, floral, fruity and herbal.
+  beta: 4 - 4.7%
+  caryophyllene: 8 - 10% of total oil
+  cohumulone: 20 - 23% of alpha acids
+  description: "\n                  Strisselpalt is from the Alsace area of France,\
+    \ near Strasbourg. It is globally accepted as a good aroma hop with similar...\n\
+    \                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 13 - 21% of total oil
+  myrcene: 35 - 52% of total oil
+  name: Strisselspalt
+  region: France
+  total_oils: 0.6 - 0.8 mL/100g
+  url: https://ychhops.com/varieties/strisselspalt
+summer:
+  alpha: 5.6 - 6.4%
+  aroma: Specific aroma descriptors include apricot and melon.
+  beta: 4.8 - 6.1%
+  caryophyllene: 0.2 - 0.6% of total oil
+  cohumulone: 20 - 25% of alpha acids
+  description: "\n                  Bred in 1997 at Tasmanian Bushy Park Breeding\
+    \ Garden, Summer™ is the result of open pollination of a tetraploid Czech Saaz....\n\
+    \                "
+  farnesene: 8 - 11% of total oil
+  geraniol: 28 - 50% of total oil
+  humulene: < 1.0% of total oil
+  myrcene: 29 - 38% of total oil
+  name: Summer
+  region: Australia
+  total_oils: 1.4 - 2 mL/100g
+  url: https://ychhops.com/varieties/summer
+summit:
+  alpha: 15 - 17%
+  aroma: Specific aroma descriptors include pepper, incense, anise, orange, pink grapefruit
+    and tangerine.
+  beta: 5 - 6.5%
+  caryophyllene: 30 - 40% of total oil
+  cohumulone: 29 - 32% of alpha acids
+  description: "\n                  Bred by the American Dwarf Hop Association and\
+    \ released in 2003, Summit™ is a cross between Lexus and an unspecified male...\n\
+    \                "
+  farnesene: 0.2 - 0.4% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 12 - 16% of total oil
+  myrcene: 0.3 - 0.6% of total oil
+  name: Summit
+  region: United States
+  total_oils: 1.5 - 3 mL/100g
+  url: https://ychhops.com/varieties/summit
+super-pride:
+  alpha: 12.5 - 16.3%
+  aroma: Specific aroma descriptors include mild and pleasant subtle resin and fruit
+    tones.
+  beta: 6 - 8%
+  caryophyllene: 5 - 9% of total oil
+  cohumulone: 26 - 29% of alpha acids
+  description: "\n                  Similar to Pride of Ringwood but with higher levels\
+    \ of alpha acids.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 1 - 2% of total oil
+  myrcene: 34 - 42% of total oil
+  name: Super Pride
+  region: Australia
+  total_oils: 3.4 - 4 mL/100g
+  url: https://ychhops.com/varieties/superpride
+sussex:
+  alpha: 4.3 - 5.8%
+  aroma: Specific aroma descriptors include earthy, grass, mint, citrus and vanilla.
+  beta: 2.4 - 3.2%
+  cohumulone: 32 - 43% of alpha acids
+  description: "\n                  Discovered in 2005 at Gate Court, Northiam in\
+    \ East Sussex, Sussex is a “chance find” variety. It is likely to have resulted...\n\
+    \                "
+  name: Sussex
+  region: United Kingdom
+  total_oils: 0.4 - 0.6 mL/100g
+  url: https://ychhops.com/varieties/sussex
+sylva:
+  alpha: 5.6 - 7.3%
+  aroma: Specific aroma descriptors include floral, herbal and noble characteristics.
+  beta: 3 - 4.6%
+  caryophyllene: 5 - 8% of total oil
+  cohumulone: 20 - 25% of alpha acids
+  description: "\n                  Bred in 1997 at Tasmanian Bushy Park Breeding\
+    \ Garden, Sylva™ is a result of open pollination of Czech Saaz. Brewing...\n \
+    \               "
+  farnesene: 25 - 25% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 18 - 27% of total oil
+  myrcene: 26 - 36% of total oil
+  name: Sylva
+  region: Australia
+  total_oils: 1 - 1.4 mL/100g
+  url: https://ychhops.com/varieties/sylva
+tahoma:
+  alpha: 6 - 7.5%
+  aroma: Specific aroma descriptors include lemon, grapefruit, cedar, pine, spice
+    and pepper.
+  beta: 7 - 8%
+  caryophyllene: 55 - 65% of total oil
+  cohumulone: 15 - 17% of alpha acids
+  description: "\n                  Released by Washington State University in 2013,\
+    \ Tahoma is one of three new public varieties to come to market. It retains...\n\
+    \                "
+  farnesene: 0.4 - 0.8% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 3 - 5% of total oil
+  myrcene: 0.8 - 1.2% of total oil
+  name: Tahoma
+  region: United States
+  total_oils: 1.5 - 2 mL/100g
+  url: https://ychhops.com/varieties/tahoma
+target:
+  alpha: 9.5 - 12.5%
+  aroma: Specific aroma descriptors include fresh green sage, spicy and peppery, and
+    hints of citrus marmalade.
+  beta: 4.3 - 5.7%
+  caryophyllene: 8 - 10% of total oil
+  cohumulone: 35 - 40% of alpha acids
+  description: "\n                  A flexible hop.\n                "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 17 - 22% of total oil
+  myrcene: 45 - 55% of total oil
+  name: Target
+  region: United Kingdom
+  total_oils: 1.2 - 1.4 mL/100g
+  url: https://ychhops.com/varieties/target
+tettnang:
+  alpha: 4 - 6%
+  aroma: Specific aroma descriptors include noble characteristics.
+  beta: 2.5 - 4%
+  caryophyllene: 30 - 40% of total oil
+  cohumulone: 25 - 28% of alpha acids
+  description: "\n                  Originating from the traditional landrace variety\
+    \ from Germany, Tettnang is from the Saaz group. It displays fine, noble...\n\
+    \                "
+  farnesene: 0.6 - 0.8% of total oil
+  geraniol: 5 - 8% of total oil
+  humulene: 10 - 14% of total oil
+  myrcene: 0.3 - 0.5% of total oil
+  name: Tettnang
+  region: United States
+  total_oils: 0.4 - 1 mL/100g
+  url: https://ychhops.com/varieties/tettnang
+tomahawk:
+  alpha: 15 - 17.5%
+  aroma: Specific aroma descriptors include pungent, black pepper, licorice, curry
+    and subtle citrus.
+  beta: 4.5 - 6%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 28 - 30% of alpha acids
+  description: "\n                  Bred by Chales Zimmermann, Tomahawk® Brand F10\
+    \ cv. was the first commercially grown “Super Alpha” variety. It is tolerant to...\n\
+    \                "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 10% of total oil
+  myrcene: 0.6 - 1% of total oil
+  name: Tomahawk
+  region: United States
+  total_oils: 2.5 - 4.5 mL/100g
+  url: https://ychhops.com/varieties/tomahawk-brand-f10-cv
+tradition:
+  alpha: 4 - 7%
+  aroma: Specific aroma descriptors include medium to intense floral, herbal and grassy
+    notes; some fruity aromas
+  beta: 3 - 6%
+  caryophyllene: 10 - 15% of total oil
+  cohumulone: 24 - 30% of alpha acids
+  description: "\n                  Bred at the Hop Research Institute in Hüll, Germany\
+    \ and registered in 1993, Tradition imparts beer with a harmonic...\n        \
+    \        "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 35 - 50% of total oil
+  myrcene: 17 - 32% of total oil
+  name: Tradition
+  region: Germany
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/tradition
+triplepearl:
+  alpha: 10.3 - 11.2%
+  aroma: Specific aroma descriptors include melon, orange, resin, spice and pepper.
+  beta: 3.3 - 4.2%
+  cohumulone: 0% of alpha acids
+  description: "\n                  Released by USDA-ARS in 2013, TriplePearl is an\
+    \ open pollinated cross between a tetraploid Perle female and an unknown...\n\
+    \                "
+  name: Triplepearl
+  region: United States
+  total_oils: 1.1 - 1.8 mL/100g
+  url: https://ychhops.com/varieties/triplepearl
+triskel:
+  alpha: 8 - 9%
+  aroma: Specific aroma descriptors include strong floral, herbal, citrus and spicy.
+  beta: 4 - 4.7%
+  caryophyllene: 6 - 6.2% of total oil
+  cohumulone: 20 - 23% of alpha acids
+  description: "\n                  Developed in 2006 as a cross between Strisselspalt\
+    \ and Yeoman, Triskel contains many of the same characteristics as...\n      \
+    \          "
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 13.4 - 13.6% of total oil
+  myrcene: 59 - 61% of total oil
+  name: Triskel
+  region: France
+  total_oils: 1.5 - 2 mL/100g
+  url: https://ychhops.com/varieties/triskel
+ultra:
+  alpha: 9.2 - 9.7%
+  aroma: Specific aroma descriptors include mild, spicy and bouquet.
+  beta: 3.8 - 4%
+  caryophyllene: 50 - 60% of total oil
+  cohumulone: 23 - 38% of alpha acids
+  description: "\n                  Bred by the hops research program in Corvallis,\
+    \ Oregon in 1983 and released in 1995 by the USDA, Ultra is a triploid seedling...\n\
+    \                "
+  farnesene: 1 - 1.5% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 9% of total oil
+  myrcene: 0.6 - 1% of total oil
+  name: Ultra
+  region: United States
+  total_oils: 1 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/ultra
+vanguard:
+  alpha: 4.5 - 6.5%
+  aroma: Specific aroma descriptors include woody.
+  beta: 5.5 - 7%
+  caryophyllene: 5 - 15% of total oil
+  cohumulone: 18 - 20% of alpha acids
+  description: "\n                  Bred in 1982 by the USDA and released in 1997,\
+    \ Vanguard is an aroma variety with similar characteristics to Hallertau...\n\
+    \                "
+  farnesene: 0.2 - 0.4% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 13 - 17% of total oil
+  myrcene: 0.1 - 0.6% of total oil
+  name: Vanguard
+  region: United States
+  total_oils: 0.5 - 1 mL/100g
+  url: https://ychhops.com/varieties/vanguard
+wai-iti:
+  alpha: 2.5 - 3.5%
+  aroma: Specific aroma descriptors include fresh peaches and apricot characteristics;
+    freshly squeezed limes with top notes of mixed citrus and spice.
+  beta: 4.5 - 5.5%
+  caryophyllene: 8.9 - 9.1% of total oil
+  cohumulone: 22 - 24% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 2011, Wai-iti is a...\n\
+    \                "
+  farnesene: 12.9 - 13.1% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 27.9 - 28.1% of total oil
+  myrcene: 3 - 3% of total oil
+  name: Wai-Iti
+  region: New Zealand
+  total_oils: 1.6 - 1.6 mL/100g
+  url: https://ychhops.com/varieties/wai-iti
+waimea:
+  alpha: 16 - 19%
+  aroma: Specific aroma descriptors include lots of pine and citrus characters; intense
+    tangelo.
+  beta: 7 - 9%
+  caryophyllene: 2.5 - 2.7% of total oil
+  cohumulone: 22 - 24% of alpha acids
+  description: "\n                  Released from The New Zealand Institute for Plant\
+    \ & Food Research Limited’s Motueka Research Centre, Waimea is...\n          \
+    \      "
+  farnesene: 4.9 - 5.1% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 9.4 - 9.6% of total oil
+  myrcene: 59 - 61% of total oil
+  name: Waimea
+  region: New Zealand
+  total_oils: 2 - 2.2 mL/100g
+  url: https://ychhops.com/varieties/waimea
+wakatu:
+  alpha: 6.5 - 8.5%
+  aroma: Specific aroma descriptors include restrained floral notes and freshly zested
+    lime.
+  beta: 8.4 - 8.6%
+  caryophyllene: 8.1 - 8.3% of total oil
+  cohumulone: 28 - 30% of alpha acids
+  description: "\n                  Developed by the New Zealand Institute for Plant\
+    \ and Food Research hop breeding program and released in 1988, as Hallertau...\n\
+    \                "
+  farnesene: 6.6 - 6.8% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 16.7 - 16.9% of total oil
+  myrcene: 35 - 36% of total oil
+  name: Wakatu
+  region: New Zealand
+  total_oils: 0.9 - 1.1 mL/100g
+  url: https://ychhops.com/varieties/wakatu
+warrior:
+  alpha: 15.5 - 18%
+  aroma: Specific aromas descriptors are mild, resinous and subtle pine.
+  beta: 4.4 - 6%
+  caryophyllene: 40 - 50% of total oil
+  cohumulone: 25 - 28% of alpha acids
+  description: "\n                  Developed by Select Botanicals Group, Warrior®\
+    \ Brand YCR 5 was selected for its high alpha content, low co-humulone, good...\n\
+    \                "
+  farnesene: 0.4 - 0.7% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 11 - 14% of total oil
+  myrcene: 0.5 - 0.7% of total oil
+  name: Warrior
+  region: United States
+  total_oils: 1 - 2.5 mL/100g
+  url: https://ychhops.com/varieties/warrior-brand-ycr-5-cv
+whitbread-golding:
+  alpha: 5.4 - 7.7%
+  aroma: Specific aroma descriptors include fresh earthy, botanical, floral and sweet
+    fruit flavors.
+  beta: 2 - 3.3%
+  caryophyllene: 11 - 15% of total oil
+  cohumulone: 32 - 43% of alpha acids
+  description: "\n                  Developed through grower selection circa 1911,\
+    \ Whitbread Golding (WGV) is not a true Golding. It displays many similar...\n\
+    \                "
+  farnesene: 1 - 2% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 35 - 42% of total oil
+  myrcene: 19 - 27% of total oil
+  name: Whitbread Golding
+  region: United Kingdom
+  total_oils: 0.8 - 1.2 mL/100g
+  url: https://ychhops.com/varieties/whitbread-golding
+willamette:
+  alpha: 4.5 - 6.5%
+  aroma: Specific aroma descriptors include floral, incense, and elderberry.
+  beta: 3 - 4.5%
+  caryophyllene: 22 - 32% of total oil
+  cohumulone: 28 - 32% of alpha acids
+  description: "\n                  Released in 1976 from the USDA breeding program,\
+    \ Willamette is a triploid seedling of English Fuggle. For years, it was the...\n\
+    \                "
+  farnesene: 0.4 - 0.7% of total oil
+  geraniol: 7 - 10% of total oil
+  humulene: 12 - 14% of total oil
+  myrcene: 0.3 - 0.5% of total oil
+  name: Willamette
+  region: United States
+  total_oils: 0.6 - 1.6 mL/100g
+  url: https://ychhops.com/varieties/willamette
+zeus:
+  alpha: 14.5 - 17.5%
+  aroma: Specific aroma descriptors include pungent, black pepper, licorice, and curry.
+  beta: 4 - 5.5%
+  caryophyllene: 45 - 55% of total oil
+  cohumulone: 26 - 31% of alpha acids
+  description: "\n                  Although genetically different, Zeus is often\
+    \ referred to as part of CTZ along with Columbus and Tomahawk®, a trio of similar...\n\
+    \                "
+  farnesene: 0.4 - 0.6% of total oil
+  geraniol: < 1.0% of total oil
+  humulene: 6 - 10% of total oil
+  myrcene: 0.6 - 1% of total oil
+  name: Zeus
+  region: United States
+  total_oils: 2.5 - 4.5 mL/100g
+  url: https://ychhops.com/varieties/zeus
+zythos:
+  alpha: 10 - 12.5%
+  aroma: Specific aroma descriptors include distinct tropical (pineapple) and citrus
+    tones with slight pine characteristics.
+  beta: 4.7 - 6.2%
+  cohumulone: 28 - 31% of alpha acids
+  description: "\n                  Designed to complement existing IPA and Pale Ale\
+    \ hop varieties, Zythos® is an excellent blend for any hop forward beer.\n   \
+    \             "
+  name: Zythos
+  region: United States
+  total_oils: 0.7 - 1.2 mL/100g
+  url: https://ychhops.com/varieties/zythos
