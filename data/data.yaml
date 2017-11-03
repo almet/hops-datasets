@@ -1,0 +1,35 @@
+- aurora:
+    - name: Aurora
+    - proprietary: false
+    - date: 1970
+    - history: "A high-alpha hop sometimes called the \"super Styrian \" though it is actually a cross between Northern Brewer and an unknown Slovenian hop.  Developed in the 1970s."
+    - flavor: "Descriptions vary widely from spicy and earthy to tropical/pineapple. (alpha acid: 10-12% / beta acid: 4-5%. Total oils 1.1 - 1.8 ml.)"
+    - parents:
+        - northern-brewer,
+        - unknown-slovenian-hop
+- amarillo:
+    - name: Amarillo
+    - proprietary: true
+    - history: "Amarillo was discovered growing on Virgil Gamache Farms as a wild hop cross and is a proprietary strain owned by Yakima Chief."
+    - flavor: "Described as a “super Cascade” with pronounced citrus (orange) and tropical fruit character (it can get seriously juicy). High in beta acids and a good aroma hop. (alpha acid: 8-11% / beta acid: 6-7%. Total oils 1.5-1.9 ml.)"
+- bravo:
+    - name: bravo
+    - date: 2006
+    - history: "A super-high alpha hop with principally Zeus and Nugget parentage released by SS Steiner in 2006."
+    - parents:
+        - nugget
+        - zeus
+- brewers-gold:
+    - name: Brewer's Gold
+    - date: 1919
+    - history: "A British bittering hop developed in 1919. Both Brewer's Gold and Bullion are seedlings found wild in Manitoba. It's an English/wild Canadian cross. Many modern high alpha hops were developed from Brewer's Gold."
+    - flavor: "It has a resiny, spicy aroma/flavor with hints of black currant which some folks find objectionable. (alpha acid: 8-10% / beta acid: 3.5-4.5%. Total oils 1.6-1.9 ml.)"
+- bullion:
+    - name: Bullion
+    - date: 1919
+    - history: "There are actually two lineages of Bullion.  The first was an English hop developed in 1919 where an unknown English hop was crossed with a wild hop gathered in Manitoba.  The second was a revival of the original in WA in the 1970s through heat treatment and meristem tip culture."
+    - flavor: "A pungent and earthy/spicy hop with black currant notes."
+    - info:
+        - alpha-acid: "7-13%"
+        - beta-acid: "4-9%"
+        - total-oils: "1.1 - 2.7 ml"
