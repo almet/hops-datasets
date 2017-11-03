@@ -84,7 +84,7 @@ aurora:
   geraniol: 0 - 0% of total oil
   humulene: 20 - 25% of total oil
   myrcene: 20 - 25% of total oil
-  name: Aurora
+  name: Aurora / Super Styrian
   parents:
       - northern-brewer
       - slovenian-unknown
@@ -107,26 +107,14 @@ bitter-gold:
   humulene: 7 - 11% of total oil
   myrcene: 0.6 - 0.9% of total oil
   name: Bitter Gold
+  parents:
+      - brewers-gold
+      - bullion
+      - comet
+      - fuggle
   region: United States
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/bitter-gold
-blanc:
-  alpha: 9 - 12%
-  aroma: Specific aroma descriptors include floral and fruity with passion fruit,
-    grapefruit, pineapple, grape and lemongrass overtones.
-  beta: 4.5 - 5.5%
-  caryophyllene: 0 - 2% of total oil
-  cohumulone: 22 - 26% of alpha acids
-  description: Released in 2012, Hallertau Blanc is one of several new German varieties
-    with bold flavor profiles, perfect for American-style Ales.
-  farnesene: < 1.0% of total oil
-  geraniol: 0 - 0% of total oil
-  humulene: 0 - 3% of total oil
-  myrcene: 50 - 75% of total oil
-  name: Blanc
-  region: Germany
-  total_oils: 1.2 - 1.5 mL/100g
-  url: https://ychhops.com/varieties/blanc
 bobek:
   alpha: 3.5 - 7%
   aroma: Specific aroma descriptors include intense and pleasant with floral and pine
@@ -251,6 +239,10 @@ celeia:
   humulene: 18 - 23% of total oil
   myrcene: 26 - 35% of total oil
   name: Celeia
+  parents:
+      - styrian-goldings
+      - aurora
+      - slovenian-unknown
   region: Slovenia
   total_oils: 0.6 - 3.6 mL/100g
   url: https://ychhops.com/varieties/celeia
@@ -309,6 +301,7 @@ chelan:
   humulene: 12 - 15% of total oil
   myrcene: 45 - 55% of total oil
   name: Chelan
+  released: 1994
   region: United States
   total_oils: 1.5 - 1.9 mL/100g
   url: https://ychhops.com/varieties/chelan
@@ -351,8 +344,9 @@ citra:
   myrcene: 0.7 - 1% of total oil
   name: Citra
   parents:
-      - hallertau
+      - hallertau-mittlefruh
       - tettnang
+      - brewers-gold
       - east-kent-golding
   proprietary: yes
   region: United States
@@ -392,7 +386,9 @@ columbus:
   geraniol: < 1.0% of total oil
   humulene: 6 - 10% of total oil
   myrcene: 0.6 - 1% of total oil
-  name: Columbus
+  name: Columbus / CTZ
+  parents:
+      - nugget
   proprietary: yes
   region: United States
   total_oils: 2.5 - 4.5 mL/100g
@@ -414,7 +410,9 @@ comet:
   humulene: 10 - 15% of total oil
   myrcene: 0.8 - 1.1% of total oil
   name: Comet
+  released: 1974
   region: United States
+  selected: 1961
   total_oils: 1.2 - 2 mL/100g
   url: https://ychhops.com/varieties/comet
 crystal:
@@ -435,7 +433,10 @@ crystal:
   parents:
       - hallertau-mittlefruh
       - cascade
+      - brewers-gold
+      - early
   region: United States
+  selected: 1983
   total_oils: 0.8 - 2.3 mL/100g
   url: https://ychhops.com/varieties/crystal
 dr-rudi:
@@ -454,7 +455,10 @@ dr-rudi:
   humulene: 33.2 - 33.2% of total oil
   myrcene: 29 - 30% of total oil
   name: Dr. Rudi
+  parents:
+      - smoothcone
   region: New Zealand
+  released: 1976
   total_oils: 1.3 - 1.3 mL/100g
   url: https://ychhops.com/varieties/dr-rudi
 east-kent-golding:
@@ -473,6 +477,7 @@ east-kent-golding:
   myrcene: 29 - 31% of total oil
   name: East Kent Golding
   region: United Kingdom
+  selected: 1700
   total_oils: 0.4 - 0.8 mL/100g
   url: https://ychhops.com/varieties/east-kent-golding
 ekuanot:
@@ -492,6 +497,7 @@ ekuanot:
   myrcene: 0.4 - 0.8% of total oil
   name: Ekuanot
   region: United States
+  released: 2014
   total_oils: 2.5 - 4 mL/100g
   url: https://ychhops.com/varieties/ekuanot-brand-hbc-366-cv
 ella:
@@ -527,7 +533,9 @@ falconer:
   humulene: 0 - 20% of total oil
   myrcene: 0 - 2% of total oil
   name: Falconer
+  proprietary: yes
   region: United States
+  selected: 2011
   total_oils: 1.7 - 1.7 mL/100g
   url: https://ychhops.com/varieties/falconers-flight-7cs
 first-gold:
@@ -548,6 +556,7 @@ first-gold:
   parents:
       - whitbread-golding
   region: United Kingdom
+  selected: 1995
   total_oils: 0.7 - 1.5 mL/100g
   url: https://ychhops.com/varieties/first-gold
 fuggle:
@@ -600,7 +609,11 @@ galena:
   humulene: 5 - 9% of total oil
   myrcene: 0.4 - 0.7% of total oil
   name: Galena
+  parents:
+      - brewers-gold
   region: United States
+  released: 1978
+  selected: 1968
   total_oils: 1.3 - 2.1 mL/100g
   url: https://ychhops.com/varieties/galena
 glacier:
@@ -618,7 +631,12 @@ glacier:
   humulene: 8 - 13% of total oil
   myrcene: 0.2 - 0.6% of total oil
   name: Glacier
+  parents:
+      - french-elsasser
+      - brewers-gold
+      - northern-brewer
   region: United States
+  released: 2000
   total_oils: 0.8 - 1 mL/100g
   url: https://ychhops.com/varieties/glacier
 gold:
@@ -626,11 +644,14 @@ gold:
   aroma: Specific aroma descriptors include honey, oregano, basil, nettle and hay.
   beta: 3.5 - 5.9%
   cohumulone: 0% of alpha acids
-  description: "\n                  Daughter of Styrian Savinsjki Golding and released\
-    \ in 2009, Gold was bred to improve the agronomic values of the traditional...\n\
-    \                "
+  description: Daughter of Styrian Savinsjki Golding and released in 2009, Gold was
+    bred to improve the agronomic values of the traditional Golding. Known for its
+    distinct aroma, it is cultivated only in Slovenia.
   name: Gold
+  parents:
+      - styrian-goldings
   region: Slovenia
+  released: 2009
   total_oils: 1.3 - 2.3 mL/100g
   url: https://ychhops.com/varieties/gold
 golding:
@@ -669,6 +690,8 @@ green-bullet:
   humulene: 28.1 - 28.3% of total oil
   myrcene: 37 - 39% of total oil
   name: Green Bullet
+  parents:
+      - smoothcone
   region: New Zealand
   total_oils: 1 - 1.2 mL/100g
   url: https://ychhops.com/varieties/green-bullet
@@ -690,6 +713,24 @@ hallertau:
   region: United States
   total_oils: 0.5 - 1 mL/100g
   url: https://ychhops.com/varieties/hallertau
+hallertau-blanc:
+  alpha: 9 - 12%
+  aroma: Specific aroma descriptors include floral and fruity with passion fruit,
+    grapefruit, pineapple, grape and lemongrass overtones.
+  beta: 4.5 - 5.5%
+  caryophyllene: 0 - 2% of total oil
+  cohumulone: 22 - 26% of alpha acids
+  description: Released in 2012, Hallertau Blanc is one of several new German varieties
+    with bold flavor profiles, perfect for American-style Ales.
+  farnesene: < 1.0% of total oil
+  geraniol: 0 - 0% of total oil
+  humulene: 0 - 3% of total oil
+  myrcene: 50 - 75% of total oil
+  name: Hallertau Blanc
+  region: Germany
+  released: 2012
+  total_oils: 1.2 - 1.5 mL/100g
+  url: https://ychhops.com/varieties/blanc
 hallertau-mittlefruh:
   alpha: 3 - 5.5%
   aroma: Specific aroma descriptors include mild, yet spicy, with floral and citrus
@@ -789,6 +830,8 @@ hbc-682:
   humulene: 13 - 15% of total oil
   myrcene: 48 - 52% of total oil
   name: HBC 682
+  parents:
+      - hbc-463
   region: United States
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/hbc-682
@@ -807,7 +850,10 @@ helga:
   humulene: < 1.0% of total oil
   myrcene: 1 - 13% of total oil
   name: Helga
+  parents:
+      - hallertau-mittlefruh
   region: Australia
+  selected: 1986
   total_oils: 0.6 - 1 mL/100g
   url: https://ychhops.com/varieties/helga
 herkules:
@@ -859,7 +905,11 @@ horizon:
   humulene: 8 - 14% of total oil
   myrcene: 0.6 - 0.8% of total oil
   name: Horizon
+  parents:
+      - brewers-gold
   region: United States
+  released: 1997
+  selected: 1970
   total_oils: 0.5 - 1.5 mL/100g
   url: https://ychhops.com/varieties/horizon
 huell-melon:
@@ -894,7 +944,10 @@ kohatu:
   humulene: 36 - 37% of total oil
   myrcene: 35 - 36% of total oil
   name: Kohatu
+  parents:
+      - hallertau-mittlefruh
   region: New Zealand
+  released: 2011
   total_oils: 1 - 1 mL/100g
   url: https://ychhops.com/varieties/kohatu
 liberty:
@@ -915,6 +968,7 @@ liberty:
   parents:
       - hallertau-mittlefruh
   region: United States
+  selected: 1983
   total_oils: 1 - 1.8 mL/100g
   url: https://ychhops.com/varieties/liberty
 loral:
@@ -935,6 +989,7 @@ loral:
   myrcene: 0.6 - 0.7% of total oil
   name: Loral
   region: United States
+  released: 2016
   total_oils: 1.8 - 2.9 mL/100g
   url: https://ychhops.com/varieties/loral-brand-hbc-291-cv
 magnum:
@@ -956,6 +1011,8 @@ magnum:
   parents:
       - galena
   region: United States
+  released: 1993
+  selected: 1980
   total_oils: 2 - 3 mL/100g
   url: https://ychhops.com/varieties/magnum
 mandarina-bavaria:
@@ -991,7 +1048,11 @@ merkur:
   humulene: < 1.0% of total oil
   myrcene: 45 - 50% of total oil
   name: Merkur
+  parents:
+      - magnum
+      - 81-8-13
   region: Germany
+  selected: 2001
   total_oils: 2 - 3 mL/100g
   url: https://ychhops.com/varieties/merkur
 millennium:
@@ -1009,9 +1070,12 @@ millennium:
   myrcene: 0.4 - 0.8% of total oil
   name: Millennium
   region: United States
+  released: 2000
   total_oils: 1.5 - 3 mL/100g
   url: https://ychhops.com/varieties/millennium
 mosaic:
+  aliases:
+      - hbc-369
   alpha: 10.5 - 14%
   aroma: Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms,
     grass and bubble gum.
@@ -1028,7 +1092,11 @@ mosaic:
   humulene: 3 - 8% of total oil
   myrcene: 0.6 - 1% of total oil
   name: Mosaic
+  parents:
+      - simcoe
+      - nugget
   region: United States
+  released: 2012
   total_oils: 0.8 - 3 mL/100g
   url: https://ychhops.com/varieties/mosaic-brand-hbc-369-cv
 motueka:
@@ -1073,6 +1141,8 @@ mt-hood:
       - hallertau-mittlefruh
       - early
   region: United States
+  released: 1989
+  selected: 1983
   total_oils: 0.8 - 2 mL/100g
   url: https://ychhops.com/varieties/mt-hood
 mt-rainier:
@@ -1115,7 +1185,10 @@ nelson-sauvin:
   humulene: 36.4 - 36.4% of total oil
   myrcene: 22 - 23% of total oil
   name: Nelson Sauvin
+  parents:
+      - smoothcone
   region: New Zealand
+  released: 2000
   total_oils: 1.1 - 1.1 mL/100g
   url: https://ychhops.com/varieties/nelson-sauvin
 newport:
@@ -1134,7 +1207,11 @@ newport:
   humulene: 7 - 11% of total oil
   myrcene: 0.6 - 0.9% of total oil
   name: Newport
+  parents:
+      - magnum
   region: United States
+  selected: 1992
+  released: 1992
   total_oils: 1.6 - 2.5 mL/100g
   url: https://ychhops.com/varieties/newport
 northdown:
@@ -1170,7 +1247,12 @@ northern-brewer:
   humulene: 11 - 15% of total oil
   myrcene: 0.4 - 0.7% of total oil
   name: Northern Brewer
+  parents:
+      - challenger
+      - golding
+      - brewers-gold
   region: United States
+  selected: 1934
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/northern-brewer
 nugget:
@@ -1250,7 +1332,11 @@ pacific-jade:
   humulene: 32.9 - 32.9% of total oil
   myrcene: 33 - 34% of total oil
   name: Pacific Jade
+  parents:
+      - first-choice
+      - saaz
   region: New Zealand
+  released: 2004
   total_oils: 1.4 - 1.4 mL/100g
   url: https://ychhops.com/varieties/pacific-jade
 pacifica:
@@ -1307,6 +1393,7 @@ perle:
   name: Perle
   parents:
       - northern-brewer
+      - 63-5-27M
   region: United States
   total_oils: 0.8 - 2 mL/100g
   url: https://ychhops.com/varieties/perle
@@ -1315,11 +1402,14 @@ phoenix:
   aroma: Specific aroma descriptors include spicy, floral and chocolate.
   beta: 3.8 - 4.5%
   cohumulone: 0% of alpha acids
-  description: "\n                  Bred at Wye College and released in 1996, Phoenix\
-    \ is a seedling of Yeoman. In brewing trials, Phoenix has produced excellent...\n\
-    \                "
+  description: Bred at Wye College and released in 1996, Phoenix is a seedling
+    of Yeoman. In brewing trials, Phoenix has produced excellent results in both
+    bittering and flavor applications.
   name: Phoenix
+  parents:
+      - yeoman
   region: United Kingdom
+  released: 1996
   total_oils: 1.2 - 2.5 mL/100g
   url: https://ychhops.com/varieties/phoenix
 pilgrim:
@@ -1345,8 +1435,7 @@ pioneer:
     tones and hints of herbal, cedar flavors.
   beta: 3.2 - 4.9%
   cohumulone: 33 - 40% of alpha acids
-  description: "\n                  Combines a pleasant aroma with a moderately high\
-    \ alpha acid content.\n                "
+  description: Combines a pleasant aroma with a moderately high alpha acid content.
   name: Pioneer
   region: United Kingdom
   total_oils: 1.5 - 2.3 mL/100g
@@ -1367,6 +1456,7 @@ polaris:
   myrcene: 49 - 51% of total oil
   name: Polaris
   region: Germany
+  released: 2012
   total_oils: 4 - 5 mL/100g
   url: https://ychhops.com/varieties/polaris
 premiant:
@@ -1383,7 +1473,10 @@ premiant:
   humulene: 9 - 13% of total oil
   myrcene: 0.4 - 0.7% of total oil
   name: Premiant
+  parents:
+      - saaz
   region: Czech Republic
+  released: 1996
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/premiant
 pride-of-ringwood:
@@ -1401,6 +1494,8 @@ pride-of-ringwood:
   myrcene: 24 - 41% of total oil
   name: Pride of Ringwood
   region: Australia
+  selected: 1953
+  released: 1960
   total_oils: 1.6 - 1.8 mL/100g
   url: https://ychhops.com/varieties/pride-of-ringwood
 progress:
@@ -1418,7 +1513,12 @@ progress:
   humulene: 40 - 47% of total oil
   myrcene: 24 - 28% of total oil
   name: Progress
+  parents:
+      - whitbread-golding
+      - wild-american
   region: United Kingdom
+  released: 1964
+  selected: 1951
   total_oils: 0.5 - 0.8 mL/100g
   url: https://ychhops.com/varieties/progress
 rakau:
@@ -1439,6 +1539,7 @@ rakau:
   myrcene: 56 - 56% of total oil
   name: Rakau
   region: New Zealand
+  released: 2007
   total_oils: 2.2 - 2.2 mL/100g
   url: https://ychhops.com/varieties/rakau
 riwaka:
@@ -1497,6 +1598,7 @@ santiam:
       - hallertau-mittlefruh
       - cascade
   region: United States
+  released: 1997
   total_oils: 1 - 2.2 mL/100g
   url: https://ychhops.com/varieties/santiam
 saphir:
@@ -1529,6 +1631,8 @@ savinjski-golding:
   humulene: 34 - 38% of total oil
   myrcene: 27 - 33% of total oil
   name: Savinjski Golding
+  parents:
+      - fuggle
   region: Slovenia
   total_oils: 0.5 - 1 mL/100g
   url: https://ychhops.com/varieties/savinjski-golding
@@ -1547,9 +1651,12 @@ select:
   myrcene: 20 - 40% of total oil
   name: Select
   region: Germany
+  released: 1993
   total_oils: 0.6 - 0.9 mL/100g
   url: https://ychhops.com/varieties/select
 simcoe:
+  aliases:
+      - ycr-14
   alpha: 11.5 - 15%
   aroma: Specific aroma descriptors include passion fruit, pine, berry and earth characteristics.
   beta: 3 - 4.5%
@@ -1567,9 +1674,12 @@ simcoe:
   name: Simcoe
   proprietary: yes
   region: United States
+  released: 2000
   total_oils: 0.8 - 3.2 mL/100g
   url: https://ychhops.com/varieties/simcoe-brand-ycr-14-cv
 smaragd:
+  aliases:
+      - emerald
   alpha: 4 - 6%
   aroma: Specific aroma descriptors include floral, spicy and mild fruity.
   beta: 3.5 - 5.5%
@@ -1600,7 +1710,12 @@ sorachi-ace:
   humulene: 7 - 11% of total oil
   myrcene: 0.5 - 0.8% of total oil
   name: Sorachi Ace
+  parents:
+      - brewers-gold
+      - saaz
+      - beikei
   region: United States
+  selected: 1984
   total_oils: 1.5 - 3 mL/100g
   url: https://ychhops.com/varieties/sorachi-ace
 southern-cross:
@@ -1620,7 +1735,12 @@ southern-cross:
   humulene: 20.8 - 20.8% of total oil
   myrcene: 31 - 32% of total oil
   name: Southern Cross
+  parents:
+      - fuggle
+      - fuggle-american
+      - fuggle-english
   region: New Zealand
+  released: 1994
   total_oils: 1.2 - 1.2 mL/100g
   url: https://ychhops.com/varieties/southern-cross
 sovereign:
@@ -1629,8 +1749,7 @@ sovereign:
     mild floral, grassy, herbal and mint characteristics.
   beta: 2.1 - 3.1%
   cohumulone: 26 - 30% of alpha acids
-  description: "\n                  Works well with Goldings and as a single hop.\n\
-    \                "
+  description: Works well with Goldings and as a single hop.
   name: Sovereign
   region: United Kingdom
   total_oils: 0.6 - 1 mL/100g
@@ -1649,6 +1768,8 @@ spalt:
   humulene: 12 - 18% of total oil
   myrcene: 20 - 35% of total oil
   name: Spalt
+  parents:
+      - saaz
   region: Germany
   total_oils: 0.5 - 0.9 mL/100g
   url: https://ychhops.com/varieties/spalt
@@ -1671,7 +1792,9 @@ sterling:
       - cascade
       - brewers-gold
       - early
+  selected: 1990
   region: United States
+  released: 1998
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/sterling
 strisselspalt:
@@ -1705,7 +1828,10 @@ summer:
   humulene: < 1.0% of total oil
   myrcene: 29 - 38% of total oil
   name: Summer
+  parents:
+      - saaz
   region: Australia
+  selected: 1997
   total_oils: 1.4 - 2 mL/100g
   url: https://ychhops.com/varieties/summer
 summit:
@@ -1725,8 +1851,13 @@ summit:
   humulene: 12 - 16% of total oil
   myrcene: 0.3 - 0.6% of total oil
   name: Summit
+  parents:
+      - lexus
+      - zeus
+      - nugget
   proprietary: yes
   region: United States
+  released: 2003
   total_oils: 1.5 - 3 mL/100g
   url: https://ychhops.com/varieties/summit
 super-pride:
@@ -1750,11 +1881,12 @@ sussex:
   aroma: Specific aroma descriptors include earthy, grass, mint, citrus and vanilla.
   beta: 2.4 - 3.2%
   cohumulone: 32 - 43% of alpha acids
-  description: "\n                  Discovered in 2005 at Gate Court, Northiam in\
-    \ East Sussex, Sussex is a “chance find” variety. It is likely to have resulted...\n\
-    \                "
+  description: Discovered in 2005 at Gate Court, Northiam in East Sussex, Sussex is
+    a “chance find” variety. It is likely to have resulted from open pollination of
+    a wild hop.
   name: Sussex
   region: United Kingdom
+  released: 2005
   total_oils: 0.4 - 0.6 mL/100g
   url: https://ychhops.com/varieties/sussex
 sylva:
@@ -1771,7 +1903,10 @@ sylva:
   humulene: 18 - 27% of total oil
   myrcene: 26 - 36% of total oil
   name: Sylva
+  parents:
+      - saaz
   region: Australia
+  selected: 1997
   total_oils: 1 - 1.4 mL/100g
   url: https://ychhops.com/varieties/sylva
 tahoma:
@@ -1790,7 +1925,10 @@ tahoma:
   humulene: 3 - 5% of total oil
   myrcene: 0.8 - 1.2% of total oil
   name: Tahoma
+  parents:
+      - glacier
   region: United States
+  released: 2013
   total_oils: 1.5 - 2 mL/100g
   url: https://ychhops.com/varieties/tahoma
 target:
@@ -1824,6 +1962,8 @@ tettnang:
   humulene: 10 - 14% of total oil
   myrcene: 0.3 - 0.5% of total oil
   name: Tettnang
+  parents:
+      - saaz
   region: United States
   total_oils: 0.4 - 1 mL/100g
   url: https://ychhops.com/varieties/tettnang
@@ -1861,6 +2001,7 @@ tradition:
   myrcene: 17 - 32% of total oil
   name: Tradition
   region: Germany
+  selected: 1993
   total_oils: 0.5 - 1 mL/100g
   url: https://ychhops.com/varieties/tradition
 triplepearl:
@@ -1868,11 +2009,15 @@ triplepearl:
   aroma: Specific aroma descriptors include melon, orange, resin, spice and pepper.
   beta: 3.3 - 4.2%
   cohumulone: 0% of alpha acids
-  description: "\n                  Released by USDA-ARS in 2013, TriplePearl is an\
-    \ open pollinated cross between a tetraploid Perle female and an unknown...\n\
-    \                "
+  description: Released by USDA-ARS in 2013, TriplePearl is an open pollinated cross
+    between a tetraploid Perle female and an unknown diploid male. Its lineage
+    includes Northern Brewer and Hallertau. TriplePearl is similar to Perle but
+    features more pronounced aroma characteristics.
   name: Triplepearl
+  parents:
+      - perle
   region: United States
+  released: 2013
   total_oils: 1.1 - 1.8 mL/100g
   url: https://ychhops.com/varieties/triplepearl
 triskel:
@@ -1889,7 +2034,11 @@ triskel:
   humulene: 13.4 - 13.6% of total oil
   myrcene: 59 - 61% of total oil
   name: Triskel
+  parents:
+      - strisselspalt
+      - yeopan
   region: France
+  selected: 2006
   total_oils: 1.5 - 2 mL/100g
   url: https://ychhops.com/varieties/triskel
 ultra:
@@ -1908,7 +2057,11 @@ ultra:
   humulene: 6 - 9% of total oil
   myrcene: 0.6 - 1% of total oil
   name: Ultra
+  parents:
+      - hallertau-mittlefruh
   region: United States
+  released: 1995
+  selected: 1983
   total_oils: 1 - 1.5 mL/100g
   url: https://ychhops.com/varieties/ultra
 vanguard:
@@ -1926,6 +2079,8 @@ vanguard:
   myrcene: 0.1 - 0.6% of total oil
   name: Vanguard
   region: United States
+  released: 1997
+  selected: 1982
   total_oils: 0.5 - 1 mL/100g
   url: https://ychhops.com/varieties/vanguard
 wai-iti:
@@ -1944,8 +2099,12 @@ wai-iti:
   geraniol: 0 - 0% of total oil
   humulene: 27.9 - 28.1% of total oil
   myrcene: 3 - 3% of total oil
+  parents:
+      - liberty
+      - hallertau-mittlefruh
   name: Wai-Iti
   region: New Zealand
+  released: 2011
   total_oils: 1.6 - 1.6 mL/100g
   url: https://ychhops.com/varieties/wai-iti
 waimea:
@@ -1970,6 +2129,8 @@ waimea:
   total_oils: 2 - 2.2 mL/100g
   url: https://ychhops.com/varieties/waimea
 wakatu:
+  aliases:
+      - hallertau-aroma
   alpha: 6.5 - 8.5%
   aroma: Specific aroma descriptors include restrained floral notes and freshly zested
     lime.
@@ -1986,10 +2147,15 @@ wakatu:
   humulene: 16.7 - 16.9% of total oil
   myrcene: 35 - 36% of total oil
   name: Wakatu
+  parents:
+      - hallertau-mittlefruh
   region: New Zealand
+  released: 1988
   total_oils: 0.9 - 1.1 mL/100g
   url: https://ychhops.com/varieties/wakatu
 warrior:
+  aliases:
+      - ycr-5
   alpha: 15.5 - 18%
   aroma: Specific aromas descriptors are mild, resinous and subtle pine.
   beta: 4.4 - 6%
@@ -2042,7 +2208,9 @@ willamette:
   name: Willamette
   parents:
       - fuggle
+      - fuggle-english
   region: United States
+  released: 1976
   total_oils: 0.6 - 1.6 mL/100g
   url: https://ychhops.com/varieties/willamette
 zeus:
@@ -2067,9 +2235,8 @@ zythos:
     tones with slight pine characteristics.
   beta: 4.7 - 6.2%
   cohumulone: 28 - 31% of alpha acids
-  description: "\n                  Designed to complement existing IPA and Pale Ale\
-    \ hop varieties, Zythos® is an excellent blend for any hop forward beer.\n   \
-    \             "
+  description: Designed to complement existing IPA and Pale Ale hop varieties,
+    Zythos® is an excellent blend for any hop forward beer.
   name: Zythos
   region: United States
   total_oils: 0.7 - 1.2 mL/100g
