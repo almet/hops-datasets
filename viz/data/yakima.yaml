@@ -539,7 +539,7 @@ dr-rudi:
   geraniol: 0 - 0% of total oil
   humulene: 33.2 - 33.2% of total oil
   myrcene: 29 - 30% of total oil
-  name: Dr. Rudi
+  name: Dr Rudi
   parents:
       - smoothcone
   region: New Zealand
@@ -957,7 +957,7 @@ hallertau-tradition:
   myrcene: 17 - 32
   parents:
       - hallertau-mittelfruh
-  name: Finest Harvest Edition - Hallertau Tradition
+  name: Hallertau Tradition
   region: Germany
   released: 1993
 hersbrucker-spat:
@@ -973,7 +973,7 @@ hersbrucker-spat:
     floral notes of geranium and cool melissa.
   farnesene: <1%
   myrcene: 15 - 30
-  name: Finest Harvest Edition - Hersbrucker Spät
+  name: Hersbrucker Spät
   region: Germany
 hbc-431:
   alpha: 14 - 16%
