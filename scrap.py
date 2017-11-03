@@ -77,5 +77,5 @@ def scrap_simplehops():
 #     f.write(yaml.dump(scrap_simplehops(), allow_unicode=True, default_flow_style=False))
 
 
-with codecs.open('data/yakima.yaml', 'w+') as f:
+with codecs.open('viz/data/yakima.yaml', 'w+') as f:
     f.write(yaml.dump(scrap_yakima(), allow_unicode=True, default_flow_style=False))
