@@ -1,4 +1,4 @@
-# Hops data
+# Hops datasets
 
 This repository provides some tools to extract information from the websites of
 hops merchants.
