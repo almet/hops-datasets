@@ -20,3 +20,8 @@ To make it run, simple run `make install` and the `make generate`. That should
 work. You need to have python installed on your machine.
 
 Enjoy!
+
+## Sources
+
+Parenthood information has been taken from:
+- http://beervana.blogspot.fr/2012/09/hop-varieties-reference-guide.html
