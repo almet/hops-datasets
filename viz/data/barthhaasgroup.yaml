@@ -10,6 +10,7 @@ admiral:
   farnesene: 1 - 3%
   myrcene: 39 - 48%
   name: Admiral
+  region: english
   total_oils: 1,0 - 1,7
 agnus:
   alpha: 9.0 - 12.0 %
@@ -22,6 +23,7 @@ agnus:
   farnesene: Non
   myrcene: 40.0 - 55.0 %
   name: Agnus
+  region: czech-republic
   total_oils: Non
 ahtanum:
   alpha: 5.7 - 6.3%
@@ -34,6 +36,7 @@ ahtanum:
   farnesene: <1%
   myrcene: 50 - 55
   name: Ahtanum
+  region: american
   total_oils: 0,8 - 1,2
 amarillo-r:
   alpha: 8.0 - 11.0%
@@ -47,6 +50,7 @@ amarillo-r:
   farnesene: 2 - 4%
   myrcene: 68 -70
   name: Amarillo®
+  region: american
   total_oils: 1,5 - 1,9
 aramis:
   alpha: 7.9 - 8.3%
@@ -61,6 +65,7 @@ aramis:
   farnesene: 2%
   myrcene: 40%
   name: Aramis
+  region: french
   total_oils: 1,2 - 1,6
 azzaca:
   alpha: 14 - 16%
@@ -73,6 +78,7 @@ azzaca:
   farnesene: Non
   myrcene: Non
   name: Azzaca
+  region: american
   total_oils: 1.4 - 2.0
 boadicea:
   alpha: 8.0 - 9.0%
@@ -87,6 +93,7 @@ boadicea:
   farnesene: 4 - 6%
   myrcene: 30 - 34%
   name: Boadicea
+  region: english
   total_oils: 1,3 - 1,5
 bramling-cross:
   alpha: 6.0 - 7.0%
@@ -102,6 +109,7 @@ bramling-cross:
   farnesene: <1%
   myrcene: 28 - 38%
   name: Bramling Cross
+  region: english
   total_oils: 0,7 - 1,0
 bravo:
   alpha: 14.0 - 17.0%
@@ -114,6 +122,7 @@ bravo:
   farnesene: Non
   myrcene: 25 - 50
   name: Bravo
+  region: american
   total_oils: 1.6 - 2.4
 brewers-gold-de:
   alpha: Non
@@ -127,6 +136,7 @@ brewers-gold-de:
   farnesene: Non
   myrcene: Non
   name: Brewers Gold DE
+  region: german
   total_oils: Non
 brewers-gold-us:
   alpha: Non
@@ -140,6 +150,7 @@ brewers-gold-us:
   farnesene: Non
   myrcene: Non
   name: Brewers Gold US
+  region: american
   total_oils: Non
 bru-1:
   alpha: 13.0-15.0%
@@ -152,6 +163,7 @@ bru-1:
   farnesene: <1%
   myrcene: 50-55%
   name: Bru-1
+  region: american
   total_oils: 1.5-2.0 ml/100g
 bullion:
   alpha: 6.5 - 9.5%
@@ -165,6 +177,7 @@ bullion:
   farnesene: Non
   myrcene: Non
   name: Bullion
+  region: english
   total_oils: 0.8 - 1.5
 cascade:
   alpha: 4,5 - 7,0%
@@ -178,6 +191,7 @@ cascade:
   farnesene: 3 - 7%
   myrcene: 45 - 60
   name: Cascade
+  region: american
   total_oils: 0,7 - 1,4
 cascade-aus:
   alpha: 5.3 –6.8%
@@ -191,6 +205,7 @@ cascade-aus:
   farnesene: 8 -9%
   myrcene: 35 -50%
   name: Cascade AUS
+  region: australian
   total_oils: Non
 cascade-uk:
   alpha: 5.3 - 6.8%
@@ -208,6 +223,7 @@ cascade-uk:
   farnesene: 8 - 9%
   myrcene: 35 - 50%
   name: Cascade UK
+  region: english
   total_oils: 0.7 - 1.2
 celeia:
   alpha: 3.0 - 6.0%
@@ -221,6 +237,7 @@ celeia:
   farnesene: 3 - 7%
   myrcene: 26 - 40%
   name: Celeia
+  region: slovenian
   total_oils: 1,5 - 3,6
 centennial:
   alpha: 9.5 - 11.5%
@@ -235,6 +252,7 @@ centennial:
   farnesene: <1%
   myrcene: 45 - 55
   name: Centennial
+  region: american
   total_oils: 1,5 - 2,5
 challenger:
   alpha: 6.5 - 8.5%
@@ -249,6 +267,7 @@ challenger:
   farnesene: 1 - 3%
   myrcene: 30 - 42%
   name: Challenger
+  region: english
   total_oils: 1.0 - 1.5
 chinook:
   alpha: 12.0 - 14.0%
@@ -262,6 +281,7 @@ chinook:
   farnesene: <1%
   myrcene: 35 - 40
   name: Chinook
+  region: american
   total_oils: 1,7 - 2,7
 chinook-uk:
   alpha: Non
@@ -275,6 +295,7 @@ chinook-uk:
   farnesene: Non
   myrcene: Non
   name: Chinook UK
+  region: english
   total_oils: Non
 chinook-us:
   alpha: 12.0 - 14.0%
@@ -290,6 +311,7 @@ chinook-us:
   farnesene: Non
   myrcene: 35 - 40%
   name: Chinook US
+  region: american
   total_oils: '1.7 - 2.7 '
 citra:
   alpha: 11.0 - 13.0%
@@ -304,6 +326,7 @@ citra:
   farnesene: <1%
   myrcene: 60 - 65
   name: Citra
+  region: american
   total_oils: 2,2 - 2,8
 cluster:
   alpha: 5.5 - 8.5%
@@ -318,6 +341,7 @@ cluster:
   farnesene: 0%
   myrcene: 45 - 55%
   name: Cluster
+  region: american
   total_oils: 0,4 - 0,8
 columbus:
   alpha: 15.0 - 17.0%
@@ -330,6 +354,7 @@ columbus:
   farnesene: <1%
   myrcene: 50 - 60%
   name: Columbus
+  region: american
   total_oils: 2,5 - 3,5
 comet-de:
   alpha: 9.4 - 12.4 %
@@ -342,6 +367,7 @@ comet-de:
   farnesene: Non
   myrcene: Non
   name: Comet  DE
+  region: german
   total_oils: 1.4 - 3.31 ml/100g
 comet-us:
   alpha: 9.4 - 12.4 %
@@ -354,6 +380,7 @@ comet-us:
   farnesene: Non
   myrcene: Non
   name: Comet US
+  region: american
   total_oils: 1.4 - 3.31 ml
 crystal:
   alpha: 4.0 - 6.0%
@@ -368,6 +395,7 @@ crystal:
   farnesene: <1%
   myrcene: 40 - 65%
   name: Crystal
+  region: american
   total_oils: 0,8 - 2,1
 dana:
   alpha: 11.0 – 16.0 %
@@ -379,6 +407,7 @@ dana:
   farnesene: Non
   myrcene: 2.4 – 3.9 ml/100g
   name: Dana
+  region: slovenian
   total_oils: 2.4 – 3.9 ml/100g
 east-kent-goldings:
   alpha: 4.5 - 6.5%
@@ -393,6 +422,7 @@ east-kent-goldings:
   farnesene: <1%
   myrcene: 20 - 30%
   name: East Kent Goldings
+  region: english
   total_oils: 0,4 - 0,8
 ekuanot:
   alpha: 14.4 - 15.6%
@@ -405,6 +435,7 @@ ekuanot:
   farnesene: Non
   myrcene: 2.9 mL / 100g
   name: Ekuanot
+  region: american
   total_oils: 1.6 - 2.4
 el-dorado:
   alpha: 14.0-16.0%
@@ -417,6 +448,7 @@ el-dorado:
   farnesene: < 1%
   myrcene: 55-60%
   name: El Dorado
+  region: american
   total_oils: 2.5-2.8 ml/100g
 ella:
   alpha: 14.0 - 16.0%
@@ -430,6 +462,7 @@ ella:
   farnesene: 1 - 2%
   myrcene: 32 - 34%
   name: Ella
+  region: australian
   total_oils: 2,5 - 3,0
 endeavour:
   alpha: 7.5 – 10.6%
@@ -443,6 +476,7 @@ endeavour:
   farnesene: 5 – 8% of total oil
   myrcene: 27 – 37% of total oil
   name: Endeavour
+  region: english
   total_oils: 1.2 – 1.8 ml/100g
 enigma-pellet-10kg:
   alpha: 13.5 - 16.5%
@@ -456,6 +490,7 @@ enigma-pellet-10kg:
   farnesene: <1%
   myrcene: 2.4 - 3.0 ml/100g
   name: Enigma Pellet 10kg
+  region: australian
   total_oils: 2.4 - 3.0 ml/100g
 enigma-pellet-5kg:
   alpha: 13.5 - 16.5%
@@ -469,6 +504,7 @@ enigma-pellet-5kg:
   farnesene: <1%
   myrcene: 2.4 - 3.0 ml/100g
   name: Enigma Pellet 5kg
+  region: australian
   total_oils: 2.4 - 3.0 ml/100g
 fantasia:
   alpha: 4.3%
@@ -480,6 +516,7 @@ fantasia:
   farnesene: Non
   myrcene: Non
   name: Fantasia
+  region: german
   total_oils: '0.9'
 finest-harvest-edition-hallertau-mittelfruh:
   alpha: 3.0 - 5.5%
@@ -499,6 +536,7 @@ finest-harvest-edition-hallertau-mittelfruh:
   farnesene: <1%
   myrcene: 20 - 28
   name: Finest Harvest Edition - Hallertau Mittelfrüh
+  region: german
   total_oils: Non
 finest-harvest-edition-hallertau-perle:
   alpha: 4. - 9.0%
@@ -520,6 +558,7 @@ finest-harvest-edition-hallertau-perle:
   farnesene: <1%
   myrcene: 20 - 35
   name: Finest Harvest Edition - Hallertau Perle
+  region: german
   total_oils: Non
 finest-harvest-edition-hallertau-tradition:
   alpha: 4.0 - 7.0%
@@ -539,6 +578,7 @@ finest-harvest-edition-hallertau-tradition:
   farnesene: <1%
   myrcene: 17 - 32
   name: Finest Harvest Edition - Hallertau Tradition
+  region: german
   total_oils: Non
 finest-harvest-edition-hersbrucker-spat:
   alpha: 1.5 - 4.0%
@@ -557,6 +597,7 @@ finest-harvest-edition-hersbrucker-spat:
   farnesene: <1%
   myrcene: 15 - 30
   name: Finest Harvest Edition - Hersbrucker Spät
+  region: german
   total_oils: Non
 finest-harvest-edition-saaz:
   alpha: 2.9%
@@ -577,6 +618,7 @@ finest-harvest-edition-saaz:
   farnesene: 14 - 20%
   myrcene: 25 - 40
   name: Finest Harvest Edition - Saaz
+  region: czech-republic
   total_oils: '0.4'
 finest-harvest-edition-spalter-select:
   alpha: 3.0 - 6.5%
@@ -596,6 +638,7 @@ finest-harvest-edition-spalter-select:
   farnesene: 15 - 22%
   myrcene: 20 - 40%
   name: Finest Harvest Edition - Spalter Select
+  region: german
   total_oils: Non
 first-gold:
   alpha: 5.6 - 8.7%
@@ -612,6 +655,7 @@ first-gold:
   farnesene: 2 - 4%
   myrcene: 27 - 28%
   name: First gold
+  region: english
   total_oils: 0,7 - 1,5
 fuggles:
   alpha: 3.0 - 5.6%
@@ -626,6 +670,7 @@ fuggles:
   farnesene: 5 - 7%
   myrcene: 24 - 28%
   name: Fuggles
+  region: english
   total_oils: 0,7 - 1,4
 galaxy:
   alpha: 13.5 - 14.8%
@@ -639,6 +684,7 @@ galaxy:
   farnesene: 3 - 4%
   myrcene: 33 - 42%
   name: Galaxy
+  region: australian
   total_oils: 2,4 - 2,7
 german-cascade:
   alpha: 4.5 - 7.0%
@@ -651,6 +697,7 @@ german-cascade:
   farnesene: 3 - 7%
   myrcene: 45 - 60
   name: German Cascade
+  region: german
   total_oils: 0.7 - 1.4
 goldings:
   alpha: 4.0 - 6.0%
@@ -667,6 +714,7 @@ goldings:
   farnesene: <1%
   myrcene: 25 - 35%
   name: Goldings
+  region: english
   total_oils: 0,7 - 1,0
 hallertau-blanc:
   alpha: 9.0 - 12.0%
@@ -680,6 +728,7 @@ hallertau-blanc:
   farnesene: <1%
   myrcene: 70%
   name: Hallertau Blanc
+  region: german
   total_oils: 1,5
 hallertau-hersbrucker:
   alpha: 1.5 - 4.0%
@@ -692,6 +741,7 @@ hallertau-hersbrucker:
   farnesene: <1%
   myrcene: 15 - 30%
   name: Hallertau Hersbrucker
+  region: german
   total_oils: 0,5 - 1,0
 hallertau-mittelfruh:
   alpha: 3.0 - 5.5%
@@ -707,6 +757,7 @@ hallertau-mittelfruh:
   farnesene: <1%
   myrcene: 20 - 28%
   name: Hallertau Mittelfrüh
+  region: german
   total_oils: 0,7 - 1,3
 hallertau-taurus:
   alpha: 12.0 - 17.0%
@@ -719,6 +770,7 @@ hallertau-taurus:
   farnesene: <1%
   myrcene: 30 - 50
   name: Hallertau Taurus
+  region: german
   total_oils: 0.9 - 1.4
 hallertau-tradition:
   alpha: 4.0 - 7.0%
@@ -733,6 +785,7 @@ hallertau-tradition:
   farnesene: <1%
   myrcene: 17 - 32%
   name: Hallertau Tradition
+  region: german
   total_oils: 0,5 - 1,0
 hbc-431:
   alpha: 14.0-16.0%
@@ -745,6 +798,7 @@ hbc-431:
   farnesene: Non
   myrcene: 33-37%
   name: HBC 431
+  region: american
   total_oils: 1.5ml/100g
 hbc-472:
   alpha: 9.0-11.0%
@@ -757,6 +811,7 @@ hbc-472:
   farnesene: Non
   myrcene: 30-32%
   name: HBC 472
+  region: american
   total_oils: 1.5-2.5 ml/100g
 hbc-682:
   alpha: 18.0-21.0%
@@ -768,6 +823,7 @@ hbc-682:
   farnesene: Non
   myrcene: 48-52%
   name: HBC 682
+  region: american
   total_oils: 1.0-2.0 ml/100g
 helga:
   alpha: 4.9 - 6.3%
@@ -782,6 +838,7 @@ helga:
   farnesene: Unknown
   myrcene: 7 - 12%
   name: Helga
+  region: australian
   total_oils: 0,6 - 1,0
 herkules:
   alpha: 12.0 - 17.0%
@@ -795,6 +852,7 @@ herkules:
   farnesene: <1%
   myrcene: 30 - 50%
   name: Herkules
+  region: german
   total_oils: 1,6 - 2,4
 hull-melon:
   alpha: 6.9 - 7.5%
@@ -808,6 +866,7 @@ hull-melon:
   farnesene: <1%
   myrcene: 36%
   name: Hüll Melon
+  region: german
   total_oils: 0,8
 kazbek:
   alpha: Non
@@ -819,6 +878,7 @@ kazbek:
   farnesene: Non
   myrcene: Non
   name: Kazbek
+  region: czech-republic
   total_oils: Non
 liberty:
   alpha: 3.0 - 5.0%
@@ -831,6 +891,7 @@ liberty:
   farnesene: <1%
   myrcene: 20 - 40%
   name: Liberty
+  region: american
   total_oils: 0,6 - 1,2
 loral:
   alpha: 10.0-12.0%
@@ -842,6 +903,7 @@ loral:
   farnesene: Non
   myrcene: 37.0-39.0%
   name: Loral
+  region: american
   total_oils: 1.5-2.5 ml/100g
 magnum:
   alpha: 11.0 - 16.0%
@@ -855,6 +917,7 @@ magnum:
   farnesene: <1%
   myrcene: 30 - 45%
   name: Magnum
+  region: german
   total_oils: 1,6 - 2,6
 mandarina-bavaria:
   alpha: 7.0 - 10.0%
@@ -869,6 +932,7 @@ mandarina-bavaria:
   farnesene: <1%
   myrcene: 71%
   name: Mandarina Bavaria
+  region: german
   total_oils: 2,2
 monroe:
   alpha: 2.5%
@@ -881,6 +945,7 @@ monroe:
   farnesene: Non
   myrcene: Non
   name: Monroe
+  region: german
   total_oils: 0.95 ml/100g
 mosaic:
   alpha: 11.5 - 13.5%
@@ -894,6 +959,7 @@ mosaic:
   farnesene: 0.0%
   myrcene: 47 - 53%
   name: Mosaic
+  region: american
   total_oils: 1,0 - 1,5
 moteuka:
   alpha: 6.5 - 7.5 %
@@ -907,6 +973,7 @@ moteuka:
   farnesene: ~12.2%
   myrcene: '47.7'
   name: Moteuka
+  region: new-zealand
   total_oils: '0.8'
 mount-hood:
   alpha: 4.0 - 7.0%
@@ -919,6 +986,7 @@ mount-hood:
   farnesene: <1%
   myrcene: 30 - 40%
   name: Mount Hood
+  region: american
   total_oils: 1,2 - 1,7
 mount-rainier:
   alpha: 5.0 - 8.1%
@@ -929,6 +997,7 @@ mount-rainier:
   farnesene: Non
   myrcene: 29% of total oil
   name: Mount Rainier
+  region: american
   total_oils: 0.2 - 0.5 mL / 100g
 nelson-sauvin:
   alpha: ' 12 - 13 % '
@@ -943,6 +1012,7 @@ nelson-sauvin:
   farnesene: ' 0.4 % '
   myrcene: ' 22.2 % '
   name: Nelson Sauvin
+  region: new-zealand
   total_oils: 1,2 - 1,6
 northdown:
   alpha: 7,5 - 9,5%
@@ -956,6 +1026,7 @@ northdown:
   farnesene: <1%
   myrcene: 23 - 29%
   name: Northdown
+  region: english
   total_oils: 1.5 - 2.5
 northern-brewer:
   alpha: 6.0 - 10.0%
@@ -968,6 +1039,7 @@ northern-brewer:
   farnesene: <1%
   myrcene: 25 - 45
   name: Northern Brewer
+  region: german
   total_oils: 1.0 - 1.6
 nugget:
   alpha: 11.5 - 14.0%
@@ -982,6 +1054,7 @@ nugget:
   farnesene: <1%
   myrcene: 27 - 42
   name: Nugget
+  region: american
   total_oils: 0,9 - 1,3
 opal:
   alpha: 5.0 - 8.0%
@@ -995,6 +1068,7 @@ opal:
   farnesene: <1%
   myrcene: 20 - 45
   name: Opal
+  region: german
   total_oils: 0.8 - 1.3
 organic-admiral:
   alpha: 13,0 - 16,0%
@@ -1008,6 +1082,7 @@ organic-admiral:
   farnesene: 1 - 3%
   myrcene: 39 - 48%
   name: Organic Admiral
+  region: belgian
   total_oils: 1,0 - 1,7
 organic-cascade:
   alpha: 4.5 - 7.0%
@@ -1021,6 +1096,7 @@ organic-cascade:
   farnesene: 3 - 7%
   myrcene: 45 - 60
   name: Organic Cascade
+  region: american
   total_oils: 0,7 - 1,5
 organic-challenger:
   alpha: 6.5 - 8.5%
@@ -1035,6 +1111,7 @@ organic-challenger:
   farnesene: 1 - 3%
   myrcene: 30 - 42%
   name: Organic Challenger
+  region: belgian
   total_oils: 1.0 - 1.5
 organic-goldings:
   alpha: 4.0 - 6.0%
@@ -1051,6 +1128,7 @@ organic-goldings:
   farnesene: <1%
   myrcene: 25 - 35%
   name: Organic Goldings
+  region: belgian
   total_oils: 0,7 - 1,0
 organic-perle:
   alpha: 4,0 - 9,0%
@@ -1063,6 +1141,7 @@ organic-perle:
   farnesene: <1%
   myrcene: 20 - 35%
   name: Organic Perle
+  region: belgian
   total_oils: 0.5 - 1.5
 organic-pilgrim:
   alpha: 9.0 - 13.0%
@@ -1076,6 +1155,7 @@ organic-pilgrim:
   farnesene: 0.3%
   myrcene: 30%
   name: Organic Pilgrim
+  region: belgian
   total_oils: 1,2 - 2,4
 pacific-gem:
   alpha: 13 - 15 %
@@ -1094,6 +1174,7 @@ pacific-gem:
   farnesene: 0.3 %
   myrcene: 33.3 %
   name: Pacific Gem
+  region: new-zealand
   total_oils: 1.2 mls oil per 100 gram cone weight
 palisade:
   alpha: 5.5 - 9.5%
@@ -1107,6 +1188,7 @@ palisade:
   farnesene: <1%
   myrcene: 9 - 10%
   name: Palisade
+  region: american
   total_oils: 1.4 - 1.6
 perle:
   alpha: 4.0 - 9.0%
@@ -1120,6 +1202,7 @@ perle:
   farnesene: <1%
   myrcene: 20 - 35%
   name: Perle
+  region: german
   total_oils: 0,5 - 1,5
 phoenix:
   alpha: 12.0 - 15.0%
@@ -1135,6 +1218,7 @@ phoenix:
   farnesene: 1.4%
   myrcene: 24%
   name: Phoenix
+  region: english
   total_oils: 1,2 - 2,4
 pilgrim:
   alpha: 9.0 - 13.0%
@@ -1148,6 +1232,7 @@ pilgrim:
   farnesene: 0.3%
   myrcene: 30%
   name: Pilgrim
+  region: english
   total_oils: 1,2 - 2,4
 polaris:
   alpha: 18.0 - 23.0%
@@ -1160,6 +1245,7 @@ polaris:
   farnesene: <1%
   myrcene: 50%
   name: Polaris
+  region: german
   total_oils: 4,4
 progress:
   alpha: 5.0 - 7.0%
@@ -1173,6 +1259,7 @@ progress:
   farnesene: <1%
   myrcene: 30 - 35%
   name: Progress
+  region: english
   total_oils: 0,6 - 1,2
 relax:
   alpha: 0.25%
@@ -1184,6 +1271,7 @@ relax:
   farnesene: Non
   myrcene: Non
   name: Relax
+  region: german
   total_oils: 1.15 ml/100g
 saaz:
   alpha: 2.0 - 4.5%
@@ -1197,6 +1285,7 @@ saaz:
   farnesene: <1%
   myrcene: 25 - 40%
   name: Saaz
+  region: german
   total_oils: 0,8 - 1,4
 saphir:
   alpha: 2.0 - 4.5%
@@ -1209,6 +1298,7 @@ saphir:
   farnesene: <1%
   myrcene: 25 - 40%
   name: Saphir
+  region: german
   total_oils: 0,8 - 1,4
 simcoe:
   alpha: 12.0 - 14.0 %
@@ -1221,6 +1311,7 @@ simcoe:
   farnesene: <1%
   myrcene: 60 - 65%
   name: Simcoe
+  region: american
   total_oils: 2,0 - 2,5
 simcoe-r:
   alpha: 12.0 - 14.0%
@@ -1234,6 +1325,7 @@ simcoe-r:
   farnesene: <1%
   myrcene: 60 - 65%
   name: Simcoe®
+  region: american
   total_oils: 2,0 - 2,5
 smaragd:
   alpha: 4.0 - 6.0%
@@ -1248,6 +1340,7 @@ smaragd:
   farnesene: Non
   myrcene: 20 - 40%
   name: Smaragd
+  region: german
   total_oils: 0.4 - 0.8
 sorachi-ace:
   alpha: 12.0 - 16.0%
@@ -1260,6 +1353,7 @@ sorachi-ace:
   farnesene: Unknown
   myrcene: Non
   name: Sorachi Ace
+  region: american
   total_oils: 2,0 - 3,0
 sovereign:
   alpha: 4.5 - 6.5%
@@ -1273,6 +1367,7 @@ sovereign:
   farnesene: 2 - 5%
   myrcene: 20 - 31%
   name: Sovereign
+  region: english
   total_oils: 0,6 - 1,0
 spalter-select:
   alpha: 2.5 - 5.5%
@@ -1286,6 +1381,7 @@ spalter-select:
   farnesene: 12 - 18%
   myrcene: 20 - 35%
   name: Spalter Select
+  region: german
   total_oils: 0,5 - 0,9
 strisselspalt:
   alpha: 1.8 - 2.5%
@@ -1300,6 +1396,7 @@ strisselspalt:
   farnesene: <1%
   myrcene: 35 - 52%
   name: Strisselspalt
+  region: french
   total_oils: 0,6 - 0,8
 styrian-golding-b-bobek:
   alpha: 3.5 - 7.8 %
@@ -1311,6 +1408,7 @@ styrian-golding-b-bobek:
   farnesene: Non
   myrcene: 49.0 - 57.0 %
   name: Styrian Golding B, Bobek
+  region: slovenian
   total_oils: 0.7 - 4.0 mL
 styrian-savinjski-goldings:
   alpha: 4.5 - 6.0%
@@ -1323,6 +1421,7 @@ styrian-savinjski-goldings:
   farnesene: 2 - 5%
   myrcene: 27 - 33%
   name: Styrian Savinjski Goldings
+  region: slovenian
   total_oils: 0.5 - 1.0
 summer:
   alpha: 5.6 - 6.4%
@@ -1335,6 +1434,7 @@ summer:
   farnesene: <1%
   myrcene: 29 - 38%
   name: Summer
+  region: australian
   total_oils: 1.4 - 2.0
 summit:
   alpha: 16.0 - 18.0%
@@ -1348,6 +1448,7 @@ summit:
   farnesene: <1%
   myrcene: 35 - 50%
   name: Summit
+  region: american
   total_oils: 1,5 - 2,5
 t-n-t:
   alpha: Non
@@ -1359,6 +1460,7 @@ t-n-t:
   farnesene: Non
   myrcene: Non
   name: T 'n' T
+  region: german
   total_oils: Non
 target:
   alpha: 9.5 - 12.5%
@@ -1373,6 +1475,7 @@ target:
   farnesene: <1%
   myrcene: 45 - 55%
   name: Target
+  region: english
   total_oils: 1,2 - 1,4
 tettnanger:
   alpha: 2.5 - 5.5%
@@ -1386,6 +1489,7 @@ tettnanger:
   farnesene: 16 - 24%
   myrcene: 20 - 35%
   name: Tettnanger
+  region: german
   total_oils: 0.5 - 0.9
 topaz:
   alpha: 15.5 - 18.0%
@@ -1399,6 +1503,7 @@ topaz:
   farnesene: <1%
   myrcene: 25 - 43%
   name: Topaz
+  region: australian
   total_oils: 0.8 - 1.7
 toyomidori:
   alpha: 11.0-13.0%
@@ -1410,6 +1515,7 @@ toyomidori:
   farnesene: Non
   myrcene: Non
   name: Toyomidori
+  region: english
   total_oils: 0.8-1.2 ml/100g
 triskel:
   alpha: 3.0 - 5.0%
@@ -1425,6 +1531,7 @@ triskel:
   farnesene: TBC
   myrcene: 60%
   name: Triskel
+  region: french
   total_oils: 1,5 - 2,0
 ultra:
   alpha: 2.0 - 3.5%
@@ -1436,6 +1543,7 @@ ultra:
   farnesene: Non
   myrcene: 15 - 25
   name: Ultra
+  region: american
   total_oils: 0.5 - 1.0
 vanguard:
   alpha: 5.5 - 6.0 %
@@ -1447,6 +1555,7 @@ vanguard:
   farnesene: 1% of Total Oil
   myrcene: 20 25 % of Total Oil
   name: Vanguard
+  region: american
   total_oils: 0.9 - 1.2 ml/100g
 vic-secret-r:
   alpha: Non
@@ -1463,6 +1572,7 @@ vic-secret-r:
   farnesene: Non
   myrcene: Non
   name: Vic Secret®
+  region: australian
   total_oils: Non
 warrior:
   alpha: 14.5 - 16.5%
@@ -1475,6 +1585,7 @@ warrior:
   farnesene: <1%
   myrcene: 40 - 50%
   name: Warrior
+  region: american
   total_oils: 1.3 - 1.7
 warrior-queen:
   alpha: 5.19%
@@ -1486,6 +1597,7 @@ warrior-queen:
   farnesene: 3.59%
   myrcene: 25%
   name: Warrior Queen
+  region: english
   total_oils: 1.20ml/100g
 willamette:
   alpha: 4.0 - 6.0%
@@ -1498,6 +1610,7 @@ willamette:
   farnesene: 5 - 6%
   myrcene: 30 - 40%
   name: Willamette
+  region: american
   total_oils: 1,0 - 1,5
 yellow-sub:
   alpha: Non
@@ -1509,6 +1622,7 @@ yellow-sub:
   farnesene: Non
   myrcene: Non
   name: Yellow Sub
+  region: german
   total_oils: Non
 zeus:
   alpha: 15.0 - 17.0%
@@ -1521,6 +1635,7 @@ zeus:
   farnesene: <1%
   myrcene: 50 - 60%
   name: Zeus
+  region: american
   total_oils: 2,5 - 3,5
 zythos:
   alpha: 10.0 - 12.5%
@@ -1533,4 +1648,5 @@ zythos:
   farnesene: Non
   myrcene: Non
   name: Zythos
+  region: american
   total_oils: 0.7 - 1.2

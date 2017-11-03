@@ -66,6 +66,7 @@ def scrap_simplehops():
                 beta=details[1].text,
                 total_oils=details[2].text,
                 cohumulone=details[3].text,
+                region=country,
                 myrcene=details[4].text,
                 caryophyllene=details[5].text,
                 farnesene=details[6].text,
@@ -73,9 +74,9 @@ def scrap_simplehops():
     return varieties
 
 
-# with codecs.open('data/barthhaasgroup.yaml', 'w+') as f:
-#     f.write(yaml.dump(scrap_simplehops(), allow_unicode=True, default_flow_style=False))
+with codecs.open('viz/data/barthhaasgroup.yaml', 'w+') as f:
+    f.write(yaml.dump(scrap_simplehops(), allow_unicode=True, default_flow_style=False))
 
 
-with codecs.open('viz/data/yakima.yaml', 'w+') as f:
-    f.write(yaml.dump(scrap_yakima(), allow_unicode=True, default_flow_style=False))
+# with codecs.open('viz/data/yakima.yaml', 'w+') as f:
+#     f.write(yaml.dump(scrap_yakima(), allow_unicode=True, default_flow_style=False))

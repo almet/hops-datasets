@@ -13,8 +13,23 @@ admiral:
   myrcene: 39 - 48% of total oil
   name: Admiral
   region: United Kingdom
+  released: 1998
   total_oils: 1 - 1.7 mL/100g
   url: https://ychhops.com/varieties/admiral
+agnus:
+  alpha: 9.0 - 12.0 %
+  beta: 4.0 - 6.5 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: The name Agnus (Latin for lamb) is the Latin translation for the surname
+    of the Czech hop breeder Beránek. The hop variety was released in 2001 and was
+    the first high alpha variety in the assortment of Czech hop varieties.
+  farnesene: Non
+  myrcene: 40.0 - 55.0 %
+  name: Agnus
+  released: 2001
+  region: Czech
+  total_oils: Non
 ahtanum:
   alpha: 3.5 - 6.5%
   aroma: Specific aroma descriptors include citrus grapefruit and geranium.
@@ -68,6 +83,8 @@ aramis:
   humulene: 20.9 - 21.1% of total oil
   myrcene: 39 - 41% of total oil
   name: Aramis
+  parents:
+      - strisselspalt
   region: France
   total_oils: 1.2 - 1.6 mL/100g
   url: https://ychhops.com/varieties/aramis
@@ -91,6 +108,21 @@ aurora:
   region: Slovenia
   total_oils: 0.9 - 1.6 mL/100g
   url: https://ychhops.com/varieties/aurora
+azzaca:
+  alpha: 14 - 16%
+  beta: 4.0 - 5.5%
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'Azacca™ is the lwa or the spirit of the agriculture and the farming
+    practices. The hop formerly known as #483 was released from the American Dwarf
+    Hop Association 2014.'
+  farnesene: Non
+  myrcene: Non
+  name: Azzaca
+  region: American
+  released: 2014
+  total_oils: 1.4 - 2.0
+
 bitter-gold:
   alpha: 12 - 14.5%
   aroma: Specific aroma descriptors include pear, watermelon, stone fruit and fresh
@@ -115,6 +147,21 @@ bitter-gold:
   region: United States
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/bitter-gold
+boadicea:
+  alpha: 8.0 - 9.0%
+  beta: 3.2 - 4.2%
+  caryophyllene: 15 - 19%
+  cohumulone: 23 - 29%
+  description: Boadicea a un arôme anglais typique. C'est une variété naine relativement
+    récente qui a été cultivée et diffusée par le Wye College en 2004. Boadicea a
+    des caractéristiques délicates, légèrement fleuries et épicées avec un arôme aux
+    senteurs herbacées. En bouche, il a un soupçon de notes fleuries qui rappellent
+    un verger en fleur.  Les propriétés amérisantes de Boadicea sont légères et arrondies.
+  farnesene: 4 - 6%
+  myrcene: 30 - 34%
+  name: Boadicea
+  region: England
+  total_oils: 1,3 - 1,5
 bobek:
   alpha: 3.5 - 7%
   aroma: Specific aroma descriptors include intense and pleasant with floral and pine
@@ -146,6 +193,7 @@ bramling-cross:
   myrcene: 35 - 37% of total oil
   name: Bramling Cross
   region: United Kingdom
+  selected: 1927
   total_oils: 0.7 - 1 mL/100g
   url: https://ychhops.com/varieties/bramling-cross
 bravo:
@@ -186,6 +234,20 @@ brewers-gold:
   region: United States
   total_oils: 1.5 - 3 mL/100g
   url: https://ychhops.com/varieties/brewers-gold
+bru-1:
+  alpha: 13.0-15.0%
+  beta: 8.0-10.0%
+  caryophyllene: 7-8%
+  cohumulone: 35-37%
+  description: An experimental variety, BRU-1 was developed through Brulotte Farms
+    in the Yakima Valley in 2016. This hop is one of the new American Aroma varieties,
+    popular for its fruity character and its ability to shine through in a beer.
+  farnesene: <1%
+  myrcene: 50-55%
+  name: Bru-1
+  region: american
+  released: 2016
+  total_oils: 1.5-2.0 ml/100g
 bullion:
   alpha: 8.1 - 8.2%
   aroma: Strong and zesty blackcurrant characteristics
@@ -199,8 +261,11 @@ bullion:
   geraniol: < 1.0% of total oil
   humulene: 9 - 14% of total oil
   myrcene: 0.6 - 0.8% of total oil
+  parents:
+      - brewers-gold
   name: Bullion
   region: United States
+  selected: 1919
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/bullion
 cascade:
@@ -223,6 +288,7 @@ cascade:
       - fuggle
       - serebrianka
   region: United States
+  released: 1971
   total_oils: 0.8 - 2.5 mL/100g
   url: https://ychhops.com/varieties/cascade
 celeia:
@@ -269,6 +335,8 @@ centennial:
       - bavarian
       - unknown
   region: United States
+  released: 1990
+  selected: 1974
   total_oils: 1 - 3 mL/100g
   url: https://ychhops.com/varieties/centennial
 challenger:
@@ -285,7 +353,11 @@ challenger:
   humulene: 25 - 25% of total oil
   myrcene: 30 - 42% of total oil
   name: Challenger
+  parents:
+      - northern-brewer
+      - northdown
   region: United Kingdom
+  selected: 1972
   total_oils: 1 - 1.7 mL/100g
   url: https://ychhops.com/varieties/challenger
 chelan:
@@ -324,6 +396,7 @@ chinook:
       - petham-golding
       - brewers-gold
   region: United States
+  released: 1985
   total_oils: 1 - 2.5 mL/100g
   url: https://ychhops.com/varieties/chinook
 citra:
@@ -434,11 +507,23 @@ crystal:
       - hallertau-mittlefruh
       - cascade
       - brewers-gold
-      - early
+      - early-green
   region: United States
   selected: 1983
   total_oils: 0.8 - 2.3 mL/100g
   url: https://ychhops.com/varieties/crystal
+dana:
+  alpha: 11.0 – 16.0 %
+  beta: 4.8 – 6.0 %
+  caryophyllene: Non
+  cohumulone: Non
+  description: grown in Slovenia and bred from German Hallertau Magnum hops and Slovenian
+    genetic hop material lemon, piney, floral aroma
+  farnesene: Non
+  myrcene: 2.4 – 3.9 ml/100g
+  name: Dana
+  region: slovenian
+  total_oils: 2.4 – 3.9 ml/100g
 dr-rudi:
   alpha: 10 - 12%
   aroma: Specific aroma descriptors include resin, pine, and lemongrass.
@@ -481,6 +566,9 @@ east-kent-golding:
   total_oils: 0.4 - 0.8 mL/100g
   url: https://ychhops.com/varieties/east-kent-golding
 ekuanot:
+  aliases:
+      - equinox
+      - hbc-366
   alpha: 13 - 15.5%
   aroma: Specific descriptors include melon, berry, orange peel, lime, papaya, pine
     and fresh peppers.
@@ -500,7 +588,22 @@ ekuanot:
   released: 2014
   total_oils: 2.5 - 4 mL/100g
   url: https://ychhops.com/varieties/ekuanot-brand-hbc-366-cv
+el-dorado:
+  alpha: 14.0-16.0%
+  beta: 7.0-8.0%
+  caryophyllene: 6-8%
+  cohumulone: 28-33%
+  description: El Dorado is believed to be derived from a neomexicanus subspecies
+    of Humulus Lupulus, primarily providing fruity characteristics such as watermelon
+    and stone fruits.
+  farnesene: < 1%
+  myrcene: 55-60%
+  name: El Dorado
+  region: United States
+  total_oils: 2.5-2.8 ml/100g
 ella:
+  aliases:
+      - stella
   alpha: 13.3 - 16.3%
   aroma: Specific aroma descriptors include distinct grapefruit and tropical flavor.
   beta: 4.8 - 7.8%
@@ -514,8 +617,41 @@ ella:
   myrcene: 40 - 50% of total oil
   name: Ella
   region: Australia
+  released: 2007
+  selected: 2001
   total_oils: 2.4 - 3.4 mL/100g
   url: https://ychhops.com/varieties/ella
+endeavour:
+  alpha: 7.5 – 10.6%
+  beta: 3.8 – 5.3%
+  caryophyllene: Non
+  cohumulone: 30 – 36% of alpha acids
+  description: Endeavour is a newly bred dwarf variety from a cross made in 2002 at
+    Wye Hops in the UK. This variety imparts unique English flavour notes to beer
+    – like citrus, spicy and red fruits. Early tests show it to be resistant to powdery
+    and downy mildews.
+  farnesene: 5 – 8% of total oil
+  myrcene: 27 – 37% of total oil
+  name: Endeavour
+  region: England
+  selected: 2002
+  total_oils: 1.2 – 1.8 ml/100g
+enigma:
+  alpha: 13.5 - 16.5%
+  beta: 4.8 - 6.4%
+  caryophyllene: Non
+  cohumulone: 28.0 – 31.0 % of alpha acids
+  description: Cultivated through our in-house breeding program, Enigma is the newest
+    hop in the hop products Australia  family. Enigma is descendant of the German
+    tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
+    brews.
+  farnesene: <1%
+  myrcene: 2.4 - 3.0 ml/100g
+  name: Enigma Pellet 10kg
+  parents:
+      - tettnang
+  region: Australia
+  total_oils: 2.4 - 3.0 ml/100g
 falconer:
   alpha: 9 - 10.5%
   aroma: Specific aroma descriptors include strong fruit and citrus characteristics
@@ -538,6 +674,13 @@ falconer:
   selected: 2011
   total_oils: 1.7 - 1.7 mL/100g
   url: https://ychhops.com/varieties/falconers-flight-7cs
+fantasia:
+  alpha: 4.3%
+  description: This unique Barth-Haas-Group Hop Composition provides a silky touch
+    of cream and caramel to your beer.
+  name: Fantasia
+  region: german
+  total_oils: 0.9
 first-gold:
   alpha: 5.6 - 9.3%
   aroma: Specific aroma descriptors include smooth, with tangerine, orange marmalade,
@@ -727,10 +870,27 @@ hallertau-blanc:
   humulene: 0 - 3% of total oil
   myrcene: 50 - 75% of total oil
   name: Hallertau Blanc
+  parents:
+      - cascade
   region: Germany
   released: 2012
   total_oils: 1.2 - 1.5 mL/100g
   url: https://ychhops.com/varieties/blanc
+hallertau-hersbrucker:
+  alpha: 1.5 - 4.0%
+  beta: 2.5 - 6.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 17 - 25%
+  description: Une variété allemande traditionnelle de la région productrice de Hersbrucker
+    qui présente un arôme fin et noble, mais fait parfois preuve de très faibles taux
+    d'acides alpha. On le considère comme un successeur de Hallertauer Mittelfrüh.
+  farnesene: <1%
+  myrcene: 15 - 30%
+  name: Hallertau Hersbrucker
+  parents:
+      - hallertau-mittlefruh
+  region: Germany
+  total_oils: 0,5 - 1,0
 hallertau-mittlefruh:
   alpha: 3 - 5.5%
   aroma: Specific aroma descriptors include mild, yet spicy, with floral and citrus
@@ -750,6 +910,71 @@ hallertau-mittlefruh:
   region: Germany
   total_oils: 0.7 - 1.3 mL/100g
   url: https://ychhops.com/varieties/hallertau-mittlefruh
+hallertau-perle:
+  alpha: 4. - 9.0%
+  beta: 2.5 - 4.5%
+  caryophyllene: 10 - 20%
+  cohumulone: 29 - 35%
+  description: Due to
+    the higher than average oil content these varieties are excellent for dry hopping
+    Perle is a particularly popular hop due to the interaction of its well-balanced
+    aromas with its high bitter content. Its remarkable yields and particularly high
+    resistance makes this variety especially attractive to growers. Both in the raw
+    hops and in a cold infusion, vegetal aromas of celeriac and leek form the basis
+    of its aroma profile. In the raw hops this is augmented by spicy notes of pepper,
+    chilli and curry, while in the cold infusion there is a tendency towards green
+    fruits and tea.
+  farnesene: <1%
+  myrcene: 20 - 35
+  name: Hallertau Perle
+  region: Germany
+hallertau-taurus:
+  alpha: 12.0 - 17.0%
+  beta: 4.0 - 6.0%
+  caryophyllene: 6 - 11%
+  cohumulone: 20 - 25%
+  description: Hallertau Taurus is a Huell bred high alpha variety with a very high
+    alpha content and noble, aromatic bitter quality.  Small and very compact cones
+    which allow clean, mechanical picking and easy drying are also a feature of Taurus.
+  farnesene: <1%
+  myrcene: 30 - 50
+  name: Hallertau Taurus
+  region: Germany
+  total_oils: 0.9 - 1.4
+hallertau-tradition:
+  alpha: 4.0 - 7.0%
+  beta: 3.0 - 6.0%
+  caryophyllene: 10 - 15%
+  cohumulone: 24 - 30%
+  description: Due to
+    the higher than average oil content these varieties are excellent for dry-hopping
+    Hallertauer Tradition was bred as a successor to Hallertauer Mittelfrüh and was
+    licensed in 1993. It is comparable to Hallertauer Mittelfrüh and is distinguished
+    by its good yields.  The predominant aromas in the raw hops are those of citrus
+    and lime, accompanied by vegetal notes. In a cold infusion, sweet fruits such
+    as apricots contribute to its fine flavour profile.
+  farnesene: <1%
+  myrcene: 17 - 32
+  parents:
+      - hallertau-mittelfruh
+  name: Finest Harvest Edition - Hallertau Tradition
+  region: Germany
+  released: 1993
+hersbrucker-spat:
+  alpha: 1.5 - 4.0%
+  beta: 2.5 - 6.0%
+  caryophyllene: 8 - 13%
+  cohumulone: 17 - 25%
+  description: Due to
+    the higher than average oil content these varieties are excellent for dry-hopping
+    The Hersbrucker hop, a traditional variety from the growing region of the same
+    name, has strong growth characteristics and a particularly robust nature.  In
+    the raw hops, woody, spicy aromas, such as fir needles and lavender, combine with
+    floral notes of geranium and cool melissa.
+  farnesene: <1%
+  myrcene: 15 - 30
+  name: Finest Harvest Edition - Hersbrucker Spät
+  region: Germany
 hbc-431:
   alpha: 14 - 16%
   aroma: Specific aroma descriptors include peach, berry, tropical fruit, citrus and
@@ -836,6 +1061,8 @@ hbc-682:
   total_oils: 1 - 2 mL/100g
   url: https://ychhops.com/varieties/hbc-682
 helga:
+  aliases:
+      - southern-hallertau
   alpha: 5.4 - 7.3%
   aroma: Specific aroma descriptors include pleasant, noble characteristics.
   beta: 5 - 7%
@@ -870,6 +1097,7 @@ herkules:
   myrcene: 30 - 50% of total oil
   name: Herkules
   region: Germany
+  released: 2006
   total_oils: 1.6 - 2.4 mL/100g
   url: https://ychhops.com/varieties/herkules
 hersbrucker:
@@ -926,8 +1154,15 @@ huell-melon:
   myrcene: 35 - 37% of total oil
   name: Huell Melon
   region: Germany
+  released: 2012
   total_oils: 0.7 - 0.9 mL/100g
   url: https://ychhops.com/varieties/huell-melon
+kazbek:
+  description: Kazbek displays a spicy lemon aroma and was released in 2008. Kazbek
+    is the highest peak within the middle Caucasu mountain range.
+  name: Kazbek
+  region: czech-republic
+  released: 2008
 kohatu:
   alpha: 6 - 7%
   aroma: Specific aroma descriptors include fresh tropical fruit characters and an
@@ -968,6 +1203,7 @@ liberty:
   parents:
       - hallertau-mittlefruh
   region: United States
+  released: 1991
   selected: 1983
   total_oils: 1 - 1.8 mL/100g
   url: https://ychhops.com/varieties/liberty
@@ -1030,6 +1266,7 @@ mandarina-bavaria:
   myrcene: 70 - 72% of total oil
   name: Mandarina Bavaria
   region: Germany
+  released: 2012
   total_oils: 2.1 - 2.3 mL/100g
   url: https://ychhops.com/varieties/mandarina-bavaria
 merkur:
@@ -1073,6 +1310,14 @@ millennium:
   released: 2000
   total_oils: 1.5 - 3 mL/100g
   url: https://ychhops.com/varieties/millennium
+monroe:
+  alpha: 2.5%
+  description: Monroe is mild and smooth, yet bursting with red aromas. Raspberry
+    and orange syrup in the nose, sweet cherry in the taste, this hop adds a hint
+    of summer flavours to a beer.
+  name: Monroe
+  region: Germany
+  total_oils: 0.95 ml/100g
 mosaic:
   aliases:
       - hbc-369
@@ -1118,6 +1363,8 @@ motueka:
   geraniol: 0 - 0% of total oil
   humulene: 3.5 - 3.7% of total oil
   myrcene: 47 - 49% of total oil
+  parents:
+      - saaz
   name: Motueka
   region: New Zealand
   total_oils: 0.7 - 0.9 mL/100g
@@ -1166,6 +1413,7 @@ mt-rainier:
       - fuggle
       - landhopfen
   region: United States
+  released: 2000
   total_oils: 1.5 - 2.5 mL/100g
   url: https://ychhops.com/varieties/mt-rainier
 nelson-sauvin:
@@ -1228,7 +1476,11 @@ northdown:
   humulene: 40 - 45% of total oil
   myrcene: 23 - 29% of total oil
   name: Northdown
+  parents:
+      - challenger
+      - target
   region: United Kingdom
+  selected: 1970
   total_oils: 1.5 - 2.5 mL/100g
   url: https://ychhops.com/varieties/northdown
 northern-brewer:
@@ -1274,6 +1526,8 @@ nugget:
       - canterbury-golding
       - bavarian
   region: United States
+  released: 1984
+  selected: 1970
   total_oils: 1 - 3 mL/100g
   url: https://ychhops.com/varieties/nugget
 opal:
@@ -1616,6 +1870,7 @@ saphir:
   myrcene: 25 - 40% of total oil
   name: Saphir
   region: Germany
+  released: 2002
   total_oils: 0.8 - 1.4 mL/100g
   url: https://ychhops.com/varieties/saphir
 savinjski-golding:
@@ -1693,6 +1948,7 @@ smaragd:
   myrcene: 20 - 40% of total oil
   name: Smaragd
   region: Germany
+  released: 2000
   total_oils: 0.4 - 0.8 mL/100g
   url: https://ychhops.com/varieties/smaragd
 sorachi-ace:
@@ -1751,6 +2007,7 @@ sovereign:
   cohumulone: 26 - 30% of alpha acids
   description: Works well with Goldings and as a single hop.
   name: Sovereign
+  selected: 1995
   region: United Kingdom
   total_oils: 0.6 - 1 mL/100g
   url: https://ychhops.com/varieties/sovereign
@@ -1773,6 +2030,22 @@ spalt:
   region: Germany
   total_oils: 0.5 - 0.9 mL/100g
   url: https://ychhops.com/varieties/spalt
+spalter-select:
+  alpha: 3.0 - 6.5%
+  beta: 2.5 - 5.0%
+  caryophyllene: 4 - 10%
+  cohumulone: 21 - 27%
+  description: Spalter Select is, as the name suggests, a selection from the Spalter regional
+    variety and was developed by the Hüll Hop Research Center.  The flavour profile
+    of the raw hops is defined by woody cognac aromas, complemented with sweet peach
+    and camomile blossom notes. In a cold infusion, this cultivar leans towards citrus
+    and orange peel, with influences of black tea and floral nuances.
+  farnesene: 15 - 22%
+  myrcene: 20 - 40%
+  parents:
+      - hallertau-mittlefruh
+  name: Spalter Select
+  region: Germany
 sterling:
   alpha: 5.5 - 8.5%
   aroma: Specific aroma descriptors include noble and spicy.
@@ -1813,6 +2086,30 @@ strisselspalt:
   region: France
   total_oils: 0.6 - 0.8 mL/100g
   url: https://ychhops.com/varieties/strisselspalt
+styrian-golding-bobek:
+  alpha: 3.5 - 7.8 %
+  beta: 4.0 - 6.1 %
+  description: Bobek, a daughter of Styrian Savinjski Golding, is known for its very
+    good agronomic traits in hop production and processing.
+  myrcene: 49.0 - 57.0 %
+  name: Styrian Golding B, Bobek
+  parents:
+      - styrian-savinjski-goldings
+  region: Slovenia
+  total_oils: 0.7 - 4.0 mL
+styrian-savinjski-goldings:
+  alpha: 4.5 - 6.0%
+  beta: 2.5 - 3.5%
+  caryophyllene: 9 - 11%
+  cohumulone: 25 - 30%
+  description: Styrian Savinjski Golding is a traditional Slovenian variety originating
+    from the English variety Fuggle, which was brought to Slovenia in the early 19th
+    century. This variety is known for its noble hop aroma and pleasant bitterness.
+  farnesene: 2 - 5%
+  myrcene: 27 - 33%
+  name: Styrian Savinjski Goldings
+  region: Slovenia
+  total_oils: 0.5 - 1.0
 summer:
   alpha: 5.6 - 6.4%
   aroma: Specific aroma descriptors include apricot and melon.
@@ -1986,6 +2283,28 @@ tomahawk:
   region: United States
   total_oils: 2.5 - 4.5 mL/100g
   url: https://ychhops.com/varieties/tomahawk-brand-f10-cv
+topaz:
+  alpha: 15.5 - 18.0%
+  beta: 6.0 - 7.0%
+  caryophyllene: 10 - 11%
+  cohumulone: 47 - 50%
+  description: Topaz a été sélectionné à l'origine comme houblon à graines à alpha
+    élevé mais des travaux récents ont démontré son excellent potentiel organoleptique.
+    Topaz propose des notes terreuses au caractère rappelant celui des cultivars anglais
+    traditionnels ainsi que des saveurs de fruits tropicaux et de letchi.
+  farnesene: <1%
+  myrcene: 25 - 43%
+  name: Topaz
+  region: Australia
+  total_oils: 0.8 - 1.7
+toyomidori:
+  alpha: 11.0-13.0%
+  description: A Japanese variety released in 1981 and bred in the UK. With mild fruity
+    flavours, this hop is perfect for bittering.
+  name: Toyomidori
+  region: English
+  released: 1981
+  total_oils: 0.8-1.2 ml/100g
 tradition:
   alpha: 4 - 7%
   aroma: Specific aroma descriptors include medium to intense floral, herbal and grassy
@@ -2083,6 +2402,16 @@ vanguard:
   selected: 1982
   total_oils: 0.5 - 1 mL/100g
   url: https://ychhops.com/varieties/vanguard
+vic-secret-r:
+  description: Lighter and
+    less dominant than Galaxy, yet there is still more than enough character for Vic
+    Secret to embellish the world of beer flavour. The clean, distinct fruit and pine
+    characters of Vic Secret are best accessed by dry hopping or whirlpool additions.
+    Late kettle additions have been found to impart a pleasant earthy character, but
+    little fruit. She has very high levels of alpha acid so brewers may find it easier
+    to craft the right balance in their beer by dry hopping.
+  name: Vic Secret®
+  region: Australia
 wai-iti:
   alpha: 2.5 - 3.5%
   aroma: Specific aroma descriptors include fresh peaches and apricot characteristics;
@@ -2173,6 +2502,18 @@ warrior:
   region: United States
   total_oils: 1 - 2.5 mL/100g
   url: https://ychhops.com/varieties/warrior-brand-ycr-5-cv
+warrior-queen:
+  alpha: 5.19%
+  beta: 2.92%
+  caryophyllene: 17.58%
+  cohumulone: 31.60%
+  description: A bespoke hop blend with a Sensory Profile of Woody Aromatic (Resinous),
+    Spicy (Curry), Dry Sweets Fruits
+  farnesene: 3.59%
+  myrcene: 25%
+  name: Warrior Queen
+  region: English
+  total_oils: 1.20ml/100g
 whitbread-golding:
   alpha: 5.4 - 7.7%
   aroma: Specific aroma descriptors include fresh earthy, botanical, floral and sweet
@@ -2213,6 +2554,11 @@ willamette:
   released: 1976
   total_oils: 0.6 - 1.6 mL/100g
   url: https://ychhops.com/varieties/willamette
+yellow-sub:
+  description: This composition turns a fine and excellent hop aroma into a sweet,
+    fruity flamenco of apricot and orange, with a hint of blackberries,
+  name: Yellow Sub
+  region: Germany
 zeus:
   alpha: 14.5 - 17.5%
   aroma: Specific aroma descriptors include pungent, black pepper, licorice, and curry.
