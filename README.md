@@ -19,8 +19,9 @@ Here are some data-visualisation created from this dataset:
 
 [![/viz/oils/hops-oils-breakout.png?raw=true](/viz/oils/hops-oils-breakout.png?raw=true)](https://almet.github.io/hops-datasets/viz/lineage/)
 
-- [Hop oils concentration breakout](https://almet.github.io/hops-datasets/viz/oils/)
-<img src="/viz/lineage/lineage.png?raw=true"/>
+### Hop oils concentration breakout
+
+[![/viz/lineage/lineage.png?raw=true](/viz/lineage/lineage.png?raw=true)](https://almet.github.io/hops-datasets/viz/oils/)
 
 ## Data units
 
