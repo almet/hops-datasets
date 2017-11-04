@@ -19,12 +19,9 @@ admiral:
 agnus:
   alpha: 9.0 - 12.0 %
   beta: 4.0 - 6.5 %
-  caryophyllene: Non
-  cohumulone: Non
   description: The name Agnus (Latin for lamb) is the Latin translation for the surname
     of the Czech hop breeder Beránek. The hop variety was released in 2001 and was
     the first high alpha variety in the assortment of Czech hop varieties.
-  farnesene: Non
   myrcene: 40.0 - 55.0 %
   name: Agnus
   released: 2001
@@ -112,13 +109,9 @@ aurora:
 azzaca:
   alpha: 14 - 16%
   beta: 4.0 - 5.5%
-  caryophyllene: Non
-  cohumulone: Non
   description: 'Azacca™ is the lwa or the spirit of the agriculture and the farming
     practices. The hop formerly known as #483 was released from the American Dwarf
     Hop Association 2014.'
-  farnesene: Non
-  myrcene: Non
   name: Azzaca
   region: American
   released: 2014
@@ -516,11 +509,8 @@ crystal:
 dana:
   alpha: 11.0 – 16.0 %
   beta: 4.8 – 6.0 %
-  caryophyllene: Non
-  cohumulone: Non
   description: grown in Slovenia and bred from German Hallertau Magnum hops and Slovenian
     genetic hop material lemon, piney, floral aroma
-  farnesene: Non
   myrcene: 2.4 – 3.9
   name: Dana
   region: slovenian
@@ -625,7 +615,6 @@ ella:
 endeavour:
   alpha: 7.5 – 10.6%
   beta: 3.8 – 5.3%
-  caryophyllene: Non
   cohumulone: 30 – 36%
   description: Endeavour is a newly bred dwarf variety from a cross made in 2002 at
     Wye Hops in the UK. This variety imparts unique English flavour notes to beer
@@ -640,7 +629,6 @@ endeavour:
 enigma:
   alpha: 13.5 - 16.5%
   beta: 4.8 - 6.4%
-  caryophyllene: Non
   cohumulone: 28.0 – 31.0 %
   description: Cultivated through our in-house breeding program, Enigma is the newest
     hop in the hop products Australia  family. Enigma is descendant of the German
