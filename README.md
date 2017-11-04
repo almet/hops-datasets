@@ -1,9 +1,14 @@
 # Hops datasets
 
-This repository provides a dataset to help compare hops.
+This repository aims to provide datasets about hop varieties..
 
 It has been extracted from the websites of hops merchants and then enhanced by
 hand.
+
+Some information might not be correct, since the sources are sparse.
+
+If you want to give me a hand on this (propose changes, new sources, update the data) don't hesitate to open an issue, a pull-request, or to contact me at
+`alexis - at - notmyidea - dot - org`. Thanks.
 
 ## Visualisations
 
@@ -36,7 +41,10 @@ Parenthood information has been taken from:
 
 ## Want to run the scrappers yourself?
 
-To make it run, simple run `make install` and the `make generate`. That should
-work. You need to have python installed on your machine.
+The scrappers have proven useful to generate the first version of the dataset,
+but since the data has been enhanced manually since, are quite useless to me.
 
-Enjoy!
+Nevertheless, if you want to make them run, simply run `make install` to
+install the dependencies and then `make generate`.
+
+You need to have python installed on your machine. After these commands have completed, you should have the datasets generated locally. Enjoy!
