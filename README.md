@@ -14,10 +14,12 @@ If you want to give me a hand on this (propose changes, new sources, update the 
 
 Here are some data-visualisation created from this dataset:
 
-- [How hop varieties relate to each other?](https://almet.github.io/hops-datasets/viz/lineage/)
-- [Hop oils concentration breakout](https://almet.github.io/hops-datasets/viz/oils/)
+### How hop varieties relate to each other?
 
-<img src="/viz/oils/hops-oils-breakout.png?raw=true"/>
+
+[![/viz/oils/hops-oils-breakout.png?raw=true](/viz/oils/hops-oils-breakout.png?raw=true)](https://almet.github.io/hops-datasets/viz/lineage/)
+
+- [Hop oils concentration breakout](https://almet.github.io/hops-datasets/viz/oils/)
 <img src="/viz/lineage/lineage.png?raw=true"/>
 
 ## Data units
