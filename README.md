@@ -17,11 +17,11 @@ Here are some data-visualisation created from this dataset:
 ### How hop varieties relate to each other?
 
 
-[![/viz/oils/hops-oils-breakout.png?raw=true](/viz/oils/hops-oils-breakout.png?raw=true)](https://almet.github.io/hops-datasets/viz/lineage/)
+[![/viz/oils/hops-oils-breakout.png?raw=true](/viz/oils/hops-oils-breakout.png?raw=true)](https://almet.github.io/hops-datasets/viz/oils/)
 
 ### Hop oils concentration breakout
 
-[![/viz/lineage/lineage.png?raw=true](/viz/lineage/lineage.png?raw=true)](https://almet.github.io/hops-datasets/viz/oils/)
+[![/viz/lineage/lineage.png?raw=true](/viz/lineage/lineage.png?raw=true)](https://almet.github.io/hops-datasets/viz/lineage/)
 
 ## Data units
 
