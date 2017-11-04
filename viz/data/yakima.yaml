@@ -636,7 +636,7 @@ enigma:
     brews.
   farnesene: <1%
   myrcene: 2.4 - 3.0
-  name: Enigma Pellet 10kg
+  name: Enigma
   parents:
       - tettnang
   region: Australia
