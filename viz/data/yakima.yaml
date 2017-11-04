@@ -17,12 +17,12 @@ admiral:
   total_oils: 1 - 1.7
   url: https://ychhops.com/varieties/admiral
 agnus:
-  alpha: 9.0 - 12.0 %
-  beta: 4.0 - 6.5 %
+  alpha: 9.0 - 12.0%
+  beta: 4.0 - 6.5%
   description: The name Agnus (Latin for lamb) is the Latin translation for the surname
     of the Czech hop breeder Beránek. The hop variety was released in 2001 and was
     the first high alpha variety in the assortment of Czech hop varieties.
-  myrcene: 40.0 - 55.0 %
+  myrcene: 40.0 - 55.0%
   name: Agnus
   released: 2001
   region: Czech
@@ -507,8 +507,8 @@ crystal:
   total_oils: 0.8 - 2.3
   url: https://ychhops.com/varieties/crystal
 dana:
-  alpha: 11.0 – 16.0 %
-  beta: 4.8 – 6.0 %
+  alpha: 11.0 – 16.0%
+  beta: 4.8 – 6.0%
   description: grown in Slovenia and bred from German Hallertau Magnum hops and Slovenian
     genetic hop material lemon, piney, floral aroma
   myrcene: 2.4 – 3.9
@@ -629,7 +629,7 @@ endeavour:
 enigma:
   alpha: 13.5 - 16.5%
   beta: 4.8 - 6.4%
-  cohumulone: 28.0 – 31.0 %
+  cohumulone: 28.0 – 31.0%
   description: Cultivated through our in-house breeding program, Enigma is the newest
     hop in the hop products Australia  family. Enigma is descendant of the German
     tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
@@ -2076,11 +2076,11 @@ strisselspalt:
   total_oils: 0.6 - 0.8
   url: https://ychhops.com/varieties/strisselspalt
 styrian-golding-bobek:
-  alpha: 3.5 - 7.8 %
-  beta: 4.0 - 6.1 %
+  alpha: 3.5 - 7.8%
+  beta: 4.0 - 6.1%
   description: Bobek, a daughter of Styrian Savinjski Golding, is known for its very
     good agronomic traits in hop production and processing.
-  myrcene: 49.0 - 57.0 %
+  myrcene: 49.0 - 57.0%
   name: Styrian Golding B, Bobek
   parents:
       - styrian-savinjski-goldings
