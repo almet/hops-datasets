@@ -62,7 +62,6 @@ d3.request('../data/yakima.yaml', function(req) {
       return v.total_oils !== undefined;
   });
   var oils = ['caryophyllene', 'farnesene', 'myrcene', 'geraniol', 'humulene'];
-  data.sort(function(a, b) { return b.total_oils -  a.total_oils; });
   x.domain(data.map(function(d) { return d.name; }));
   y.domain([0, d3.max(data, function(d) { return d.total_oils; })]);
   z.domain(oils);
