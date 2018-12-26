@@ -17,9 +17,11 @@ agnus:
   beta: 4.0 - 6.5 %
   caryophyllene: Non
   cohumulone: Non
-  description: The name Agnus (Latin for lamb) is the Latin translation for the surname
-    of the Czech hop breeder Beránek. The hop variety was released in 2001 and was
-    the first high alpha variety in the assortment of Czech hop varieties.
+  description: 'The name Agnus (Latin for lamb) is the Latin translation for the surname
+    of the Czech hop breeder Beránek. The hop variety
+
+    was released in 2001 and was the first high alpha variety in the assortment of
+    Czech hop varieties.'
   farnesene: Non
   myrcene: 40.0 - 55.0 %
   name: Agnus
@@ -31,8 +33,8 @@ ahtanum:
   caryophyllene: 9 - 12%
   cohumulone: 30 - 35%
   description: Ahtanum est un cultivar nommé d'après le district où il est cultivé,
-    près de Yakima. Ahtanum a un arôme séducteur avec d'exceptionnelles notes fleuries.  Il
-    est utilisé pour ses propriétés aromatiques et son léger pouvoir amérisant.
+    près de Yakima. Ahtanum a un arôme séducteur avec d'exceptionnelles notes fleuries.
+    Il est utilisé pour ses propriétés aromatiques et son léger pouvoir amérisant.
   farnesene: <1%
   myrcene: 50 - 55
   name: Ahtanum
@@ -52,6 +54,25 @@ amarillo-r:
   name: Amarillo®
   region: american
   total_oils: 1,5 - 1,9
+amarillo-r-bbc-pure-hop-pellet-5kg:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'Amarillo® is an aroma variety of recent origin, introduced by Vigil
+    Gamache Farms Inc. in Washington State. A vartiety charaterised by mid to high
+    alpah and low cohumulone content. Its aroma is similar to Cascade. Tha name Amarillo®
+    is of Spanish orgin and means "yellow".
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: Non
+  myrcene: Non
+  name: Amarillo® BBC Pure Hop Pellet 5Kg
+  region: american
+  total_oils: Non
 aramis:
   alpha: 7.9 - 8.3%
   beta: 3.8 - 4.5%
@@ -67,7 +88,7 @@ aramis:
   name: Aramis
   region: french
   total_oils: 1,2 - 1,6
-azzaca:
+azacca:
   alpha: 14 - 16%
   beta: 4.0 - 5.5%
   caryophyllene: Non
@@ -77,7 +98,7 @@ azzaca:
     Hop Association 2014.'
   farnesene: Non
   myrcene: Non
-  name: Azzaca
+  name: Azacca
   region: american
   total_oils: 1.4 - 2.0
 boadicea:
@@ -89,7 +110,7 @@ boadicea:
     récente qui a été cultivée et diffusée par le Wye College en 2004. Boadicea a
     des caractéristiques délicates, légèrement fleuries et épicées avec un arôme aux
     senteurs herbacées. En bouche, il a un soupçon de notes fleuries qui rappellent
-    un verger en fleur.  Les propriétés amérisantes de Boadicea sont légères et arrondies.
+    un verger en fleur. Les propriétés amérisantes de Boadicea sont légères et arrondies.
   farnesene: 4 - 6%
   myrcene: 30 - 34%
   name: Boadicea
@@ -129,10 +150,13 @@ brewers-gold-de:
   beta: Non
   caryophyllene: Non
   cohumulone: Non
-  description: Prof. E. F. Salmon of Wye College in Kent, England, was responsible
-    for breeding the variety Brewers Gold. This variety is well known all over the
-    world, being planted around the globe on account of its moderate alpha acid content,
-    vigorous growth and high yield.
+  description: 'Prof. E. F. Salmon of Wye College in Kent, England, was responsible
+    for breeding the variety Brewers Gold. This variety is
+
+    well known all over the world, being planted around the globe on account of its
+    moderate alpha acid content, vigorous
+
+    growth and high yield.'
   farnesene: Non
   myrcene: Non
   name: Brewers Gold DE
@@ -170,10 +194,12 @@ bullion:
   beta: 4.5 - 5.5%
   caryophyllene: Non
   cohumulone: Non
-  description: Bullion is a sister seedling from Brewers Gold. In 1919 Bullion raised
+  description: 'Bullion is a sister seedling from Brewers Gold. In 1919 Bullion raised
     as a crossing between a female wild cultivate from Canada and an unknown English
     male. It’s a late variety, which is less biny in the heads than other varieties.
-    On the contrary to the mother, Bullion is immune against the Mosaic virus.
+    On
+
+    the contrary to the mother, Bullion is immune against the Mosaic virus.'
   farnesene: Non
   myrcene: Non
   name: Bullion
@@ -212,19 +238,54 @@ cascade-uk:
   beta: 4.2 - 5.3%
   caryophyllene: Non
   cohumulone: 35 - 42%
-  description: Developed in Oregon, USA from parentage derived from Fuggle and Serebrianker,
+  description: 'Developed in Oregon, USA from parentage derived from Fuggle and Serebrianker,
     it was released in 1971. It is the definitive hop used to produce American Pale
-    Ales. In Britain it was introduced into production in 2002 from virus-free meristem
+    Ales.
+
+
+    In Britain it was introduced into production in 2002 from virus-free meristem
     stocks developed through Wye College and grows successfully as a tall, late-maturing
     hop here. It delivers the same aroma notes as the US version, although is slightly
     less intense. It shows considerable tolerance of powdery and downy mildews although
     susceptible to aphids and very attractive to rabbits in the spring. It may show
-    some tolerance of wilt disease, but production is too limited to confirm this.
+    some tolerance of wilt disease, but production is too limited to confirm this.'
   farnesene: 8 - 9%
   myrcene: 35 - 50%
   name: Cascade UK
   region: english
   total_oils: 0.7 - 1.2
+cascade-us-bbc-pure-hop-pellet-5kg:
+  alpha: 4.5 - 7.0%
+  beta: 4.8 - 7.0%
+  caryophyllene: 3 - 6%
+  cohumulone: 33 - 40%
+  description: 'Cascade was part of the USDA breeding programe in Oregan and released
+    as an aroma variety in 1972. Dark green elongated cones with a distinct medium
+    strength aroma. Cascade is the definitive hop for American craft brews.
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: 3 - 7%
+  myrcene: 45 - 60
+  name: Cascade US BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: 0,7 - 1,4
+cashmere:
+  alpha: 7.7-9.1%
+  beta: 3.3-7.1%
+  caryophyllene: 12-13%
+  cohumulone: 22-24%
+  description: Released in 2013, Cashmere comes from the hops Cascade and Northern
+    Brewer, with higher alpha acids than Cascade. Bursting with citrus fruits such
+    as lemon, lime and melon, this hop is excellent as both an aroma and bittering
+    variety. It also showcases a subtle herbal bouquet.
+  farnesene: <1%
+  myrcene: 39-42%
+  name: Cashmere
+  region: american
+  total_oils: 1.2-1.4
 celeia:
   alpha: 3.0 - 6.0%
   beta: 2.0 - 3.3%
@@ -254,6 +315,25 @@ centennial:
   name: Centennial
   region: american
   total_oils: 1,5 - 2,5
+centennial-bbc-pure-hop-pellet-5kg:
+  alpha: 9.5 - 11.5%
+  beta: 3.4 - 4.5%
+  caryophyllene: 5 - 8%
+  cohumulone: 29 - 30%
+  description: 'Named after the Washington State festival, Centennial is an aroma-type
+    cultivar developed from the USDA hop breeding program at Washington State University
+    in 1974 and released in 1990. Centennial is a well blended aroma hop and is sometimes
+    referred to as Super Cascade.
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: <1%
+  myrcene: 45 - 55
+  name: Centennial BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: 1,5 - 2,5
 challenger:
   alpha: 6.5 - 8.5%
   beta: 4.0 - 4.5%
@@ -268,6 +348,21 @@ challenger:
   myrcene: 30 - 42%
   name: Challenger
   region: english
+  total_oils: 1.0 - 1.5
+challenger-be:
+  alpha: 6.5 - 8.5%
+  beta: 4.0 - 4.5%
+  caryophyllene: 8 - 10%
+  cohumulone: 20 - 25%
+  description: Bred at Wye College, introduced in 1972. Mid-size pale green cones
+    with medium Alpha level and good aromatic potential, tending to fresh verdant
+    character of hedgerow and verges, with floral, pine and grassy notes. Used to
+    good effect for both bittering and late aromas in many classic British Bitters
+    and Pale Ales.
+  farnesene: 1 - 3%
+  myrcene: 30 - 42%
+  name: Challenger BE
+  region: belgian
   total_oils: 1.0 - 1.5
 chinook:
   alpha: 12.0 - 14.0%
@@ -313,6 +408,26 @@ chinook-us:
   name: Chinook US
   region: american
   total_oils: '1.7 - 2.7 '
+chinook-us-bbc-pure-hop-pellet-5kg:
+  alpha: 12.0 - 14.0%
+  beta: 3.0 - 4.0%
+  caryophyllene: 9 - 11%
+  cohumulone: 29 - 35%
+  description: 'Chinook was developed by the USDA breeding program in Washington State
+    and released in 1985 as a high alpha variety. This cultivar takes its name from
+    a Native American tribe indigenous to the region around Washington. The variety
+    grows vigorously in all areas.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: <1%
+  myrcene: 35 - 40
+  name: Chinook US BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: 1,7 - 2,7
 citra:
   alpha: 11.0 - 13.0%
   beta: 3.5 - 4.5%
@@ -320,12 +435,32 @@ citra:
   cohumulone: 22 - 24%
   description: Citra est un nouveau houblon aromatique, connu pour son arôme et son
     goût intenses. Diffusé par le Hop Breeding Company (une joint venture entre John
-    I Haas et le groupe Select Botanicals).  Comme son nom l'indique, son goût peut
+    I Haas et le groupe Select Botanicals). Comme son nom l'indique, son goût peut
     être décrit en termes d'agrumes (citron et citron vert), de pamplemousse et d'autres
     caractéristiques liées aux fruits tropicaux.
   farnesene: <1%
   myrcene: 60 - 65
   name: Citra
+  region: american
+  total_oils: 2,2 - 2,8
+citra-bbc-pure-hop-pellet-5kg:
+  alpha: 11.0 - 13.0%
+  beta: 3.5 - 4.5%
+  caryophyllene: 6 - 8%
+  cohumulone: 22 - 24%
+  description: 'Citra is recently new aroma hop, known for its intense flavour and
+    aroma. Released by the Hop Breeding Compnay (a joint venture between John I Haas
+    and Select Botanicals Group). As the name suggests, its flavour descriptors include
+    citrus (lemon and lime), grapefruit as well as other tropical fruity characters.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: <1%
+  myrcene: 60 - 65
+  name: Citra BBC Pure Hop Pellet 5kg
   region: american
   total_oils: 2,2 - 2,8
 cluster:
@@ -356,17 +491,37 @@ columbus:
   name: Columbus
   region: american
   total_oils: 2,5 - 3,5
+columbus-us-bbc-pure-hop-pellet-5kg:
+  alpha: 15.0 - 17.0%
+  beta: 4.5 - 5.0%
+  caryophyllene: 9 - 11%
+  cohumulone: 28 - 32%
+  description: 'The current Super High Alpha varieties, which in clude the names Columbus,
+    Tomahawk and Zeus (CTZ). The CTZ varieties are currently used extensively for
+    bittering.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: <1%
+  myrcene: 50 - 60%
+  name: Columbus US BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: 2,5 - 3,5
 comet-de:
   alpha: 9.4 - 12.4 %
   beta: 3.0 - 6.1 %
   caryophyllene: Non
   cohumulone: Non
-  description: The hop cultivar Comet was bred as a high alpha variety for the states
-    of Washington and Idaho. Nowadays this hop, which stands out due to its very large
-    cones, is only grown on a small area.
+  description: 'The hop cultivar Comet was bred as a high alpha variety for the states
+    of Washington and Idaho. Nowadays this hop,
+
+    which stands out due to its very large cones, is only grown on a small area.'
   farnesene: Non
   myrcene: Non
-  name: Comet  DE
+  name: Comet DE
   region: german
   total_oils: 1.4 - 3.31 ml/100g
 comet-us:
@@ -374,14 +529,33 @@ comet-us:
   beta: 3.0 - 6.1 %
   caryophyllene: Non
   cohumulone: Non
-  description: The hop cultivar Comet was bred as a high alpha variety for the states
-    of Washington and Idaho. Nowadays this hop, which stands out due to its very large
-    cones, is only grown on a small area.
+  description: 'The hop cultivar Comet was bred as a high alpha variety for the states
+    of Washington and Idaho. Nowadays this hop,
+
+    which stands out due to its very large cones, is only grown on a small area.'
   farnesene: Non
   myrcene: Non
   name: Comet US
   region: american
   total_oils: 1.4 - 3.31 ml
+comet-us-bbc-pure-hop-pellet-5kg:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'The hop cultivar Comet was bred as a high alpha variety for the states
+    of Washington and Idaho. Nowadays this hop, which stands out due to its very large
+    cones, is only grown on a small area.
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: Non
+  myrcene: Non
+  name: Comet US BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: Non
 crystal:
   alpha: 4.0 - 6.0%
   beta: 5.0 - 6.7%
@@ -437,6 +611,25 @@ ekuanot:
   name: Ekuanot
   region: american
   total_oils: 1.6 - 2.4
+ekuanot-bbc-pure-hop-pellet-5kg:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'Ekuanot (Formally Equinox / HBC366) a pronounced aroma profile with
+    citrus, tropical fruit, floral and herbal characteristics. Specific descriptors
+    include lemon, lime, papaya, apple, and green pepper.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: Non
+  myrcene: Non
+  name: Ekuanot BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: Non
 el-dorado:
   alpha: 14.0-16.0%
   beta: 7.0-8.0%
@@ -478,15 +671,18 @@ endeavour:
   name: Endeavour
   region: english
   total_oils: 1.2 – 1.8 ml/100g
-enigma:
+enigma-pellet-10kg:
   alpha: 13.5 - 16.5%
   beta: 4.8 - 6.4%
   caryophyllene: Non
   cohumulone: 28.0 – 31.0 % of alpha acids
-  description: Cultivated through our in-house breeding program, Enigma is the newest
-    hop in the hop products Australia  family. Enigma is descendant of the German
-    tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
-    brews.
+  description: 'Cultivated through our in-house breeding program, Enigma is the newest
+    hop in the hop products Australia family.
+
+    Enigma is descendant of the German tettnang hop. After winning over Aussie brewers
+    with her beguiling ways
+
+    in trial brews.'
   farnesene: <1%
   myrcene: 2.4 - 3.0 ml/100g
   name: Enigma Pellet 10kg
@@ -497,149 +693,30 @@ enigma-pellet-5kg:
   beta: 4.8 - 6.4%
   caryophyllene: Non
   cohumulone: 28.0 – 31.0 % of alpha acids
-  description: Cultivated through our in-house breeding program, Enigma is the newest
-    hop in the hop products Australia  family. Enigma is descendant of the German
-    tettnang hop. After winning over Aussie brewers with her beguiling ways in trial
-    brews.
+  description: 'Cultivated through our in-house breeding program, Enigma is the newest
+    hop in the hop products Australia family.
+
+    Enigma is descendant of the German tettnang hop. After winning over Aussie brewers
+    with her beguiling ways
+
+    in trial brews.'
   farnesene: <1%
   myrcene: 2.4 - 3.0 ml/100g
   name: Enigma Pellet 5kg
   region: australian
   total_oils: 2.4 - 3.0 ml/100g
 fantasia:
-  alpha: 4.3%
+  alpha: '4.3 - 6.5% '
   beta: Non
   caryophyllene: Non
   cohumulone: Non
   description: This unique Barth-Haas-Group Hop Composition provides a silky touch
-    of cream and caramel to your beer.
+    of cream and caramel and stone fruits.
   farnesene: Non
   myrcene: Non
   name: Fantasia
   region: german
-  total_oils: '0.9'
-finest-harvest-edition-hallertau-mittelfruh:
-  alpha: 3.0 - 5.5%
-  beta: 3.0 - 5.0%
-  caryophyllene: Non
-  cohumulone: 18 - 28%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry hopping
-    Hallertauer Mittelfrüh is the original regional variety of Hallertau and, with
-    its delicate aroma and average bitter content, is still very popular today.  The
-    flavour profile of Hallertau Mittelfrüh in its raw state is characterised by spicy,
-    woody aromas such as liquorice and hay with slight notes of blackberries. In a
-    cold infusion, floral tea-like components enhance the overall impression.
-  farnesene: <1%
-  myrcene: 20 - 28
-  name: Finest Harvest Edition - Hallertau Mittelfrüh
-  region: german
-  total_oils: Non
-hallertau-perle:
-  alpha: 4. - 9.0%
-  beta: 2.5 - 4.5%
-  caryophyllene: 10 - 20%
-  cohumulone: 29 - 35%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry hopping
-    Perle is a particularly popular hop due to the interaction of its well-balanced
-    aromas with its high bitter content. Its remarkable yields and particularly high
-    resistance makes this variety especially attractive to growers. Both in the raw
-    hops and in a cold infusion, vegetal aromas of celeriac and leek form the basis
-    of its aroma profile. In the raw hops this is augmented by spicy notes of pepper,
-    chilli and curry, while in the cold infusion there is a tendency towards green
-    fruits and tea.
-  farnesene: <1%
-  myrcene: 20 - 35
-  name: Finest Harvest Edition - Hallertau Perle
-  region: german
-  total_oils: Non
-hallertau-tradition:
-  alpha: 4.0 - 7.0%
-  beta: 3.0 - 6.0%
-  caryophyllene: 10 - 15%
-  cohumulone: 24 - 30%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry-hopping
-    Hallertauer Tradition was bred as a successor to Hallertauer Mittelfrüh and was
-    licensed in 1993. It is comparable to Hallertauer Mittelfrüh and is distinguished
-    by its good yields.  The predominant aromas in the raw hops are those of citrus
-    and lime, accompanied by vegetal notes. In a cold infusion, sweet fruits such
-    as apricots contribute to its fine flavour profile.
-  farnesene: <1%
-  myrcene: 17 - 32
-  name: Finest Harvest Edition - Hallertau Tradition
-  region: german
-  total_oils: Non
-hersbrucker-spat:
-  alpha: 1.5 - 4.0%
-  beta: 2.5 - 6.0%
-  caryophyllene: 8 - 13%
-  cohumulone: 17 - 25%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry-hopping
-    The Hersbrucker hop, a traditional variety from the growing region of the same
-    name, has strong growth characteristics and a particularly robust nature.  In
-    the raw hops, woody, spicy aromas, such as fir needles and lavender, combine with
-    floral notes of geranium and cool melissa.
-  farnesene: <1%
-  myrcene: 15 - 30
-  name: Finest Harvest Edition - Hersbrucker Spät
-  region: german
-  total_oils: Non
-finest-harvest-edition-saaz:
-  alpha: 2.9%
-  beta: 4.5 - 8.0%
-  caryophyllene: 10 - 12%
-  cohumulone: 23 - 26%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry hopping
-    The Saazer hop originates from the Czech growing region of the same name. The
-    success of this traditional regional variety lies in its particularly mild hoppy
-    note. The aromas in the raw hops are predominantly spicy and woody, such as tarragon,
-    lavender, cedarwood and smoked bacon. In a cold infusion, floral and sweet components
-    such as elderberry, rose/camomile, cream-caramel nuances of honey Round off the
-    flavour profile.
-  farnesene: 14 - 20%
-  myrcene: 25 - 40
-  name: Finest Harvest Edition - Saaz
-  region: czech-republic
-  total_oils: '0.4'
-finest-harvest-edition-spalter-select:
-  alpha: 3.0 - 6.5%
-  beta: 2.5 - 5.0%
-  caryophyllene: 4 - 10%
-  cohumulone: 21 - 27%
-  description: The Barth-Haas Group and Simply Hops would like to introduce the "Finest
-    Harvest Edition" range of varieties. • Highest quality batches have been selected
-    with above average oil content • First in line processing to preserve exceptional
-    quality • Typical of the varieties signatures flavour and aroma impact • Due to
-    the higher than average oil content these varieties are excellent for dry hopping.
-    Spalter Select is, as the name suggests, a selection from the Spalter regional
-    variety and was developed by the Hüll Hop Research Center.  The flavour profile
-    of the raw hops is defined by woody cognac aromas, complemented with sweet peach
-    and camomile blossom notes. In a cold infusion, this cultivar leans towards citrus
-    and orange peel, with influences of black tea and floral nuances.
-  farnesene: 15 - 22%
-  myrcene: 20 - 40%
-  name: Finest Harvest Edition - Spalter Select
-  region: german
-  total_oils: Non
+  total_oils: '0.9ml/100g '
 first-gold:
   alpha: 5.6 - 8.7%
   beta: 2.3 - 4.1%
@@ -678,7 +755,7 @@ galaxy:
   caryophyllene: 32 - 38%
   cohumulone: 32 - 38%
   description: Galaxy® est rapidement devenu le houblon australien au goût le plus
-    reconnu internationalement.  Il contribue à un caractère impressionnant et distinctif
+    reconnu internationalement. Il contribue à un caractère impressionnant et distinctif
     d'agrumes et de fruits de la passion. Développé et cultivé exclusivement en Australie,
     Galaxy est un cultivar asperme et à la maturité tardive.
   farnesene: 3 - 4%
@@ -699,6 +776,22 @@ german-cascade:
   name: German Cascade
   region: german
   total_oils: 0.7 - 1.4
+golding-s-be:
+  alpha: 4.0 - 6.0%
+  beta: 2.0 - 3.0%
+  caryophyllene: Non
+  cohumulone: Non
+  description: Classic British aroma hop, background as per East Kent Goldings but
+    grown in Hereford & Worcester. Gently fragrant and floral with zesty lemon, orange
+    & grapefruit character. Often used for dry hopping, imparting floral and citrus
+    top-notes. Good combination with Fuggles in Bitters & Pale Ales. Excellent for
+    ESB’s and fruity Belgian Blond and Tripel styles, Saison, Kölsch and lighter Lagers
+    too.
+  farnesene: Non
+  myrcene: Non
+  name: Golding's BE
+  region: belgian
+  total_oils: Non
 goldings:
   alpha: 4.0 - 6.0%
   beta: 2.0 - 3.0%
@@ -765,7 +858,7 @@ hallertau-taurus:
   caryophyllene: 6 - 11%
   cohumulone: 20 - 25%
   description: Hallertau Taurus is a Huell bred high alpha variety with a very high
-    alpha content and noble, aromatic bitter quality.  Small and very compact cones
+    alpha content and noble, aromatic bitter quality. Small and very compact cones
     which allow clean, mechanical picking and easy drying are also a feature of Taurus.
   farnesene: <1%
   myrcene: 30 - 50
@@ -780,8 +873,8 @@ hallertau-tradition:
   description: Tradition est fille de Mittelfrüh et a été créée à Huell. Cette variété
     est notoire pour la finesse de son arôme et de son amertume. Tradition est caractérisé
     par ses bons et réguliers rendements, même dans les mauvaises années et il est
-    particulièrement résistant au flétrissement et au  mildiou. Il est comparable
-    à Hallertauer Mittelfrüh et se distingue par son excellent rendement.
+    particulièrement résistant au flétrissement et au mildiou. Il est comparable à
+    Hallertauer Mittelfrüh et se distingue par son excellent rendement.
   farnesene: <1%
   myrcene: 17 - 32%
   name: Hallertau Tradition
@@ -813,18 +906,6 @@ hbc-472:
   name: HBC 472
   region: american
   total_oils: 1.5-2.5 ml/100g
-hbc-682:
-  alpha: 18.0-21.0%
-  beta: 4.5-5.5%
-  caryophyllene: 4.5-5.5%
-  cohumulone: 30-32% of alpha acids
-  description: HBC 682 is an earthy hop used for bittering. It adds a very neutral
-    flavour to beer and pleasant bitterness.
-  farnesene: Non
-  myrcene: 48-52%
-  name: HBC 682
-  region: american
-  total_oils: 1.0-2.0 ml/100g
 helga:
   alpha: 4.9 - 6.3%
   beta: 3.8 - 5.4%
@@ -854,13 +935,29 @@ herkules:
   name: Herkules
   region: german
   total_oils: 1,6 - 2,4
+hpa-experimental-035:
+  alpha: 6.7%
+  beta: 6.3%
+  caryophyllene: Non
+  cohumulone: '20'
+  description: 'HPA-035 is the latest outcome from our in-house breeding program.
+
+
+    With orange and white peach fruit characters along with dry spice, similar to
+    white pepper, this hop is perfect for Hazy pales or NEIPA as a whirlpool addition
+    or dry hop .'
+  farnesene: Non
+  myrcene: Non
+  name: HPA Experimental 035
+  region: australian
+  total_oils: '1.1'
 hull-melon:
   alpha: 6.9 - 7.5%
   beta: 7.3 - 7.9%
   caryophyllene: 5 - 10%
   cohumulone: 25 - 30%
-  description: Il s'agit d'une nouvelle variété aux arômes de melon et de fraise.  La
-    variété a été créée au Hop Research Institute Hüll et a été diffusée en 2012.
+  description: Il s'agit d'une nouvelle variété aux arômes de melon et de fraise.
+    La variété a été créée au Hop Research Institute Hüll et a été diffusée en 2012.
     Hüll Melon a été créé en réponse aux attentes de la brasserie artisanale qui souhaitait
     des saveurs et goûts audacieux et différents.
   farnesene: <1%
@@ -869,14 +966,14 @@ hull-melon:
   region: german
   total_oils: 0,8
 kazbek:
-  alpha: Non
-  beta: Non
+  alpha: 5-8%
+  beta: 4-6%
   caryophyllene: Non
   cohumulone: Non
   description: Kazbek displays a spicy lemon aroma and was released in 2008. Kazbek
     is the highest peak within the middle Caucasu mountain range.
-  farnesene: Non
-  myrcene: Non
+  farnesene: ' 1%'
+  myrcene: 40-55%
   name: Kazbek
   region: czech-republic
   total_oils: Non
@@ -925,23 +1022,43 @@ mandarina-bavaria:
   caryophyllene: 1 - 5%
   cohumulone: 31 - 35%
   description: Une variété fruitée très agréable avec des accents caractéristiques
-    de mandarines et d'agrumes.  La variété a été créée au Hop Research Institute
-    Hüll et a été diffusée en 2012. Diffusée en 2012 Hallertau Blanc a été créé et
-    planté en réponse aux attentes de la brasserie artisanale qui souhaitait des saveurs
+    de mandarines et d'agrumes. La variété a été créée au Hop Research Institute Hüll
+    et a été diffusée en 2012. Diffusée en 2012 Hallertau Blanc a été créé et planté
+    en réponse aux attentes de la brasserie artisanale qui souhaitait des saveurs
     et goûts audacieux et différents.
   farnesene: <1%
   myrcene: 71%
   name: Mandarina Bavaria
   region: german
   total_oils: 2,2
+mandarina-bavaria-bbc-pure-hop-pellet-5kg:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'A very pleasant fruity variety with distinctive tangerine and citrus
+    notes. The variety was bred at the Hop Research Institute Hull and released in
+    2012. Mandarina Bavaria was bred in response to the craft beer industrys demand
+    for bold tastes and differentiating flavours.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: Non
+  myrcene: Non
+  name: Mandarina Bavaria BBC Pure Hop Pellet 5Kg
+  region: german
+  total_oils: Non
 monroe:
   alpha: 2.5%
   beta: Non
   caryophyllene: Non
   cohumulone: Non
-  description: Monroe is mild and smooth, yet bursting with red aromas. Raspberry
-    and orange syrup in the nose, sweet cherry in the taste, this hop adds a hint
-    of summer flavours to a beer.
+  description: Simply Hops Exclusive, Monroe is mild and smooth, yet bursting with
+    red aromas. Raspberry and orange syrup in the nose, sweet cherry in the taste,
+    this hop adds a hint of summer flavours to a beer.
   farnesene: Non
   myrcene: Non
   name: Monroe
@@ -953,7 +1070,7 @@ mosaic:
   caryophyllene: 5 - 8%
   cohumulone: 24 - 26%
   description: Diffusée en 2012, Mosaic est une variété aromatique de houblon développée
-    par la Hop Breeding Company LLC.  Mosaic est un mariage unique de caractéristiques
+    par la Hop Breeding Company LLC. Mosaic est un mariage unique de caractéristiques
     fleuries, tropicales, fruitées et terreuses qui se révèlent très avantageusement
     dans plusieurs styles bière.
   farnesene: 0.0%
@@ -961,20 +1078,26 @@ mosaic:
   name: Mosaic
   region: american
   total_oils: 1,0 - 1,5
-moteuka:
-  alpha: 6.5 - 7.5 %
-  beta: 5.0 - 5.5%
-  caryophyllene: ~ 2%
-  cohumulone: ~29.0%
-  description: A triploid aroma type developed by New Zealand’s HortResearch.  This
-    hop was bred by crossing a New Zealand breeding selection (2/3) with Saazer parentage
-    (1/3).   First impressions are a very lively and lifted lemon and lime followed
-    by a background of tropical fruit.
-  farnesene: ~12.2%
-  myrcene: '47.7'
-  name: Moteuka
-  region: new-zealand
-  total_oils: '0.8'
+mosaic-bbc-pure-hop-pellet-5kg:
+  alpha: Non
+  beta: Non
+  caryophyllene: Non
+  cohumulone: Non
+  description: 'Released in 2012, Mosaic is an aroma hop variety developed by Hop
+    Breeding Company LLC. Mosaic offers a unique and complex blend of floral, tropical,
+    fruity and earthy characteristics that translate very favourably into several
+    styles of beer.
+
+
+
+    The BBC Pure Hop Pellet™ is produced using a finer, more uniform grind than standard
+    Type 90 pellets. A sub-zero process – milling and sieving takes place at approx.
+    -35°C (-31 °F) – prevents hop resins and essential oils from oxidation.'
+  farnesene: Non
+  myrcene: Non
+  name: Mosaic BBC Pure Hop Pellet 5kg
+  region: american
+  total_oils: Non
 mount-hood:
   alpha: 4.0 - 7.0%
   beta: 5.0 - 8.0%
@@ -999,21 +1122,6 @@ mount-rainier:
   name: Mount Rainier
   region: american
   total_oils: 0.2 - 0.5 mL / 100g
-nelson-sauvin:
-  alpha: ' 12 - 13 % '
-  beta: 6 – 8 %
-  caryophyllene: 8%
-  cohumulone: 24 % of Alpha Acids
-  description: A triploid variety bred from New Zealand variety “Smoothcone” and a
-    selected New Zealand male. Developed at New Zealand HortResearch and released
-    in 2000.  The essential oil profile displays “fresh crushed gooseberries” a descriptor
-    often used for the grape variety Sauvignon Blanc, giving  rise to this variety’s
-    name.
-  farnesene: ' 0.4 % '
-  myrcene: ' 22.2 % '
-  name: Nelson Sauvin
-  region: new-zealand
-  total_oils: 1,2 - 1,6
 northdown:
   alpha: 7,5 - 9,5%
   beta: 5,0 - 5,5%
@@ -1033,8 +1141,8 @@ northern-brewer:
   beta: 3.0 - 5.0%
   caryophyllene: 10 - 20%
   cohumulone: Non
-  description: Bred in England, this variety has a high alpha content.  It is one
-    of the main varieties in the Hallertau region, where it developed good aroma qualities
+  description: Bred in England, this variety has a high alpha content. It is one of
+    the main varieties in the Hallertau region, where it developed good aroma qualities
     by adapting to climate and soil. Northern Brewer is wilt resistant.
   farnesene: <1%
   myrcene: 25 - 45
@@ -1048,7 +1156,7 @@ nugget:
   cohumulone: 22 - 30%
   description: Nugget est une variété à l'alpha élevé qui a été initialement développée
     par le programme de l'USDA à l'Oregon State University à partir d'un croisement
-    réalisé en 1970 et enregistré beaucoup plus tard en 1984.  Nugget est également
+    réalisé en 1970 et enregistré beaucoup plus tard en 1984. Nugget est également
     cultivé dans le Hallertau allemand, où il y montre une teneur en alpha peu plus
     basse.
   farnesene: <1%
@@ -1135,9 +1243,11 @@ organic-perle:
   beta: 2,5 - 4,5%
   caryophyllene: 10 - 20%
   cohumulone: 29 - 35%
-  description: Perle is a particularly popular hop due to the interaction of its well-balanced
-    aromas with its high bitter content. Its remarkable yields and particularly high
-    resistance to diseases make this variety especially attractive to growers.
+  description: 'Perle is a particularly popular hop due to the interaction of its
+    well-balanced aromas with its high bitter content. Its
+
+    remarkable yields and particularly high resistance to diseases make this variety
+    especially attractive to growers.'
   farnesene: <1%
   myrcene: 20 - 35%
   name: Organic Perle
@@ -1155,27 +1265,23 @@ organic-pilgrim:
   farnesene: 0.3%
   myrcene: 30%
   name: Organic Pilgrim
-  region: belgian
+  region: english
   total_oils: 1,2 - 2,4
-pacific-gem:
-  alpha: 13 - 15 %
-  beta: 7 - 9 %
-  caryophyllene: 11.0 %
-  cohumulone: 37 - 40 % of Alpha Acids
-  description: Does not carry the punchy aromas usually associated with higher Alpha
-    hops. Pacific Gem contains a good balance of oils which constantly contributes
-    to its aroma score. A very pleasing hop with useful bittering potential with Alpha
-    Acids at 13 % and above Pacific Gem fills the brew house with enticing aromas
-    during kettle addition and has been described as producing oaken flavours with
-    a distinct blackberry aroma. Typically used as a first hop addition and makes
-    its presence felt through an excellent tempered bitterness and flavour. Well suited
-    to a wide range of beer styles and lends itself well to European Lager styles
-    of various bitterness levels. “A master of consistency”
-  farnesene: 0.3 %
-  myrcene: 33.3 %
-  name: Pacific Gem
-  region: new-zealand
-  total_oils: 1.2 mls oil per 100 gram cone weight
+pahto:
+  alpha: 18.0-21.0%
+  beta: 4.5-5.5%
+  caryophyllene: 4.5-5.5%
+  cohumulone: 30-32% of alpha acids
+  description: Pahto™ brand HBC 682 is the first high-alpha bittering hop released
+    by the Hop Breeding Company. Pahto delivers a smooth bittering profile with mild,
+    pleasant aromatics. The aroma profile of the hop cone is described as herbal,
+    earthy, and floral. When used as a bittering hop, Pahto provides a very neutral
+    flavor and a pleasant bitterness to beer.
+  farnesene: Non
+  myrcene: 48-52%
+  name: Pahto
+  region: american
+  total_oils: 1.0-2.0 ml/100g
 palisade:
   alpha: 5.5 - 9.5%
   beta: 6.0 - 8.0%
@@ -1266,8 +1372,16 @@ relax:
   beta: 13.2%
   caryophyllene: Non
   cohumulone: Non
-  description: Relax is a hop Variety that originally wasn`t bred for beer but instead
-    for tee
+  description: 'A Simply Hops exclusive variety. Relax is a hop Variety that originally
+    wasn`t bred for beer but instead for tea. Its Extremely low Alpha Acid makes it
+    perfect for late and dry hop additions
+
+
+    Because of its high oil content, a broad range of different flavours can be expected.
+    This could be verified by a simple rub and sniff: from cornflower and the aroma
+    of alpine meadows to lemongrass and hibiscus, this variety shows a refreshing
+    profile. When a cold extraction with this variety is completed, notes of honeydew
+    melon are present.'
   farnesene: Non
   myrcene: Non
   name: Relax
@@ -1278,15 +1392,32 @@ saaz:
   beta: 4.0 - 7.0%
   caryophyllene: 9 - 14%
   cohumulone: 12 - 17%
-  description: Saaz originates from the Czech growing region of the same name. The
-    success of this old, traditional regional variety lies in its particularly mild
-    hoppy note. The aromas in the raw hops are predominantly spicy, woody ones, such
-    as tarragon, lavender, cedarwood and smoked bacon.
+  description: 'Saaz originates from the Czech growing region of the same name. The
+    success of this old, traditional regional variety
+
+    lies in its particularly mild hoppy note. The aromas in the raw hops are predominantly
+    spicy, woody ones, such as
+
+    tarragon, lavender, cedarwood and smoked bacon.'
   farnesene: <1%
   myrcene: 25 - 40%
   name: Saaz
-  region: german
+  region: czech-republic
   total_oils: 0,8 - 1,4
+sabro:
+  alpha: 12.0-16.0%
+  beta: 4-7%
+  caryophyllene: 11-13%
+  cohumulone: 20-24% of alpha acids
+  description: Sister to the well-known experimental HBC 472, Sabro exhibits many
+    of the same characteristics, such as the coconut aroma. It imparts a strong and
+    complex fruit flavour to beer, and has been described as having a mango, grapefruit,
+    lemon grass and wood aroma, as well as the unique coconut.
+  farnesene: <1%
+  myrcene: 55-65%
+  name: Sabro
+  region: american
+  total_oils: 2.5-3.0
 saphir:
   alpha: 2.0 - 4.5%
   beta: 4.0 - 7.0%
@@ -1305,9 +1436,10 @@ simcoe:
   beta: 4.0 - 5.0%
   caryophyllene: 5 - 8%
   cohumulone: 15 - 20%
-  description: Simcoe® is a multi-purpose hop bred by Yakima Chief Ranches. It not
-    only has a very special aroma but also a high alpha content. It was released for
-    planting in the year 2000.
+  description: 'Simcoe® is a multi-purpose hop bred by Yakima Chief Ranches. It not
+    only has a very special aroma but also a high alpha
+
+    content. It was released for planting in the year 2000.'
   farnesene: <1%
   myrcene: 60 - 65%
   name: Simcoe
@@ -1320,7 +1452,7 @@ simcoe-r:
   cohumulone: 15 - 20%
   description: Simcoe® est un houblon à double usage cultivé à Yakima, Washington;
     diffusé et enregistré en 2000. Il a un arôme caractéristique de pin avec des accents
-    d'agrumes et un alpha élevé.  Cette variété a beaucoup de succès auprès des brasseurs
+    d'agrumes et un alpha élevé. Cette variété a beaucoup de succès auprès des brasseurs
     artisanaux américains.
   farnesene: <1%
   myrcene: 60 - 65%
@@ -1383,16 +1515,28 @@ spalter-select:
   name: Spalter Select
   region: german
   total_oils: 0,5 - 0,9
+sterling:
+  alpha: '6.0 - 9.0 % '
+  beta: 4.0 - 6.0%
+  caryophyllene: 5 - 7%
+  cohumulone: 22 - 28%
+  description: Sterling is an aroma cultivar released in 1998, bred to overcome Saaz's
+    vulnerability to mildew.
+  farnesene: 11 - 17%
+  myrcene: 44 - 48 %
+  name: Sterling
+  region: american
+  total_oils: '1.3-1.9ml/100g '
 strisselspalt:
   alpha: 1.8 - 2.5%
   beta: 3.0 - 6.0%
   caryophyllene: 8 - 10%
   cohumulone: 22 - 25%
   description: The highly valued Strisselspalt is one of the best known hop varieties
-    from the Alsace and comes from the region of Strasbourg.  Its name is derived
-    from the words Strissel and Spalt, meaning bouquet and quality. It has a very
-    fine, soft and balanced aroma with citrus, fruity, spicy and floral notes.  It
-    is an ideal variety for late hopping.
+    from the Alsace and comes from the region of Strasbourg. Its name is derived from
+    the words Strissel and Spalt, meaning bouquet and quality. It has a very fine,
+    soft and balanced aroma with citrus, fruity, spicy and floral notes. It is an
+    ideal variety for late hopping.
   farnesene: <1%
   myrcene: 35 - 52%
   name: Strisselspalt
@@ -1403,8 +1547,10 @@ styrian-golding-b-bobek:
   beta: 4.0 - 6.1 %
   caryophyllene: Non
   cohumulone: Non
-  description: Bobek, a daughter of Styrian Savinjski Golding, is known for its very
-    good agronomic traits in hop production and processing.
+  description: 'Bobek, a daughter of Styrian Savinjski Golding, is known for its very
+    good agronomic traits in hop production and
+
+    processing.'
   farnesene: Non
   myrcene: 49.0 - 57.0 %
   name: Styrian Golding B, Bobek
@@ -1451,7 +1597,7 @@ summit:
   region: american
   total_oils: 1,5 - 2,5
 t-n-t:
-  alpha: Non
+  alpha: 12 - 13%
   beta: Non
   caryophyllene: Non
   cohumulone: Non
@@ -1461,7 +1607,7 @@ t-n-t:
   myrcene: Non
   name: T 'n' T
   region: german
-  total_oils: Non
+  total_oils: '1.3 - 1.5ml/100g '
 target:
   alpha: 9.5 - 12.5%
   beta: 4.3 - 5.7%
@@ -1482,10 +1628,13 @@ tettnanger:
   beta: 3.0 - 5.0%
   caryophyllene: 6 - 11%
   cohumulone: 22 - 28%
-  description: Tettnanger is a traditional domestic cultivar belonging to the Saaz
-    family and is grown exclusively around Tettnang near Lake Constance. In this region,
-    the unique combination of favourable climate and loamy soil provide for a very
-    fine aroma. The Tettnang hop displays good resistance to all plant diseases.
+  description: 'Tettnanger is a traditional domestic cultivar belonging to the Saaz
+    family and is grown exclusively around Tettnang
+
+    near Lake Constance. In this region, the unique combination of favourable climate
+    and loamy soil provide for a very
+
+    fine aroma. The Tettnang hop displays good resistance to all plant diseases.'
   farnesene: 16 - 24%
   myrcene: 20 - 35%
   name: Tettnanger
@@ -1550,8 +1699,10 @@ vanguard:
   beta: 6.0 - 7.0 %
   caryophyllene: 12 - 14 % of Total Oil
   cohumulone: 14 - 16 % of Alpha Acids
-  description: Vanguard Was Developed From a Diploid Seeing From Hallertau Mittelfrueh
-    and Both USDA Male and Female Crosses The Variety Was Released in 1997
+  description: 'Vanguard Was Developed From a Diploid Seeing From Hallertau Mittelfrueh
+    and Both USDA Male and Female Crosses
+
+    The Variety Was Released in 1997'
   farnesene: 1% of Total Oil
   myrcene: 20 25 % of Total Oil
   name: Vanguard
@@ -1599,6 +1750,20 @@ warrior-queen:
   name: Warrior Queen
   region: english
   total_oils: 1.20ml/100g
+wgv:
+  alpha: 5.4 - 7.7%
+  beta: 2.0 - 3.3%
+  caryophyllene: 13%
+  cohumulone: 32 - 43%
+  description: Élevé en 1911 sur des terres appartenant à Whitbread. Pas un véritable
+    Golding, mais des arômes similaires. De petits cônes panachés vert pâles créent
+    des arômes frais, fleuris, de primevère et de sève végétale, légèrement plus suave
+    que Goldings.
+  farnesene: 2.1%
+  myrcene: 27%
+  name: WGV
+  region: english
+  total_oils: 0,8 - 1,2
 willamette:
   alpha: 4.0 - 6.0%
   beta: 3.5 - 4.5%
@@ -1613,17 +1778,18 @@ willamette:
   region: american
   total_oils: 1,0 - 1,5
 yellow-sub:
-  alpha: Non
+  alpha: '6.0 - 7.5% '
   beta: Non
   caryophyllene: Non
   cohumulone: Non
-  description: This composition turns a fine and excellent hop aroma into a sweet,
-    fruity flamenco of apricot and orange, with a hint of blackberries,
+  description: Simply Hops Exclusive Variety, from a series of innovative creative
+    products. This particular composition turns a fine and excellent hop aroma into
+    a sweet, fruity flamenco of apricot and orange, with a hint of blackberries,
   farnesene: Non
   myrcene: Non
   name: Yellow Sub
   region: german
-  total_oils: Non
+  total_oils: '1.0-1.5ml/100g '
 zeus:
   alpha: 15.0 - 17.0%
   beta: 4.5 - 5.0%
