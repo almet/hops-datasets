@@ -36,7 +36,10 @@ function parseOil(variety, name) {
         if (variety[name].startsWith('<')) {
             variety[name] = variety[name].slice(1, variety[name].length)
         }
-        var parts = Array.map(variety[name].split('-'), String.trim);
+
+        var parts = (variety[name].split('-')).map((s) => String.prototype.trim.apply(s));
+        console.log(parts);
+        //.map(String.prototype.trim);
         var oilPercentage = parseFloat(parts[parts.length - 1]);
         return (oilPercentage / 100) * variety.total_oils;
     }

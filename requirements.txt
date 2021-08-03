@@ -1,3 +1,5 @@
 pyquery
 PyYAML
 python-slugify
+pdfquery
+six
