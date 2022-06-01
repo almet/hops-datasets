@@ -47,10 +47,13 @@ Parenthood information has been taken from:
 
 ## Want to run the scrappers yourself?
 
-The scrappers have proven useful to generate the first version of the dataset,
-but since the data has been enhanced manually since, are quite useless to me.
+This is experimental, and not maintained, the scrappers might be useful if you
+know what you're doing, but they're reading information from websites and PDF
+files, which are changing over time, so if you're reading this some years after
+it's been written, you have high chances that the scrappers aren't up-to-date
+anymore.
 
-Nevertheless, if you want to make them run, simply run `make install` to
-install the dependencies and then `make generate`.
+They are still useful in some way, especially if you want to add some more
+scrapping sources or update them. Byt consider their presence as informative only.
 
-You need to have python installed on your machine. After these commands have completed, you should have the datasets generated locally. Enjoy!
+The main interest of this repo is the resulting graphs.
